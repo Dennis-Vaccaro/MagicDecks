@@ -1,0 +1,67 @@
+<deck version="0.8">
+	<meta>
+		<game>magic</game>
+	</meta>
+	<superzone name="Deck">
+		<card><name id="82">Sun Titan</name><set>c15</set></card>
+		<card><name id="82">Sun Titan</name><set>c15</set></card>
+		<card><name id="82">Sun Titan</name><set>c15</set></card>
+		<card><name id="82">Sun Titan</name><set>c15</set></card>
+		<card><name id="34">Soul Warden</name><set>2010</set></card>
+		<card><name id="34">Soul Warden</name><set>2010</set></card>
+		<card><name id="34">Soul Warden</name><set>2010</set></card>
+		<card><name id="34">Soul Warden</name><set>2010</set></card>
+		<card><name id="44">Soul&apos;s Attendant</name><set>roe</set></card>
+		<card><name id="44">Soul&apos;s Attendant</name><set>roe</set></card>
+		<card><name id="44">Soul&apos;s Attendant</name><set>roe</set></card>
+		<card><name id="44">Soul&apos;s Attendant</name><set>roe</set></card>
+		<card><name id="2">Ajani&apos;s Pridemate</name><set>m15</set></card>
+		<card><name id="2">Ajani&apos;s Pridemate</name><set>m15</set></card>
+		<card><name id="2">Ajani&apos;s Pridemate</name><set>m15</set></card>
+		<card><name id="2">Ajani&apos;s Pridemate</name><set>m15</set></card>
+		<card><name id="21">Ranger of Eos</name><set>soa</set></card>
+		<card><name id="21">Ranger of Eos</name><set>soa</set></card>
+		<card><name id="21">Ranger of Eos</name><set>soa</set></card>
+		<card><name id="21">Ranger of Eos</name><set>soa</set></card>
+		<card><name id="temp16">Elesh Norn, Grand Cenobite</name><set>mm2</set></card>
+		<card><name id="temp16">Elesh Norn, Grand Cenobite</name><set>mm2</set></card>
+		<card><name id="4">Alliance of Arms</name><set>commander</set></card>
+		<card><name id="4">Alliance of Arms</name><set>commander</set></card>
+		<card><name id="4">Alliance of Arms</name><set>commander</set></card>
+		<card><name id="4">Alliance of Arms</name><set>commander</set></card>
+		<card><name id="9">Elspeth, Sun&apos;s Champion</name><set>theros</set></card>
+		<card><name id="9">Elspeth, Sun&apos;s Champion</name><set>theros</set></card>
+		<card><name id="12">Declaration in Stone</name><set>soi</set></card>
+		<card><name id="12">Declaration in Stone</name><set>soi</set></card>
+		<card><name id="12">Declaration in Stone</name><set>soi</set></card>
+		<card><name id="12">Declaration in Stone</name><set>soi</set></card>
+		<card><name id="3">Auriok Champion</name><set>fd</set></card>
+		<card><name id="3">Auriok Champion</name><set>fd</set></card>
+		<card><name id="3">Auriok Champion</name><set>fd</set></card>
+		<card><name id="3">Auriok Champion</name><set>fd</set></card>
+		<card><name id="84">Plains</name><set>unglued</set></card>
+		<card><name id="84">Plains</name><set>unglued</set></card>
+		<card><name id="84">Plains</name><set>unglued</set></card>
+		<card><name id="84">Plains</name><set>unglued</set></card>
+		<card><name id="84">Plains</name><set>unglued</set></card>
+		<card><name id="84">Plains</name><set>unglued</set></card>
+		<card><name id="84">Plains</name><set>unglued</set></card>
+		<card><name id="84">Plains</name><set>unglued</set></card>
+		<card><name id="84">Plains</name><set>unglued</set></card>
+		<card><name id="84">Plains</name><set>unglued</set></card>
+		<card><name id="84">Plains</name><set>unglued</set></card>
+		<card><name id="84">Plains</name><set>unglued</set></card>
+		<card><name id="84">Plains</name><set>unglued</set></card>
+		<card><name id="84">Plains</name><set>unglued</set></card>
+		<card><name id="84">Plains</name><set>unglued</set></card>
+		<card><name id="84">Plains</name><set>unglued</set></card>
+		<card><name id="84">Plains</name><set>unglued</set></card>
+		<card><name id="84">Plains</name><set>unglued</set></card>
+		<card><name id="84">Plains</name><set>unglued</set></card>
+		<card><name id="84">Plains</name><set>unglued</set></card>
+		<card><name id="84">Plains</name><set>unglued</set></card>
+		<card><name id="84">Plains</name><set>unglued</set></card>
+		<card><name id="84">Plains</name><set>unglued</set></card>
+		<card><name id="84">Plains</name><set>unglued</set></card>
+	</superzone>
+</deck>
