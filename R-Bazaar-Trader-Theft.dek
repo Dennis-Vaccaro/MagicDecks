@@ -1,0 +1,67 @@
+<deck version="0.8">
+	<meta>
+		<game>magic</game>
+	</meta>
+	<superzone name="Deck">
+		<card><name id="242">Mountain</name><set>zendikar</set></card>
+		<card><name id="242">Mountain</name><set>zendikar</set></card>
+		<card><name id="242">Mountain</name><set>zendikar</set></card>
+		<card><name id="242">Mountain</name><set>zendikar</set></card>
+		<card><name id="242">Mountain</name><set>zendikar</set></card>
+		<card><name id="242">Mountain</name><set>zendikar</set></card>
+		<card><name id="242">Mountain</name><set>zendikar</set></card>
+		<card><name id="242">Mountain</name><set>zendikar</set></card>
+		<card><name id="242">Mountain</name><set>zendikar</set></card>
+		<card><name id="242">Mountain</name><set>zendikar</set></card>
+		<card><name id="242">Mountain</name><set>zendikar</set></card>
+		<card><name id="242">Mountain</name><set>zendikar</set></card>
+		<card><name id="242">Mountain</name><set>zendikar</set></card>
+		<card><name id="242">Mountain</name><set>zendikar</set></card>
+		<card><name id="242">Mountain</name><set>zendikar</set></card>
+		<card><name id="242">Mountain</name><set>zendikar</set></card>
+		<card><name id="242">Mountain</name><set>zendikar</set></card>
+		<card><name id="242">Mountain</name><set>zendikar</set></card>
+		<card><name id="61">Myriad Landscape</name><set>c14</set></card>
+		<card><name id="61">Myriad Landscape</name><set>c14</set></card>
+		<card><name id="61">Myriad Landscape</name><set>c14</set></card>
+		<card><name id="61">Myriad Landscape</name><set>c14</set></card>
+		<card><name id="320">High Market</name><set>mm</set></card>
+		<card><name id="320">High Market</name><set>mm</set></card>
+		<card><name id="60">Flamekin Village</name><set>c14</set></card>
+		<card><name id="72">Bazaar Trader</name><set>worldwake</set></card>
+		<card><name id="72">Bazaar Trader</name><set>worldwake</set></card>
+		<card><name id="72">Bazaar Trader</name><set>worldwake</set></card>
+		<card><name id="72">Bazaar Trader</name><set>worldwake</set></card>
+		<card><name id="113">Jeering Instigator</name><set>ktk</set></card>
+		<card><name id="113">Jeering Instigator</name><set>ktk</set></card>
+		<card><name id="142">Enthralling Victor</name><set>origins</set></card>
+		<card><name id="142">Enthralling Victor</name><set>origins</set></card>
+		<card><name id="142">Enthralling Victor</name><set>origins</set></card>
+		<card><name id="142">Enthralling Victor</name><set>origins</set></card>
+		<card><name id="166">Zealous Conscripts</name><set>avr</set></card>
+		<card><name id="166">Zealous Conscripts</name><set>avr</set></card>
+		<card><name id="166">Zealous Conscripts</name><set>avr</set></card>
+		<card><name id="166">Zealous Conscripts</name><set>avr</set></card>
+		<card><name id="184">Scourge of the Throne</name><set>vma</set></card>
+		<card><name id="184">Scourge of the Throne</name><set>vma</set></card>
+		<card><name id="101">Molten Primordial</name><set>gatecrash</set></card>
+		<card><name id="161">Greater Gargadon</name><set>ts</set></card>
+		<card><name id="161">Greater Gargadon</name><set>ts</set></card>
+		<card><name id="161">Greater Gargadon</name><set>ts</set></card>
+		<card><name id="179">Goblin Bombardment</name><set>tempest</set></card>
+		<card><name id="179">Goblin Bombardment</name><set>tempest</set></card>
+		<card><name id="266">Altar Of Dementia</name><set>tempest</set></card>
+		<card><name id="318">Worn Powerstone</name><set>uz</set></card>
+		<card><name id="318">Worn Powerstone</name><set>uz</set></card>
+		<card><name id="318">Worn Powerstone</name><set>uz</set></card>
+		<card><name id="318">Worn Powerstone</name><set>uz</set></card>
+		<card><name id="281">Helm of Possession</name><set>tempest</set></card>
+		<card><name id="281">Helm of Possession</name><set>tempest</set></card>
+		<card><name id="239">Conjurer&apos;s Closet</name><set>c13</set></card>
+		<card><name id="239">Conjurer&apos;s Closet</name><set>c13</set></card>
+		<card><name id="109">Mob Rule</name><set>frf</set></card>
+		<card><name id="109">Mob Rule</name><set>frf</set></card>
+		<card><name id="109">Mob Rule</name><set>frf</set></card>
+		<card><name id="109">Mob Rule</name><set>frf</set></card>
+	</superzone>
+</deck>

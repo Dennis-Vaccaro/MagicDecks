@@ -1,0 +1,67 @@
+<deck version="0.8">
+	<meta>
+		<game>magic</game>
+	</meta>
+	<superzone name="Deck">
+		<card><name id="246">Forest</name><set>zendikar</set></card>
+		<card><name id="246">Forest</name><set>zendikar</set></card>
+		<card><name id="246">Forest</name><set>zendikar</set></card>
+		<card><name id="246">Forest</name><set>zendikar</set></card>
+		<card><name id="246">Forest</name><set>zendikar</set></card>
+		<card><name id="246">Forest</name><set>zendikar</set></card>
+		<card><name id="246">Forest</name><set>zendikar</set></card>
+		<card><name id="246">Forest</name><set>zendikar</set></card>
+		<card><name id="246">Forest</name><set>zendikar</set></card>
+		<card><name id="246">Forest</name><set>zendikar</set></card>
+		<card><name id="234">Island</name><set>zendikar</set></card>
+		<card><name id="234">Island</name><set>zendikar</set></card>
+		<card><name id="234">Island</name><set>zendikar</set></card>
+		<card><name id="234">Island</name><set>zendikar</set></card>
+		<card><name id="234">Island</name><set>zendikar</set></card>
+		<card><name id="234">Island</name><set>zendikar</set></card>
+		<card><name id="234">Island</name><set>zendikar</set></card>
+		<card><name id="242">Mountain</name><set>zendikar</set></card>
+		<card><name id="241">Hinterland Harbor</name><set>innistrad</set></card>
+		<card><name id="241">Hinterland Harbor</name><set>innistrad</set></card>
+		<card><name id="241">Hinterland Harbor</name><set>innistrad</set></card>
+		<card><name id="241">Hinterland Harbor</name><set>innistrad</set></card>
+		<card><name id="243">Kessig Wolf Run</name><set>innistrad</set></card>
+		<card><name id="243">Kessig Wolf Run</name><set>innistrad</set></card>
+		<card><name id="243">Kessig Wolf Run</name><set>innistrad</set></card>
+		<card><name id="113">Farhaven Elf</name><set>shadowmoor</set></card>
+		<card><name id="113">Farhaven Elf</name><set>shadowmoor</set></card>
+		<card><name id="113">Farhaven Elf</name><set>shadowmoor</set></card>
+		<card><name id="113">Farhaven Elf</name><set>shadowmoor</set></card>
+		<card><name id="153">Wood Elves</name><set>starter</set></card>
+		<card><name id="153">Wood Elves</name><set>starter</set></card>
+		<card><name id="245">Solemn Simulacrum</name><set>mirrodin</set></card>
+		<card><name id="245">Solemn Simulacrum</name><set>mirrodin</set></card>
+		<card><name id="245">Solemn Simulacrum</name><set>mirrodin</set></card>
+		<card><name id="97">Mystic Snake</name><set>tsts</set></card>
+		<card><name id="97">Mystic Snake</name><set>tsts</set></card>
+		<card><name id="97">Mystic Snake</name><set>tsts</set></card>
+		<card><name id="54">Mulldrifter</name><set>modernmasters</set></card>
+		<card><name id="54">Mulldrifter</name><set>modernmasters</set></card>
+		<card><name id="193">Thragtusk</name><set>2013</set></card>
+		<card><name id="193">Thragtusk</name><set>2013</set></card>
+		<card><name id="193">Thragtusk</name><set>2013</set></card>
+		<card><name id="193">Thragtusk</name><set>2013</set></card>
+		<card><name id="140">Acidic Slime</name><set>commander</set></card>
+		<card><name id="140">Acidic Slime</name><set>commander</set></card>
+		<card><name id="temp156">Primeval Titan</name><set>mm2</set></card>
+		<card><name id="temp156">Primeval Titan</name><set>mm2</set></card>
+		<card><name id="47">Deadeye Navigator</name><set>avr</set></card>
+		<card><name id="47">Deadeye Navigator</name><set>avr</set></card>
+		<card><name id="47">Deadeye Navigator</name><set>avr</set></card>
+		<card><name id="47">Deadeye Navigator</name><set>avr</set></card>
+		<card><name id="165">Duplicant</name><set>mirrodin</set></card>
+		<card><name id="136">Sylvan Primordial</name><set>gatecrash</set></card>
+		<card><name id="33">Diluvian Primordial</name><set>gatecrash</set></card>
+		<card><name id="57">Draining Whelk</name><set>ts</set></card>
+		<card><name id="45">Rhystic Study</name><set>prophecy</set></card>
+		<card><name id="45">Rhystic Study</name><set>prophecy</set></card>
+		<card><name id="45">Rhystic Study</name><set>prophecy</set></card>
+		<card><name id="190">Lurking Predators</name><set>2010</set></card>
+		<card><name id="190">Lurking Predators</name><set>2010</set></card>
+	</superzone>
+</deck>

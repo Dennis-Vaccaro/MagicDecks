@@ -1,0 +1,67 @@
+<deck version="0.8">
+	<meta>
+		<game>magic</game>
+	</meta>
+	<superzone name="Deck">
+		<card><name id="238">Swamp</name><set>zendikar</set></card>
+		<card><name id="238">Swamp</name><set>zendikar</set></card>
+		<card><name id="238">Swamp</name><set>zendikar</set></card>
+		<card><name id="238">Swamp</name><set>zendikar</set></card>
+		<card><name id="238">Swamp</name><set>zendikar</set></card>
+		<card><name id="238">Swamp</name><set>zendikar</set></card>
+		<card><name id="238">Swamp</name><set>zendikar</set></card>
+		<card><name id="238">Swamp</name><set>zendikar</set></card>
+		<card><name id="238">Swamp</name><set>zendikar</set></card>
+		<card><name id="238">Swamp</name><set>zendikar</set></card>
+		<card><name id="238">Swamp</name><set>zendikar</set></card>
+		<card><name id="238">Swamp</name><set>zendikar</set></card>
+		<card><name id="238">Swamp</name><set>zendikar</set></card>
+		<card><name id="238">Swamp</name><set>zendikar</set></card>
+		<card><name id="238">Swamp</name><set>zendikar</set></card>
+		<card><name id="238">Swamp</name><set>zendikar</set></card>
+		<card><name id="238">Swamp</name><set>zendikar</set></card>
+		<card><name id="238">Swamp</name><set>zendikar</set></card>
+		<card><name id="238">Swamp</name><set>zendikar</set></card>
+		<card><name id="238">Swamp</name><set>zendikar</set></card>
+		<card><name id="273">Leechridden Swamp</name><set>shadowmoor</set></card>
+		<card><name id="273">Leechridden Swamp</name><set>shadowmoor</set></card>
+		<card><name id="273">Leechridden Swamp</name><set>shadowmoor</set></card>
+		<card><name id="273">Leechridden Swamp</name><set>shadowmoor</set></card>
+		<card><name id="118">Typhoid Rats</name><set>m15</set></card>
+		<card><name id="118">Typhoid Rats</name><set>m15</set></card>
+		<card><name id="118">Typhoid Rats</name><set>m15</set></card>
+		<card><name id="temp92">Reassembling Skeleton</name><set>mm2</set></card>
+		<card><name id="temp92">Reassembling Skeleton</name><set>mm2</set></card>
+		<card><name id="temp92">Reassembling Skeleton</name><set>mm2</set></card>
+		<card><name id="1">Abyssal Gatekeeper</name><set>weatherlight</set></card>
+		<card><name id="1">Abyssal Gatekeeper</name><set>weatherlight</set></card>
+		<card><name id="107">Stinkweed Imp</name><set>ravnica</set></card>
+		<card><name id="107">Stinkweed Imp</name><set>ravnica</set></card>
+		<card><name id="107">Stinkweed Imp</name><set>ravnica</set></card>
+		<card><name id="116">Vampire Nighthawk</name><set>zendikar</set></card>
+		<card><name id="116">Vampire Nighthawk</name><set>zendikar</set></card>
+		<card><name id="89">Bloodgift Demon</name><set>innistrad</set></card>
+		<card><name id="89">Bloodgift Demon</name><set>innistrad</set></card>
+		<card><name id="107">Dread</name><set>lorwyn</set></card>
+		<card><name id="145">Innocent Blood</name><set>odyssey</set></card>
+		<card><name id="145">Innocent Blood</name><set>odyssey</set></card>
+		<card><name id="145">Innocent Blood</name><set>odyssey</set></card>
+		<card><name id="61">Exsanguinate</name><set>som</set></card>
+		<card><name id="61">Exsanguinate</name><set>som</set></card>
+		<card><name id="61">Exsanguinate</name><set>som</set></card>
+		<card><name id="130">Phyrexian Arena</name><set>c15</set></card>
+		<card><name id="130">Phyrexian Arena</name><set>c15</set></card>
+		<card><name id="130">Phyrexian Arena</name><set>c15</set></card>
+		<card><name id="130">Phyrexian Arena</name><set>c15</set></card>
+		<card><name id="143">Lashwrithe</name><set>nph</set></card>
+		<card><name id="143">Lashwrithe</name><set>nph</set></card>
+		<card><name id="143">Lashwrithe</name><set>nph</set></card>
+		<card><name id="143">Lashwrithe</name><set>nph</set></card>
+		<card><name id="73">Mutilate</name><set>torment</set></card>
+		<card><name id="73">Mutilate</name><set>torment</set></card>
+		<card><name id="56">No Mercy</name><set>ul</set></card>
+		<card><name id="10">Grave Pact</name><set>stronghold</set></card>
+		<card><name id="10">Grave Pact</name><set>stronghold</set></card>
+		<card><name id="94">Demonic Rising</name><set>avr</set></card>
+	</superzone>
+</deck>

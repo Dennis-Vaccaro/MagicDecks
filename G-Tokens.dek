@@ -1,0 +1,67 @@
+<deck version="0.8">
+	<meta>
+		<game>magic</game>
+	</meta>
+	<superzone name="Deck">
+		<card><name id="246">Forest</name><set>zendikar</set></card>
+		<card><name id="246">Forest</name><set>zendikar</set></card>
+		<card><name id="246">Forest</name><set>zendikar</set></card>
+		<card><name id="246">Forest</name><set>zendikar</set></card>
+		<card><name id="246">Forest</name><set>zendikar</set></card>
+		<card><name id="246">Forest</name><set>zendikar</set></card>
+		<card><name id="246">Forest</name><set>zendikar</set></card>
+		<card><name id="246">Forest</name><set>zendikar</set></card>
+		<card><name id="246">Forest</name><set>zendikar</set></card>
+		<card><name id="246">Forest</name><set>zendikar</set></card>
+		<card><name id="246">Forest</name><set>zendikar</set></card>
+		<card><name id="246">Forest</name><set>zendikar</set></card>
+		<card><name id="246">Forest</name><set>zendikar</set></card>
+		<card><name id="246">Forest</name><set>zendikar</set></card>
+		<card><name id="246">Forest</name><set>zendikar</set></card>
+		<card><name id="246">Forest</name><set>zendikar</set></card>
+		<card><name id="246">Forest</name><set>zendikar</set></card>
+		<card><name id="246">Forest</name><set>zendikar</set></card>
+		<card><name id="246">Forest</name><set>zendikar</set></card>
+		<card><name id="246">Forest</name><set>zendikar</set></card>
+		<card><name id="246">Forest</name><set>zendikar</set></card>
+		<card><name id="246">Forest</name><set>zendikar</set></card>
+		<card><name id="221">Oran-Rief, the Vastwood</name><set>zendikar</set></card>
+		<card><name id="221">Oran-Rief, the Vastwood</name><set>zendikar</set></card>
+		<card><name id="325">Yavimaya Hollow</name><set>vma</set></card>
+		<card><name id="151">Jade Mage</name><set>c13</set></card>
+		<card><name id="151">Jade Mage</name><set>c13</set></card>
+		<card><name id="191">Kazandu Tuskcaller</name><set>roe</set></card>
+		<card><name id="191">Kazandu Tuskcaller</name><set>roe</set></card>
+		<card><name id="220">Imperious Perfect</name><set>lorwyn</set></card>
+		<card><name id="220">Imperious Perfect</name><set>lorwyn</set></card>
+		<card><name id="220">Imperious Perfect</name><set>lorwyn</set></card>
+		<card><name id="191">Master of the Wild Hunt</name><set>2010</set></card>
+		<card><name id="191">Master of the Wild Hunt</name><set>2010</set></card>
+		<card><name id="temp139">Ant Queen</name><set>mm2</set></card>
+		<card><name id="temp139">Ant Queen</name><set>mm2</set></card>
+		<card><name id="96">Avenger of Zendikar</name><set>worldwake</set></card>
+		<card><name id="157">Verdant Force</name><set>tempest</set></card>
+		<card><name id="178">Hornet Queen</name><set>m15</set></card>
+		<card><name id="266">Orochi Hatchery</name><set>chk</set></card>
+		<card><name id="281">Skullclamp</name><set>vma</set></card>
+		<card><name id="281">Skullclamp</name><set>vma</set></card>
+		<card><name id="281">Skullclamp</name><set>vma</set></card>
+		<card><name id="281">Skullclamp</name><set>vma</set></card>
+		<card><name id="234">Wurmcalling</name><set>ts</set></card>
+		<card><name id="80">Night Soil</name><set>fe</set></card>
+		<card><name id="80">Night Soil</name><set>fe</set></card>
+		<card><name id="138">Sprout Swarm</name><set>fs</set></card>
+		<card><name id="138">Sprout Swarm</name><set>fs</set></card>
+		<card><name id="51">Awakening</name><set>stronghold</set></card>
+		<card><name id="51">Awakening</name><set>stronghold</set></card>
+		<card><name id="82">Beacon of Creation</name><set>fd</set></card>
+		<card><name id="199">Eldrazi Monument</name><set>zendikar</set></card>
+		<card><name id="199">Eldrazi Monument</name><set>zendikar</set></card>
+		<card><name id="199">Eldrazi Monument</name><set>zendikar</set></card>
+		<card><name id="199">Eldrazi Monument</name><set>zendikar</set></card>
+		<card><name id="158">Doubling Season</name><set>ravnica</set></card>
+		<card><name id="158">Doubling Season</name><set>ravnica</set></card>
+		<card><name id="158">Doubling Season</name><set>ravnica</set></card>
+		<card><name id="158">Doubling Season</name><set>ravnica</set></card>
+	</superzone>
+</deck>

@@ -1,0 +1,67 @@
+<deck version="0.8">
+	<meta>
+		<game>magic</game>
+	</meta>
+	<superzone name="Deck">
+		<card><name id="351">Snow-Covered Swamp</name><set>ia</set></card>
+		<card><name id="351">Snow-Covered Swamp</name><set>ia</set></card>
+		<card><name id="351">Snow-Covered Swamp</name><set>ia</set></card>
+		<card><name id="351">Snow-Covered Swamp</name><set>ia</set></card>
+		<card><name id="351">Snow-Covered Swamp</name><set>ia</set></card>
+		<card><name id="351">Snow-Covered Swamp</name><set>ia</set></card>
+		<card><name id="351">Snow-Covered Swamp</name><set>ia</set></card>
+		<card><name id="351">Snow-Covered Swamp</name><set>ia</set></card>
+		<card><name id="351">Snow-Covered Swamp</name><set>ia</set></card>
+		<card><name id="351">Snow-Covered Swamp</name><set>ia</set></card>
+		<card><name id="351">Snow-Covered Swamp</name><set>ia</set></card>
+		<card><name id="351">Snow-Covered Swamp</name><set>ia</set></card>
+		<card><name id="351">Snow-Covered Swamp</name><set>ia</set></card>
+		<card><name id="351">Snow-Covered Swamp</name><set>ia</set></card>
+		<card><name id="351">Snow-Covered Swamp</name><set>ia</set></card>
+		<card><name id="351">Snow-Covered Swamp</name><set>ia</set></card>
+		<card><name id="351">Snow-Covered Swamp</name><set>ia</set></card>
+		<card><name id="351">Snow-Covered Swamp</name><set>ia</set></card>
+		<card><name id="351">Snow-Covered Swamp</name><set>ia</set></card>
+		<card><name id="273">Leechridden Swamp</name><set>shadowmoor</set></card>
+		<card><name id="273">Leechridden Swamp</name><set>shadowmoor</set></card>
+		<card><name id="273">Leechridden Swamp</name><set>shadowmoor</set></card>
+		<card><name id="273">Leechridden Swamp</name><set>shadowmoor</set></card>
+		<card><name id="327">Unholy Grotto</name><set>onslaught</set></card>
+		<card><name id="327">Unholy Grotto</name><set>onslaught</set></card>
+		<card><name id="64">Gravecrawler</name><set>dka</set></card>
+		<card><name id="64">Gravecrawler</name><set>dka</set></card>
+		<card><name id="64">Gravecrawler</name><set>dka</set></card>
+		<card><name id="64">Gravecrawler</name><set>dka</set></card>
+		<card><name id="71">Stromgald Crusader</name><set>coldsnap</set></card>
+		<card><name id="71">Stromgald Crusader</name><set>coldsnap</set></card>
+		<card><name id="76">Fleshbag Marauder</name><set>soa</set></card>
+		<card><name id="76">Fleshbag Marauder</name><set>soa</set></card>
+		<card><name id="76">Fleshbag Marauder</name><set>soa</set></card>
+		<card><name id="76">Fleshbag Marauder</name><set>soa</set></card>
+		<card><name id="Cemetery_Reaper">Cemetery Reaper</name><set>2012</set></card>
+		<card><name id="Cemetery_Reaper">Cemetery Reaper</name><set>2012</set></card>
+		<card><name id="44">Lord of the Undead</name><set>planeshift</set></card>
+		<card><name id="44">Lord of the Undead</name><set>planeshift</set></card>
+		<card><name id="70">Death Baron</name><set>soa</set></card>
+		<card><name id="80">Vengeful Dead</name><set>scourge</set></card>
+		<card><name id="80">Vengeful Dead</name><set>scourge</set></card>
+		<card><name id="80">Vengeful Dead</name><set>scourge</set></card>
+		<card><name id="80">Vengeful Dead</name><set>scourge</set></card>
+		<card><name id="40">Grave Defiler</name><set>apocalypse</set></card>
+		<card><name id="40">Grave Defiler</name><set>apocalypse</set></card>
+		<card><name id="77">Noxious Ghoul</name><set>legions</set></card>
+		<card><name id="77">Noxious Ghoul</name><set>legions</set></card>
+		<card><name id="Vengeful_Pharaoh">Vengeful Pharaoh</name><set>2012</set></card>
+		<card><name id="70">Mikaeus, the Unhallowed</name><set>dka</set></card>
+		<card><name id="160">Oversold Cemetery</name><set>onslaught</set></card>
+		<card><name id="99">Endless Ranks of the Dead</name><set>innistrad</set></card>
+		<card><name id="99">Endless Ranks of the Dead</name><set>innistrad</set></card>
+		<card><name id="10">Grave Pact</name><set>stronghold</set></card>
+		<card><name id="47">Tombstone Stairwell</name><set>mirage</set></card>
+		<card><name id="47">Tombstone Stairwell</name><set>mirage</set></card>
+		<card><name id="199">Eldrazi Monument</name><set>zendikar</set></card>
+		<card><name id="199">Eldrazi Monument</name><set>zendikar</set></card>
+		<card><name id="80">Zombie Apocalypse</name><set>dka</set></card>
+		<card><name id="80">Zombie Apocalypse</name><set>dka</set></card>
+	</superzone>
+</deck>

@@ -1,0 +1,67 @@
+<deck version="0.8">
+	<meta>
+		<game>magic</game>
+	</meta>
+	<superzone name="Deck">
+		<card><name id="139">Cabal Coffers</name><set>torment</set></card>
+		<card><name id="139">Cabal Coffers</name><set>torment</set></card>
+		<card><name id="139">Cabal Coffers</name><set>torment</set></card>
+		<card><name id="322">Phyrexian Tower</name><set>uz</set></card>
+		<card><name id="116">Vampire Nighthawk</name><set>zendikar</set></card>
+		<card><name id="116">Vampire Nighthawk</name><set>zendikar</set></card>
+		<card><name id="116">Vampire Nighthawk</name><set>zendikar</set></card>
+		<card><name id="116">Vampire Nighthawk</name><set>zendikar</set></card>
+		<card><name id="68">Phyrexian Obliterator</name><set>nph</set></card>
+		<card><name id="68">Phyrexian Obliterator</name><set>nph</set></card>
+		<card><name id="68">Phyrexian Obliterator</name><set>nph</set></card>
+		<card><name id="68">Phyrexian Obliterator</name><set>nph</set></card>
+		<card><name id="Vengeful_Pharaoh">Vengeful Pharaoh</name><set>2012</set></card>
+		<card><name id="89">Kokusho, the Evening Star</name><set>modernmasters</set></card>
+		<card><name id="223">Wurmcoil Engine</name><set>som</set></card>
+		<card><name id="223">Wurmcoil Engine</name><set>som</set></card>
+		<card><name id="223">Wurmcoil Engine</name><set>som</set></card>
+		<card><name id="223">Wurmcoil Engine</name><set>som</set></card>
+		<card><name id="75">Sepulchral Primordial</name><set>gatecrash</set></card>
+		<card><name id="75">Sepulchral Primordial</name><set>gatecrash</set></card>
+		<card><name id="temp234">Wayfarer&apos;s Bauble</name><set>mm2</set></card>
+		<card><name id="temp234">Wayfarer&apos;s Bauble</name><set>mm2</set></card>
+		<card><name id="temp234">Wayfarer&apos;s Bauble</name><set>mm2</set></card>
+		<card><name id="61">Exsanguinate</name><set>som</set></card>
+		<card><name id="61">Exsanguinate</name><set>som</set></card>
+		<card><name id="130">Phyrexian Arena</name><set>c15</set></card>
+		<card><name id="130">Phyrexian Arena</name><set>c15</set></card>
+		<card><name id="130">Phyrexian Arena</name><set>c15</set></card>
+		<card><name id="222">Oblivion Stone</name><set>mirrodin</set></card>
+		<card><name id="138">Haunted Crossroads</name><set>mm</set></card>
+		<card><name id="56">No Mercy</name><set>ul</set></card>
+		<card><name id="1">All Is Dust</name><set>roe</set></card>
+		<card><name id="60">Swamp</name><set>agvl</set></card>
+		<card><name id="60">Swamp</name><set>agvl</set></card>
+		<card><name id="60">Swamp</name><set>agvl</set></card>
+		<card><name id="60">Swamp</name><set>agvl</set></card>
+		<card><name id="60">Swamp</name><set>agvl</set></card>
+		<card><name id="60">Swamp</name><set>agvl</set></card>
+		<card><name id="60">Swamp</name><set>agvl</set></card>
+		<card><name id="60">Swamp</name><set>agvl</set></card>
+		<card><name id="60">Swamp</name><set>agvl</set></card>
+		<card><name id="60">Swamp</name><set>agvl</set></card>
+		<card><name id="60">Swamp</name><set>agvl</set></card>
+		<card><name id="60">Swamp</name><set>agvl</set></card>
+		<card><name id="60">Swamp</name><set>agvl</set></card>
+		<card><name id="60">Swamp</name><set>agvl</set></card>
+		<card><name id="60">Swamp</name><set>agvl</set></card>
+		<card><name id="60">Swamp</name><set>agvl</set></card>
+		<card><name id="60">Swamp</name><set>agvl</set></card>
+		<card><name id="60">Swamp</name><set>agvl</set></card>
+		<card><name id="60">Swamp</name><set>agvl</set></card>
+		<card><name id="248">Urborg, Tomb of Yawgmoth</name><set>m15</set></card>
+		<card><name id="289">High Market</name><set>c15</set></card>
+		<card><name id="133">Phyrexian Reclamation</name><set>c15</set></card>
+		<card><name id="275">Worn Powerstone</name><set>c15</set></card>
+		<card><name id="275">Worn Powerstone</name><set>c15</set></card>
+		<card><name id="150">Mutilate</name><set>c14</set></card>
+		<card><name id="150">Mutilate</name><set>c14</set></card>
+		<card><name id="150">Mutilate</name><set>c14</set></card>
+		<card><name id="165">Syphon Mind</name><set>c14</set></card>
+	</superzone>
+</deck>

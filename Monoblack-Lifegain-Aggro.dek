@@ -1,0 +1,67 @@
+<deck version="0.8">
+	<meta>
+		<game>magic</game>
+	</meta>
+	<superzone name="Deck">
+		<card><name id="238">Swamp</name><set>zendikar</set></card>
+		<card><name id="238">Swamp</name><set>zendikar</set></card>
+		<card><name id="238">Swamp</name><set>zendikar</set></card>
+		<card><name id="238">Swamp</name><set>zendikar</set></card>
+		<card><name id="238">Swamp</name><set>zendikar</set></card>
+		<card><name id="238">Swamp</name><set>zendikar</set></card>
+		<card><name id="238">Swamp</name><set>zendikar</set></card>
+		<card><name id="238">Swamp</name><set>zendikar</set></card>
+		<card><name id="238">Swamp</name><set>zendikar</set></card>
+		<card><name id="238">Swamp</name><set>zendikar</set></card>
+		<card><name id="238">Swamp</name><set>zendikar</set></card>
+		<card><name id="238">Swamp</name><set>zendikar</set></card>
+		<card><name id="238">Swamp</name><set>zendikar</set></card>
+		<card><name id="238">Swamp</name><set>zendikar</set></card>
+		<card><name id="238">Swamp</name><set>zendikar</set></card>
+		<card><name id="238">Swamp</name><set>zendikar</set></card>
+		<card><name id="238">Swamp</name><set>zendikar</set></card>
+		<card><name id="238">Swamp</name><set>zendikar</set></card>
+		<card><name id="238">Swamp</name><set>zendikar</set></card>
+		<card><name id="238">Swamp</name><set>zendikar</set></card>
+		<card><name id="238">Swamp</name><set>zendikar</set></card>
+		<card><name id="238">Swamp</name><set>zendikar</set></card>
+		<card><name id="238">Swamp</name><set>zendikar</set></card>
+		<card><name id="238">Swamp</name><set>zendikar</set></card>
+		<card><name id="temp92">Reassembling Skeleton</name><set>mm2</set></card>
+		<card><name id="temp92">Reassembling Skeleton</name><set>mm2</set></card>
+		<card><name id="temp92">Reassembling Skeleton</name><set>mm2</set></card>
+		<card><name id="76">Vault Skirge</name><set>nph</set></card>
+		<card><name id="76">Vault Skirge</name><set>nph</set></card>
+		<card><name id="76">Vault Skirge</name><set>nph</set></card>
+		<card><name id="76">Vault Skirge</name><set>nph</set></card>
+		<card><name id="116">Vampire Nighthawk</name><set>zendikar</set></card>
+		<card><name id="116">Vampire Nighthawk</name><set>zendikar</set></card>
+		<card><name id="116">Vampire Nighthawk</name><set>zendikar</set></card>
+		<card><name id="116">Vampire Nighthawk</name><set>zendikar</set></card>
+		<card><name id="89">Bloodgift Demon</name><set>innistrad</set></card>
+		<card><name id="89">Bloodgift Demon</name><set>innistrad</set></card>
+		<card><name id="89">Bloodgift Demon</name><set>innistrad</set></card>
+		<card><name id="Vengeful_Pharaoh">Vengeful Pharaoh</name><set>2012</set></card>
+		<card><name id="107">Dread</name><set>lorwyn</set></card>
+		<card><name id="89">Kokusho, the Evening Star</name><set>modernmasters</set></card>
+		<card><name id="89">Kokusho, the Evening Star</name><set>modernmasters</set></card>
+		<card><name id="223">Wurmcoil Engine</name><set>som</set></card>
+		<card><name id="223">Wurmcoil Engine</name><set>som</set></card>
+		<card><name id="63">Phyrexian Reclamation</name><set>ul</set></card>
+		<card><name id="130">Phyrexian Arena</name><set>c15</set></card>
+		<card><name id="130">Phyrexian Arena</name><set>c15</set></card>
+		<card><name id="130">Phyrexian Arena</name><set>c15</set></card>
+		<card><name id="130">Phyrexian Arena</name><set>c15</set></card>
+		<card><name id="126">Grafted Wargear</name><set>fd</set></card>
+		<card><name id="126">Grafted Wargear</name><set>fd</set></card>
+		<card><name id="126">Grafted Wargear</name><set>fd</set></card>
+		<card><name id="201">Loxodon Warhammer</name><set>mirrodin</set></card>
+		<card><name id="143">Lashwrithe</name><set>nph</set></card>
+		<card><name id="143">Lashwrithe</name><set>nph</set></card>
+		<card><name id="143">Lashwrithe</name><set>nph</set></card>
+		<card><name id="136">Tendrils of Corruption</name><set>ts</set></card>
+		<card><name id="136">Tendrils of Corruption</name><set>ts</set></card>
+		<card><name id="101">Consuming Vapors</name><set>roe</set></card>
+		<card><name id="56">No Mercy</name><set>ul</set></card>
+	</superzone>
+</deck>

@@ -1,0 +1,67 @@
+<deck version="0.8">
+	<meta>
+		<game>magic</game>
+	</meta>
+	<superzone name="Deck">
+		<card><name id="242">Mountain</name><set>zendikar</set></card>
+		<card><name id="242">Mountain</name><set>zendikar</set></card>
+		<card><name id="242">Mountain</name><set>zendikar</set></card>
+		<card><name id="242">Mountain</name><set>zendikar</set></card>
+		<card><name id="242">Mountain</name><set>zendikar</set></card>
+		<card><name id="242">Mountain</name><set>zendikar</set></card>
+		<card><name id="242">Mountain</name><set>zendikar</set></card>
+		<card><name id="242">Mountain</name><set>zendikar</set></card>
+		<card><name id="242">Mountain</name><set>zendikar</set></card>
+		<card><name id="242">Mountain</name><set>zendikar</set></card>
+		<card><name id="242">Mountain</name><set>zendikar</set></card>
+		<card><name id="242">Mountain</name><set>zendikar</set></card>
+		<card><name id="242">Mountain</name><set>zendikar</set></card>
+		<card><name id="242">Mountain</name><set>zendikar</set></card>
+		<card><name id="280">Cloudpost</name><set>mirrodin</set></card>
+		<card><name id="280">Cloudpost</name><set>mirrodin</set></card>
+		<card><name id="280">Cloudpost</name><set>mirrodin</set></card>
+		<card><name id="280">Cloudpost</name><set>mirrodin</set></card>
+		<card><name id="227">Glimmerpost</name><set>som</set></card>
+		<card><name id="227">Glimmerpost</name><set>som</set></card>
+		<card><name id="227">Glimmerpost</name><set>som</set></card>
+		<card><name id="227">Glimmerpost</name><set>som</set></card>
+		<card><name id="248">Thespian&apos;s Stage</name><set>gatecrash</set></card>
+		<card><name id="248">Thespian&apos;s Stage</name><set>gatecrash</set></card>
+		<card><name id="106">Veteran Brawlers</name><set>prophecy</set></card>
+		<card><name id="106">Veteran Brawlers</name><set>prophecy</set></card>
+		<card><name id="106">Veteran Brawlers</name><set>prophecy</set></card>
+		<card><name id="106">Veteran Brawlers</name><set>prophecy</set></card>
+		<card><name id="109">Taurean Mauler</name><set>morningtide</set></card>
+		<card><name id="109">Taurean Mauler</name><set>morningtide</set></card>
+		<card><name id="109">Taurean Mauler</name><set>morningtide</set></card>
+		<card><name id="109">Taurean Mauler</name><set>morningtide</set></card>
+		<card><name id="160">Inferno Titan</name><set>c15</set></card>
+		<card><name id="160">Inferno Titan</name><set>c15</set></card>
+		<card><name id="160">Inferno Titan</name><set>c15</set></card>
+		<card><name id="160">Inferno Titan</name><set>c15</set></card>
+		<card><name id="180">Myr Battlesphere</name><set>som</set></card>
+		<card><name id="180">Myr Battlesphere</name><set>som</set></card>
+		<card><name id="52">Sandstone Oracle</name><set>c15</set></card>
+		<card><name id="52">Sandstone Oracle</name><set>c15</set></card>
+		<card><name id="2">Artisan of Kozilek</name><set>roe</set></card>
+		<card><name id="4">Kozilek, the Great Distortion</name><set>ogw</set></card>
+		<card><name id="147">Earthquake</name><set>unlimited</set></card>
+		<card><name id="147">Earthquake</name><set>unlimited</set></card>
+		<card><name id="147">Earthquake</name><set>unlimited</set></card>
+		<card><name id="147">Earthquake</name><set>unlimited</set></card>
+		<card><name id="87">Faithless Looting</name><set>dka</set></card>
+		<card><name id="87">Faithless Looting</name><set>dka</set></card>
+		<card><name id="87">Faithless Looting</name><set>dka</set></card>
+		<card><name id="87">Faithless Looting</name><set>dka</set></card>
+		<card><name id="201">Expedition Map</name><set>zendikar</set></card>
+		<card><name id="201">Expedition Map</name><set>zendikar</set></card>
+		<card><name id="201">Expedition Map</name><set>zendikar</set></card>
+		<card><name id="201">Expedition Map</name><set>zendikar</set></card>
+		<card><name id="131">Commune with Lava</name><set>dtk</set></card>
+		<card><name id="131">Commune with Lava</name><set>dtk</set></card>
+		<card><name id="76">Comet Storm</name><set>worldwake</set></card>
+		<card><name id="76">Comet Storm</name><set>worldwake</set></card>
+		<card><name id="110">Outpost Siege</name><set>frf</set></card>
+		<card><name id="110">Outpost Siege</name><set>frf</set></card>
+	</superzone>
+</deck>

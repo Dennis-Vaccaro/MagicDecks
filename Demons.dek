@@ -1,0 +1,67 @@
+<deck version="0.8">
+	<meta>
+		<game>magic</game>
+	</meta>
+	<superzone name="Deck">
+		<card><name id="238">Swamp</name><set>zendikar</set></card>
+		<card><name id="238">Swamp</name><set>zendikar</set></card>
+		<card><name id="238">Swamp</name><set>zendikar</set></card>
+		<card><name id="238">Swamp</name><set>zendikar</set></card>
+		<card><name id="238">Swamp</name><set>zendikar</set></card>
+		<card><name id="238">Swamp</name><set>zendikar</set></card>
+		<card><name id="238">Swamp</name><set>zendikar</set></card>
+		<card><name id="238">Swamp</name><set>zendikar</set></card>
+		<card><name id="238">Swamp</name><set>zendikar</set></card>
+		<card><name id="238">Swamp</name><set>zendikar</set></card>
+		<card><name id="238">Swamp</name><set>zendikar</set></card>
+		<card><name id="238">Swamp</name><set>zendikar</set></card>
+		<card><name id="238">Swamp</name><set>zendikar</set></card>
+		<card><name id="238">Swamp</name><set>zendikar</set></card>
+		<card><name id="238">Swamp</name><set>zendikar</set></card>
+		<card><name id="238">Swamp</name><set>zendikar</set></card>
+		<card><name id="238">Swamp</name><set>zendikar</set></card>
+		<card><name id="238">Swamp</name><set>zendikar</set></card>
+		<card><name id="238">Swamp</name><set>zendikar</set></card>
+		<card><name id="238">Swamp</name><set>zendikar</set></card>
+		<card><name id="139">Cabal Coffers</name><set>torment</set></card>
+		<card><name id="139">Cabal Coffers</name><set>torment</set></card>
+		<card><name id="139">Cabal Coffers</name><set>torment</set></card>
+		<card><name id="165">Urborg, Tomb of Yawgmoth</name><set>plc</set></card>
+		<card><name id="320">High Market</name><set>mm</set></card>
+		<card><name id="322">Phyrexian Tower</name><set>uz</set></card>
+		<card><name id="121">Treacherous Pit-Dweller</name><set>avr</set></card>
+		<card><name id="121">Treacherous Pit-Dweller</name><set>avr</set></card>
+		<card><name id="121">Treacherous Pit-Dweller</name><set>avr</set></card>
+		<card><name id="120">Soulcage Fiend</name><set>avr</set></card>
+		<card><name id="120">Soulcage Fiend</name><set>avr</set></card>
+		<card><name id="120">Soulcage Fiend</name><set>avr</set></card>
+		<card><name id="47">Abyssal Persecutor</name><set>worldwake</set></card>
+		<card><name id="47">Abyssal Persecutor</name><set>worldwake</set></card>
+		<card><name id="47">Abyssal Persecutor</name><set>worldwake</set></card>
+		<card><name id="103">Blood Speaker</name><set>chk</set></card>
+		<card><name id="89">Bloodgift Demon</name><set>innistrad</set></card>
+		<card><name id="89">Bloodgift Demon</name><set>innistrad</set></card>
+		<card><name id="112">Reaper from the Abyss</name><set>innistrad</set></card>
+		<card><name id="107">Harvester of Souls</name><set>avr</set></card>
+		<card><name id="107">Harvester of Souls</name><set>avr</set></card>
+		<card><name id="Rune_Scarred_Demon">Rune-Scarred Demon</name><set>2012</set></card>
+		<card><name id="Rune_Scarred_Demon">Rune-Scarred Demon</name><set>2012</set></card>
+		<card><name id="71">Lord of the Void</name><set>gatecrash</set></card>
+		<card><name id="106">Griselbrand</name><set>avr</set></card>
+		<card><name id="106">Griselbrand</name><set>avr</set></card>
+		<card><name id="75">Reiver Demon</name><set>mirrodin</set></card>
+		<card><name id="79">Dread Cacodemon</name><set>commander</set></card>
+		<card><name id="temp234">Wayfarer&apos;s Bauble</name><set>mm2</set></card>
+		<card><name id="temp234">Wayfarer&apos;s Bauble</name><set>mm2</set></card>
+		<card><name id="160">Oversold Cemetery</name><set>onslaught</set></card>
+		<card><name id="123">Everflowing Chalice</name><set>worldwake</set></card>
+		<card><name id="123">Everflowing Chalice</name><set>worldwake</set></card>
+		<card><name id="123">Everflowing Chalice</name><set>worldwake</set></card>
+		<card><name id="73">Mark of the Oni</name><set>bok</set></card>
+		<card><name id="73">Mark of the Oni</name><set>bok</set></card>
+		<card><name id="73">Mark of the Oni</name><set>bok</set></card>
+		<card><name id="161">Patriarch&apos;s Bidding</name><set>onslaught</set></card>
+		<card><name id="94">Demonic Rising</name><set>avr</set></card>
+		<card><name id="94">Demonic Rising</name><set>avr</set></card>
+	</superzone>
+</deck>

@@ -1,0 +1,67 @@
+<deck version="0.8">
+	<meta>
+		<game>magic</game>
+	</meta>
+	<superzone name="Deck">
+		<card><name id="75">Urza&apos;s Mine</name><set>antiquities</set></card>
+		<card><name id="75">Urza&apos;s Mine</name><set>antiquities</set></card>
+		<card><name id="75">Urza&apos;s Mine</name><set>antiquities</set></card>
+		<card><name id="75">Urza&apos;s Mine</name><set>antiquities</set></card>
+		<card><name id="83">Urza&apos;s Tower</name><set>antiquities</set></card>
+		<card><name id="83">Urza&apos;s Tower</name><set>antiquities</set></card>
+		<card><name id="83">Urza&apos;s Tower</name><set>antiquities</set></card>
+		<card><name id="83">Urza&apos;s Tower</name><set>antiquities</set></card>
+		<card><name id="79">Urza&apos;s Power Plant</name><set>antiquities</set></card>
+		<card><name id="79">Urza&apos;s Power Plant</name><set>antiquities</set></card>
+		<card><name id="79">Urza&apos;s Power Plant</name><set>antiquities</set></card>
+		<card><name id="79">Urza&apos;s Power Plant</name><set>antiquities</set></card>
+		<card><name id="39">Forbidden Orchard</name><set>expeditions</set></card>
+		<card><name id="39">Forbidden Orchard</name><set>expeditions</set></card>
+		<card><name id="39">Forbidden Orchard</name><set>expeditions</set></card>
+		<card><name id="39">Forbidden Orchard</name><set>expeditions</set></card>
+		<card><name id="246">Forest</name><set>zendikar</set></card>
+		<card><name id="246">Forest</name><set>zendikar</set></card>
+		<card><name id="246">Forest</name><set>zendikar</set></card>
+		<card><name id="246">Forest</name><set>zendikar</set></card>
+		<card><name id="246">Forest</name><set>zendikar</set></card>
+		<card><name id="246">Forest</name><set>zendikar</set></card>
+		<card><name id="246">Forest</name><set>zendikar</set></card>
+		<card><name id="246">Forest</name><set>zendikar</set></card>
+		<card><name id="203">Overgrown Battlement</name><set>roe</set></card>
+		<card><name id="203">Overgrown Battlement</name><set>roe</set></card>
+		<card><name id="203">Overgrown Battlement</name><set>roe</set></card>
+		<card><name id="203">Overgrown Battlement</name><set>roe</set></card>
+		<card><name id="115">Axebane Guardian</name><set>rtr</set></card>
+		<card><name id="115">Axebane Guardian</name><set>rtr</set></card>
+		<card><name id="115">Axebane Guardian</name><set>rtr</set></card>
+		<card><name id="115">Axebane Guardian</name><set>rtr</set></card>
+		<card><name id="144">Eternal Witness</name><set>modernmasters</set></card>
+		<card><name id="144">Eternal Witness</name><set>modernmasters</set></card>
+		<card><name id="144">Eternal Witness</name><set>modernmasters</set></card>
+		<card><name id="144">Eternal Witness</name><set>modernmasters</set></card>
+		<card><name id="109">Darksteel Colossus</name><set>darksteel</set></card>
+		<card><name id="99">Blightsteel Colossus</name><set>mbs</set></card>
+		<card><name id="12">Ulamog, the Infinite Gyre</name><set>roe</set></card>
+		<card><name id="4">Emrakul, the Aeons Torn</name><set>roe</set></card>
+		<card><name id="201">Expedition Map</name><set>zendikar</set></card>
+		<card><name id="201">Expedition Map</name><set>zendikar</set></card>
+		<card><name id="201">Expedition Map</name><set>zendikar</set></card>
+		<card><name id="201">Expedition Map</name><set>zendikar</set></card>
+		<card><name id="130">Sylvan Scrying</name><set>mirrodin</set></card>
+		<card><name id="130">Sylvan Scrying</name><set>mirrodin</set></card>
+		<card><name id="130">Sylvan Scrying</name><set>mirrodin</set></card>
+		<card><name id="130">Sylvan Scrying</name><set>mirrodin</set></card>
+		<card><name id="81">Reap and Sow</name><set>darksteel</set></card>
+		<card><name id="81">Reap and Sow</name><set>darksteel</set></card>
+		<card><name id="81">Reap and Sow</name><set>darksteel</set></card>
+		<card><name id="81">Reap and Sow</name><set>darksteel</set></card>
+		<card><name id="100">Defense of the Heart</name><set>ul</set></card>
+		<card><name id="100">Defense of the Heart</name><set>ul</set></card>
+		<card><name id="100">Defense of the Heart</name><set>ul</set></card>
+		<card><name id="100">Defense of the Heart</name><set>ul</set></card>
+		<card><name id="170">Tooth and Nail</name><set>modernmasters</set></card>
+		<card><name id="170">Tooth and Nail</name><set>modernmasters</set></card>
+		<card><name id="170">Tooth and Nail</name><set>modernmasters</set></card>
+		<card><name id="170">Tooth and Nail</name><set>modernmasters</set></card>
+	</superzone>
+</deck>

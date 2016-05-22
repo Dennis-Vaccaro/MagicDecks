@@ -1,0 +1,67 @@
+<deck version="0.8">
+	<meta>
+		<game>magic</game>
+	</meta>
+	<superzone name="Deck">
+		<card><name id="238">Swamp</name><set>zendikar</set></card>
+		<card><name id="238">Swamp</name><set>zendikar</set></card>
+		<card><name id="238">Swamp</name><set>zendikar</set></card>
+		<card><name id="238">Swamp</name><set>zendikar</set></card>
+		<card><name id="238">Swamp</name><set>zendikar</set></card>
+		<card><name id="238">Swamp</name><set>zendikar</set></card>
+		<card><name id="238">Swamp</name><set>zendikar</set></card>
+		<card><name id="238">Swamp</name><set>zendikar</set></card>
+		<card><name id="238">Swamp</name><set>zendikar</set></card>
+		<card><name id="238">Swamp</name><set>zendikar</set></card>
+		<card><name id="238">Swamp</name><set>zendikar</set></card>
+		<card><name id="238">Swamp</name><set>zendikar</set></card>
+		<card><name id="238">Swamp</name><set>zendikar</set></card>
+		<card><name id="238">Swamp</name><set>zendikar</set></card>
+		<card><name id="238">Swamp</name><set>zendikar</set></card>
+		<card><name id="238">Swamp</name><set>zendikar</set></card>
+		<card><name id="238">Swamp</name><set>zendikar</set></card>
+		<card><name id="66">Mishra&apos;s Factory</name><set>antiquities</set></card>
+		<card><name id="66">Mishra&apos;s Factory</name><set>antiquities</set></card>
+		<card><name id="66">Mishra&apos;s Factory</name><set>antiquities</set></card>
+		<card><name id="66">Mishra&apos;s Factory</name><set>antiquities</set></card>
+		<card><name id="222">Dakmor Salvage</name><set>modernmasters</set></card>
+		<card><name id="222">Dakmor Salvage</name><set>modernmasters</set></card>
+		<card><name id="283">Shizo, Death&apos;s Storehouse</name><set>chk</set></card>
+		<card><name id="temp92">Reassembling Skeleton</name><set>mm2</set></card>
+		<card><name id="temp92">Reassembling Skeleton</name><set>mm2</set></card>
+		<card><name id="temp92">Reassembling Skeleton</name><set>mm2</set></card>
+		<card><name id="temp92">Reassembling Skeleton</name><set>mm2</set></card>
+		<card><name id="83">Bloodghast</name><set>zendikar</set></card>
+		<card><name id="83">Bloodghast</name><set>zendikar</set></card>
+		<card><name id="83">Bloodghast</name><set>zendikar</set></card>
+		<card><name id="14">Endless Cockroaches</name><set>portal</set></card>
+		<card><name id="14">Endless Cockroaches</name><set>portal</set></card>
+		<card><name id="117">Braids, Cabal Minion</name><set>odyssey</set></card>
+		<card><name id="117">Braids, Cabal Minion</name><set>odyssey</set></card>
+		<card><name id="117">Braids, Cabal Minion</name><set>odyssey</set></card>
+		<card><name id="82">Bloodchief Ascension</name><set>zendikar</set></card>
+		<card><name id="82">Bloodchief Ascension</name><set>zendikar</set></card>
+		<card><name id="82">Bloodchief Ascension</name><set>zendikar</set></card>
+		<card><name id="261">Charcoal Diamond</name><set>mirage</set></card>
+		<card><name id="261">Charcoal Diamond</name><set>mirage</set></card>
+		<card><name id="261">Charcoal Diamond</name><set>mirage</set></card>
+		<card><name id="128">Guardian Idol</name><set>fd</set></card>
+		<card><name id="128">Guardian Idol</name><set>fd</set></card>
+		<card><name id="128">Guardian Idol</name><set>fd</set></card>
+		<card><name id="128">Guardian Idol</name><set>fd</set></card>
+		<card><name id="131">Smallpox</name><set>ts</set></card>
+		<card><name id="131">Smallpox</name><set>ts</set></card>
+		<card><name id="131">Smallpox</name><set>ts</set></card>
+		<card><name id="131">Smallpox</name><set>ts</set></card>
+		<card><name id="127">Ensnaring Bridge</name><set>stronghold</set></card>
+		<card><name id="127">Ensnaring Bridge</name><set>stronghold</set></card>
+		<card><name id="127">Ensnaring Bridge</name><set>stronghold</set></card>
+		<card><name id="123">Contamination</name><set>uz</set></card>
+		<card><name id="123">Contamination</name><set>uz</set></card>
+		<card><name id="123">Contamination</name><set>uz</set></card>
+		<card><name id="282">Smokestack</name><set>vma</set></card>
+		<card><name id="282">Smokestack</name><set>vma</set></card>
+		<card><name id="282">Smokestack</name><set>vma</set></card>
+		<card><name id="282">Smokestack</name><set>vma</set></card>
+	</superzone>
+</deck>

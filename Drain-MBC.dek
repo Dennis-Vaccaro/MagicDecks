@@ -1,0 +1,67 @@
+<deck version="0.8">
+	<meta>
+		<game>magic</game>
+	</meta>
+	<superzone name="Deck">
+		<card><name id="238">Swamp</name><set>zendikar</set></card>
+		<card><name id="238">Swamp</name><set>zendikar</set></card>
+		<card><name id="238">Swamp</name><set>zendikar</set></card>
+		<card><name id="238">Swamp</name><set>zendikar</set></card>
+		<card><name id="238">Swamp</name><set>zendikar</set></card>
+		<card><name id="238">Swamp</name><set>zendikar</set></card>
+		<card><name id="238">Swamp</name><set>zendikar</set></card>
+		<card><name id="238">Swamp</name><set>zendikar</set></card>
+		<card><name id="238">Swamp</name><set>zendikar</set></card>
+		<card><name id="238">Swamp</name><set>zendikar</set></card>
+		<card><name id="238">Swamp</name><set>zendikar</set></card>
+		<card><name id="238">Swamp</name><set>zendikar</set></card>
+		<card><name id="238">Swamp</name><set>zendikar</set></card>
+		<card><name id="238">Swamp</name><set>zendikar</set></card>
+		<card><name id="238">Swamp</name><set>zendikar</set></card>
+		<card><name id="238">Swamp</name><set>zendikar</set></card>
+		<card><name id="238">Swamp</name><set>zendikar</set></card>
+		<card><name id="238">Swamp</name><set>zendikar</set></card>
+		<card><name id="238">Swamp</name><set>zendikar</set></card>
+		<card><name id="238">Swamp</name><set>zendikar</set></card>
+		<card><name id="238">Swamp</name><set>zendikar</set></card>
+		<card><name id="238">Swamp</name><set>zendikar</set></card>
+		<card><name id="238">Swamp</name><set>zendikar</set></card>
+		<card><name id="238">Swamp</name><set>zendikar</set></card>
+		<card><name id="238">Swamp</name><set>zendikar</set></card>
+		<card><name id="331">Glacial Chasm</name><set>ia</set></card>
+		<card><name id="331">Glacial Chasm</name><set>ia</set></card>
+		<card><name id="331">Glacial Chasm</name><set>ia</set></card>
+		<card><name id="123">Everflowing Chalice</name><set>worldwake</set></card>
+		<card><name id="123">Everflowing Chalice</name><set>worldwake</set></card>
+		<card><name id="123">Everflowing Chalice</name><set>worldwake</set></card>
+		<card><name id="123">Everflowing Chalice</name><set>worldwake</set></card>
+		<card><name id="145">Innocent Blood</name><set>odyssey</set></card>
+		<card><name id="145">Innocent Blood</name><set>odyssey</set></card>
+		<card><name id="145">Innocent Blood</name><set>odyssey</set></card>
+		<card><name id="145">Innocent Blood</name><set>odyssey</set></card>
+		<card><name id="61">Exsanguinate</name><set>som</set></card>
+		<card><name id="61">Exsanguinate</name><set>som</set></card>
+		<card><name id="61">Exsanguinate</name><set>som</set></card>
+		<card><name id="61">Exsanguinate</name><set>som</set></card>
+		<card><name id="130">Phyrexian Arena</name><set>c15</set></card>
+		<card><name id="130">Phyrexian Arena</name><set>c15</set></card>
+		<card><name id="176">Syphon Soul</name><set>onslaught</set></card>
+		<card><name id="176">Syphon Soul</name><set>onslaught</set></card>
+		<card><name id="176">Syphon Soul</name><set>onslaught</set></card>
+		<card><name id="175">Syphon Mind</name><set>onslaught</set></card>
+		<card><name id="175">Syphon Mind</name><set>onslaught</set></card>
+		<card><name id="175">Syphon Mind</name><set>onslaught</set></card>
+		<card><name id="175">Syphon Mind</name><set>onslaught</set></card>
+		<card><name id="84">Blood Tithe</name><set>2011</set></card>
+		<card><name id="84">Blood Tithe</name><set>2011</set></card>
+		<card><name id="57">Barter in Blood</name><set>mirrodin</set></card>
+		<card><name id="57">Barter in Blood</name><set>mirrodin</set></card>
+		<card><name id="73">Mutilate</name><set>torment</set></card>
+		<card><name id="73">Mutilate</name><set>torment</set></card>
+		<card><name id="73">Mutilate</name><set>torment</set></card>
+		<card><name id="73">Mutilate</name><set>torment</set></card>
+		<card><name id="120">Eon Hub</name><set>fd</set></card>
+		<card><name id="120">Eon Hub</name><set>fd</set></card>
+		<card><name id="120">Eon Hub</name><set>fd</set></card>
+	</superzone>
+</deck>

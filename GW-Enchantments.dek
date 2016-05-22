@@ -1,0 +1,67 @@
+<deck version="0.8">
+	<meta>
+		<game>magic</game>
+	</meta>
+	<superzone name="Deck">
+		<card><name id="246">Forest</name><set>zendikar</set></card>
+		<card><name id="246">Forest</name><set>zendikar</set></card>
+		<card><name id="246">Forest</name><set>zendikar</set></card>
+		<card><name id="246">Forest</name><set>zendikar</set></card>
+		<card><name id="246">Forest</name><set>zendikar</set></card>
+		<card><name id="246">Forest</name><set>zendikar</set></card>
+		<card><name id="246">Forest</name><set>zendikar</set></card>
+		<card><name id="246">Forest</name><set>zendikar</set></card>
+		<card><name id="246">Forest</name><set>zendikar</set></card>
+		<card><name id="246">Forest</name><set>zendikar</set></card>
+		<card><name id="246">Forest</name><set>zendikar</set></card>
+		<card><name id="246">Forest</name><set>zendikar</set></card>
+		<card><name id="246">Forest</name><set>zendikar</set></card>
+		<card><name id="246">Forest</name><set>zendikar</set></card>
+		<card><name id="229">Sunpetal Grove</name><set>2013</set></card>
+		<card><name id="229">Sunpetal Grove</name><set>2013</set></card>
+		<card><name id="229">Sunpetal Grove</name><set>2013</set></card>
+		<card><name id="229">Sunpetal Grove</name><set>2013</set></card>
+		<card><name id="230">Plains</name><set>zendikar</set></card>
+		<card><name id="230">Plains</name><set>zendikar</set></card>
+		<card><name id="131">Verduran Enchantress</name><set>unlimited</set></card>
+		<card><name id="131">Verduran Enchantress</name><set>unlimited</set></card>
+		<card><name id="131">Verduran Enchantress</name><set>unlimited</set></card>
+		<card><name id="131">Verduran Enchantress</name><set>unlimited</set></card>
+		<card><name id="99">Utopia Sprawl</name><set>dissension</set></card>
+		<card><name id="99">Utopia Sprawl</name><set>dissension</set></card>
+		<card><name id="99">Utopia Sprawl</name><set>dissension</set></card>
+		<card><name id="99">Utopia Sprawl</name><set>dissension</set></card>
+		<card><name id="138">Wild Growth</name><set>unlimited</set></card>
+		<card><name id="138">Wild Growth</name><set>unlimited</set></card>
+		<card><name id="138">Wild Growth</name><set>unlimited</set></card>
+		<card><name id="138">Wild Growth</name><set>unlimited</set></card>
+		<card><name id="54">Elephant Grass</name><set>visions</set></card>
+		<card><name id="54">Elephant Grass</name><set>visions</set></card>
+		<card><name id="54">Elephant Grass</name><set>visions</set></card>
+		<card><name id="54">Elephant Grass</name><set>visions</set></card>
+		<card><name id="130">Mirri&apos;s Guile</name><set>tempest</set></card>
+		<card><name id="286">Steely Resolve</name><set>onslaught</set></card>
+		<card><name id="25">Luminarch Ascension</name><set>zendikar</set></card>
+		<card><name id="25">Luminarch Ascension</name><set>zendikar</set></card>
+		<card><name id="25">Luminarch Ascension</name><set>zendikar</set></card>
+		<card><name id="25">Luminarch Ascension</name><set>zendikar</set></card>
+		<card><name id="210">Island Sanctuary</name><set>unlimited</set></card>
+		<card><name id="210">Island Sanctuary</name><set>unlimited</set></card>
+		<card><name id="210">Island Sanctuary</name><set>unlimited</set></card>
+		<card><name id="52">City of Solitude</name><set>visions</set></card>
+		<card><name id="7">Ghostly Prison</name><set>pc2</set></card>
+		<card><name id="7">Ghostly Prison</name><set>pc2</set></card>
+		<card><name id="7">Ghostly Prison</name><set>pc2</set></card>
+		<card><name id="7">Ghostly Prison</name><set>pc2</set></card>
+		<card><name id="261">Enchantress&apos;s Presence</name><set>onslaught</set></card>
+		<card><name id="261">Enchantress&apos;s Presence</name><set>onslaught</set></card>
+		<card><name id="261">Enchantress&apos;s Presence</name><set>onslaught</set></card>
+		<card><name id="261">Enchantress&apos;s Presence</name><set>onslaught</set></card>
+		<card><name id="24">Sphere of Safety</name><set>rtr</set></card>
+		<card><name id="24">Sphere of Safety</name><set>rtr</set></card>
+		<card><name id="24">Sphere of Safety</name><set>rtr</set></card>
+		<card><name id="11">Sigil of the Empty Throne</name><set>pc2</set></card>
+		<card><name id="11">Sigil of the Empty Throne</name><set>pc2</set></card>
+		<card><name id="11">Sigil of the Empty Throne</name><set>pc2</set></card>
+	</superzone>
+</deck>

@@ -1,0 +1,67 @@
+<deck version="0.8">
+	<meta>
+		<game>magic</game>
+	</meta>
+	<superzone name="Deck">
+		<card><name id="242">Mountain</name><set>zendikar</set></card>
+		<card><name id="242">Mountain</name><set>zendikar</set></card>
+		<card><name id="242">Mountain</name><set>zendikar</set></card>
+		<card><name id="242">Mountain</name><set>zendikar</set></card>
+		<card><name id="242">Mountain</name><set>zendikar</set></card>
+		<card><name id="242">Mountain</name><set>zendikar</set></card>
+		<card><name id="242">Mountain</name><set>zendikar</set></card>
+		<card><name id="242">Mountain</name><set>zendikar</set></card>
+		<card><name id="242">Mountain</name><set>zendikar</set></card>
+		<card><name id="242">Mountain</name><set>zendikar</set></card>
+		<card><name id="242">Mountain</name><set>zendikar</set></card>
+		<card><name id="242">Mountain</name><set>zendikar</set></card>
+		<card><name id="242">Mountain</name><set>zendikar</set></card>
+		<card><name id="242">Mountain</name><set>zendikar</set></card>
+		<card><name id="242">Mountain</name><set>zendikar</set></card>
+		<card><name id="242">Mountain</name><set>zendikar</set></card>
+		<card><name id="242">Mountain</name><set>zendikar</set></card>
+		<card><name id="242">Mountain</name><set>zendikar</set></card>
+		<card><name id="242">Mountain</name><set>zendikar</set></card>
+		<card><name id="242">Mountain</name><set>zendikar</set></card>
+		<card><name id="242">Mountain</name><set>zendikar</set></card>
+		<card><name id="242">Mountain</name><set>zendikar</set></card>
+		<card><name id="242">Mountain</name><set>zendikar</set></card>
+		<card><name id="242">Mountain</name><set>zendikar</set></card>
+		<card><name id="143">Generator Servant</name><set>m15</set></card>
+		<card><name id="143">Generator Servant</name><set>m15</set></card>
+		<card><name id="143">Generator Servant</name><set>m15</set></card>
+		<card><name id="143">Generator Servant</name><set>m15</set></card>
+		<card><name id="34">Dualcaster Mage</name><set>c14</set></card>
+		<card><name id="34">Dualcaster Mage</name><set>c14</set></card>
+		<card><name id="34">Dualcaster Mage</name><set>c14</set></card>
+		<card><name id="34">Dualcaster Mage</name><set>c14</set></card>
+		<card><name id="106">Battered Golem</name><set>fd</set></card>
+		<card><name id="106">Battered Golem</name><set>fd</set></card>
+		<card><name id="106">Battered Golem</name><set>fd</set></card>
+		<card><name id="106">Battered Golem</name><set>fd</set></card>
+		<card><name id="166">Zealous Conscripts</name><set>avr</set></card>
+		<card><name id="166">Zealous Conscripts</name><set>avr</set></card>
+		<card><name id="166">Zealous Conscripts</name><set>avr</set></card>
+		<card><name id="166">Zealous Conscripts</name><set>avr</set></card>
+		<card><name id="120">Kiki-Jiki, Mirror Breaker</name><set>modernmasters</set></card>
+		<card><name id="120">Kiki-Jiki, Mirror Breaker</name><set>modernmasters</set></card>
+		<card><name id="120">Kiki-Jiki, Mirror Breaker</name><set>modernmasters</set></card>
+		<card><name id="87">Faithless Looting</name><set>dka</set></card>
+		<card><name id="87">Faithless Looting</name><set>dka</set></card>
+		<card><name id="87">Faithless Looting</name><set>dka</set></card>
+		<card><name id="87">Faithless Looting</name><set>dka</set></card>
+		<card><name id="186">Tormenting Voice</name><set>soi</set></card>
+		<card><name id="186">Tormenting Voice</name><set>soi</set></card>
+		<card><name id="186">Tormenting Voice</name><set>soi</set></card>
+		<card><name id="186">Tormenting Voice</name><set>soi</set></card>
+		<card><name id="115">Twinflame</name><set>jou</set></card>
+		<card><name id="115">Twinflame</name><set>jou</set></card>
+		<card><name id="115">Twinflame</name><set>jou</set></card>
+		<card><name id="115">Twinflame</name><set>jou</set></card>
+		<card><name id="165">Splinter Twin</name><set>roe</set></card>
+		<card><name id="165">Splinter Twin</name><set>roe</set></card>
+		<card><name id="165">Splinter Twin</name><set>roe</set></card>
+		<card><name id="165">Splinter Twin</name><set>roe</set></card>
+		<card><name id="109">Anger</name><set>commander</set></card>
+	</superzone>
+</deck>

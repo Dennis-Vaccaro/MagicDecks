@@ -1,0 +1,67 @@
+<deck version="0.8">
+	<meta>
+		<game>magic</game>
+	</meta>
+	<superzone name="Deck">
+		<card><name id="246">Forest</name><set>zendikar</set></card>
+		<card><name id="246">Forest</name><set>zendikar</set></card>
+		<card><name id="246">Forest</name><set>zendikar</set></card>
+		<card><name id="246">Forest</name><set>zendikar</set></card>
+		<card><name id="246">Forest</name><set>zendikar</set></card>
+		<card><name id="246">Forest</name><set>zendikar</set></card>
+		<card><name id="246">Forest</name><set>zendikar</set></card>
+		<card><name id="246">Forest</name><set>zendikar</set></card>
+		<card><name id="246">Forest</name><set>zendikar</set></card>
+		<card><name id="246">Forest</name><set>zendikar</set></card>
+		<card><name id="246">Forest</name><set>zendikar</set></card>
+		<card><name id="246">Forest</name><set>zendikar</set></card>
+		<card><name id="246">Forest</name><set>zendikar</set></card>
+		<card><name id="246">Forest</name><set>zendikar</set></card>
+		<card><name id="246">Forest</name><set>zendikar</set></card>
+		<card><name id="221">Oran-Rief, the Vastwood</name><set>zendikar</set></card>
+		<card><name id="106">Joraga Warcaller</name><set>worldwake</set></card>
+		<card><name id="106">Joraga Warcaller</name><set>worldwake</set></card>
+		<card><name id="106">Joraga Warcaller</name><set>worldwake</set></card>
+		<card><name id="106">Joraga Warcaller</name><set>worldwake</set></card>
+		<card><name id="210">Fyndhorn Elves</name><set>vma</set></card>
+		<card><name id="210">Fyndhorn Elves</name><set>vma</set></card>
+		<card><name id="210">Fyndhorn Elves</name><set>vma</set></card>
+		<card><name id="130">Elvish Visionary</name><set>soa</set></card>
+		<card><name id="130">Elvish Visionary</name><set>soa</set></card>
+		<card><name id="130">Elvish Visionary</name><set>soa</set></card>
+		<card><name id="130">Elvish Visionary</name><set>soa</set></card>
+		<card><name id="190">Elvish Archdruid</name><set>c14</set></card>
+		<card><name id="190">Elvish Archdruid</name><set>c14</set></card>
+		<card><name id="190">Elvish Archdruid</name><set>c14</set></card>
+		<card><name id="190">Elvish Archdruid</name><set>c14</set></card>
+		<card><name id="220">Imperious Perfect</name><set>lorwyn</set></card>
+		<card><name id="220">Imperious Perfect</name><set>lorwyn</set></card>
+		<card><name id="220">Imperious Perfect</name><set>lorwyn</set></card>
+		<card><name id="220">Imperious Perfect</name><set>lorwyn</set></card>
+		<card><name id="119">Ezuri, Renegade Leader</name><set>som</set></card>
+		<card><name id="119">Ezuri, Renegade Leader</name><set>som</set></card>
+		<card><name id="199">Sylvan Messenger</name><set>origins</set></card>
+		<card><name id="199">Sylvan Messenger</name><set>origins</set></card>
+		<card><name id="199">Sylvan Messenger</name><set>origins</set></card>
+		<card><name id="199">Sylvan Messenger</name><set>origins</set></card>
+		<card><name id="66">Dense Foliage</name><set>weatherlight</set></card>
+		<card><name id="27">Wirewood Lodge</name><set>aevg</set></card>
+		<card><name id="27">Wirewood Lodge</name><set>aevg</set></card>
+		<card><name id="204">Llanowar Elves</name><set>c14</set></card>
+		<card><name id="204">Llanowar Elves</name><set>c14</set></card>
+		<card><name id="204">Llanowar Elves</name><set>c14</set></card>
+		<card><name id="204">Llanowar Elves</name><set>c14</set></card>
+		<card><name id="17">Wirewood Symbiote</name><set>aevg</set></card>
+		<card><name id="17">Wirewood Symbiote</name><set>aevg</set></card>
+		<card><name id="17">Wirewood Symbiote</name><set>aevg</set></card>
+		<card><name id="17">Wirewood Symbiote</name><set>aevg</set></card>
+		<card><name id="210">Priest of Titania</name><set>c14</set></card>
+		<card><name id="210">Priest of Titania</name><set>c14</set></card>
+		<card><name id="210">Priest of Titania</name><set>c14</set></card>
+		<card><name id="210">Priest of Titania</name><set>c14</set></card>
+		<card><name id="231">Biorhythm</name><set>9e</set></card>
+		<card><name id="231">Biorhythm</name><set>9e</set></card>
+		<card><name id="231">Biorhythm</name><set>9e</set></card>
+		<card><name id="231">Biorhythm</name><set>9e</set></card>
+	</superzone>
+</deck>

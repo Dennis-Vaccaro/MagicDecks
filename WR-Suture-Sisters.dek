@@ -1,0 +1,67 @@
+<deck version="0.8">
+	<meta>
+		<game>magic</game>
+	</meta>
+	<superzone name="Deck">
+		<card><name id="44">Soul&apos;s Attendant</name><set>roe</set></card>
+		<card><name id="44">Soul&apos;s Attendant</name><set>roe</set></card>
+		<card><name id="44">Soul&apos;s Attendant</name><set>roe</set></card>
+		<card><name id="44">Soul&apos;s Attendant</name><set>roe</set></card>
+		<card><name id="44">Soul Warden</name><set>10e</set></card>
+		<card><name id="44">Soul Warden</name><set>10e</set></card>
+		<card><name id="44">Soul Warden</name><set>10e</set></card>
+		<card><name id="44">Soul Warden</name><set>10e</set></card>
+		<card><name id="25">Suture Priest</name><set>nph</set></card>
+		<card><name id="25">Suture Priest</name><set>nph</set></card>
+		<card><name id="25">Suture Priest</name><set>nph</set></card>
+		<card><name id="25">Suture Priest</name><set>nph</set></card>
+		<card><name id="2">Ajani&apos;s Pridemate</name><set>m15</set></card>
+		<card><name id="2">Ajani&apos;s Pridemate</name><set>m15</set></card>
+		<card><name id="2">Ajani&apos;s Pridemate</name><set>m15</set></card>
+		<card><name id="2">Ajani&apos;s Pridemate</name><set>m15</set></card>
+		<card><name id="122">Varchild&apos;s War-Riders</name><set>alliances</set></card>
+		<card><name id="122">Varchild&apos;s War-Riders</name><set>alliances</set></card>
+		<card><name id="122">Varchild&apos;s War-Riders</name><set>alliances</set></card>
+		<card><name id="122">Varchild&apos;s War-Riders</name><set>alliances</set></card>
+		<card><name id="9">Elspeth, Sun&apos;s Champion</name><set>theros</set></card>
+		<card><name id="9">Elspeth, Sun&apos;s Champion</name><set>theros</set></card>
+		<card><name id="9">Elspeth, Sun&apos;s Champion</name><set>theros</set></card>
+		<card><name id="9">Elspeth, Sun&apos;s Champion</name><set>theros</set></card>
+		<card><name id="135">Circle of Flame</name><set>m15</set></card>
+		<card><name id="135">Circle of Flame</name><set>m15</set></card>
+		<card><name id="136">Powder Keg</name><set>ud</set></card>
+		<card><name id="136">Powder Keg</name><set>ud</set></card>
+		<card><name id="155">Detention Sphere</name><set>rtr</set></card>
+		<card><name id="155">Detention Sphere</name><set>rtr</set></card>
+		<card><name id="155">Detention Sphere</name><set>rtr</set></card>
+		<card><name id="155">Detention Sphere</name><set>rtr</set></card>
+		<card><name id="12">Declaration in Stone</name><set>soi</set></card>
+		<card><name id="12">Declaration in Stone</name><set>soi</set></card>
+		<card><name id="12">Declaration in Stone</name><set>soi</set></card>
+		<card><name id="236">Mystic Monastery</name><set>ktk</set></card>
+		<card><name id="236">Mystic Monastery</name><set>ktk</set></card>
+		<card><name id="236">Mystic Monastery</name><set>ktk</set></card>
+		<card><name id="236">Mystic Monastery</name><set>ktk</set></card>
+		<card><name id="12">Steam Vents</name><set>expeditions</set></card>
+		<card><name id="12">Steam Vents</name><set>expeditions</set></card>
+		<card><name id="12">Steam Vents</name><set>expeditions</set></card>
+		<card><name id="12">Steam Vents</name><set>expeditions</set></card>
+		<card><name id="14">Sacred Foundry</name><set>expeditions</set></card>
+		<card><name id="14">Sacred Foundry</name><set>expeditions</set></card>
+		<card><name id="14">Sacred Foundry</name><set>expeditions</set></card>
+		<card><name id="14">Sacred Foundry</name><set>expeditions</set></card>
+		<card><name id="6">Hallowed Fountain</name><set>expeditions</set></card>
+		<card><name id="6">Hallowed Fountain</name><set>expeditions</set></card>
+		<card><name id="6">Hallowed Fountain</name><set>expeditions</set></card>
+		<card><name id="6">Hallowed Fountain</name><set>expeditions</set></card>
+		<card><name id="39">Forbidden Orchard</name><set>expeditions</set></card>
+		<card><name id="39">Forbidden Orchard</name><set>expeditions</set></card>
+		<card><name id="39">Forbidden Orchard</name><set>expeditions</set></card>
+		<card><name id="39">Forbidden Orchard</name><set>expeditions</set></card>
+		<card><name id="42">Mana Confluence</name><set>expeditions</set></card>
+		<card><name id="42">Mana Confluence</name><set>expeditions</set></card>
+		<card><name id="42">Mana Confluence</name><set>expeditions</set></card>
+		<card><name id="42">Mana Confluence</name><set>expeditions</set></card>
+		<card><name id="82">Sun Titan</name><set>c15</set></card>
+	</superzone>
+</deck>

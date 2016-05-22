@@ -1,0 +1,67 @@
+<deck version="0.8">
+	<meta>
+		<game>magic</game>
+	</meta>
+	<superzone name="Deck">
+		<card><name id="242">Mountain</name><set>zendikar</set></card>
+		<card><name id="242">Mountain</name><set>zendikar</set></card>
+		<card><name id="242">Mountain</name><set>zendikar</set></card>
+		<card><name id="242">Mountain</name><set>zendikar</set></card>
+		<card><name id="242">Mountain</name><set>zendikar</set></card>
+		<card><name id="242">Mountain</name><set>zendikar</set></card>
+		<card><name id="242">Mountain</name><set>zendikar</set></card>
+		<card><name id="242">Mountain</name><set>zendikar</set></card>
+		<card><name id="242">Mountain</name><set>zendikar</set></card>
+		<card><name id="242">Mountain</name><set>zendikar</set></card>
+		<card><name id="242">Mountain</name><set>zendikar</set></card>
+		<card><name id="242">Mountain</name><set>zendikar</set></card>
+		<card><name id="242">Mountain</name><set>zendikar</set></card>
+		<card><name id="242">Mountain</name><set>zendikar</set></card>
+		<card><name id="242">Mountain</name><set>zendikar</set></card>
+		<card><name id="242">Mountain</name><set>zendikar</set></card>
+		<card><name id="242">Mountain</name><set>zendikar</set></card>
+		<card><name id="242">Mountain</name><set>zendikar</set></card>
+		<card><name id="242">Mountain</name><set>zendikar</set></card>
+		<card><name id="242">Mountain</name><set>zendikar</set></card>
+		<card><name id="242">Mountain</name><set>zendikar</set></card>
+		<card><name id="61">Myriad Landscape</name><set>c14</set></card>
+		<card><name id="61">Myriad Landscape</name><set>c14</set></card>
+		<card><name id="61">Myriad Landscape</name><set>c14</set></card>
+		<card><name id="61">Myriad Landscape</name><set>c14</set></card>
+		<card><name id="109">Taurean Mauler</name><set>morningtide</set></card>
+		<card><name id="109">Taurean Mauler</name><set>morningtide</set></card>
+		<card><name id="109">Taurean Mauler</name><set>morningtide</set></card>
+		<card><name id="109">Taurean Mauler</name><set>morningtide</set></card>
+		<card><name id="130">Squee, Goblin Nabob</name><set>modernmasters</set></card>
+		<card><name id="110">Goblin Dark-Dwellers</name><set>ogw</set></card>
+		<card><name id="110">Goblin Dark-Dwellers</name><set>ogw</set></card>
+		<card><name id="110">Goblin Dark-Dwellers</name><set>ogw</set></card>
+		<card><name id="110">Goblin Dark-Dwellers</name><set>ogw</set></card>
+		<card><name id="160">Inferno Titan</name><set>c15</set></card>
+		<card><name id="160">Inferno Titan</name><set>c15</set></card>
+		<card><name id="160">Inferno Titan</name><set>c15</set></card>
+		<card><name id="161">Wild Guess</name><set>m14</set></card>
+		<card><name id="161">Wild Guess</name><set>m14</set></card>
+		<card><name id="161">Wild Guess</name><set>m14</set></card>
+		<card><name id="161">Wild Guess</name><set>m14</set></card>
+		<card><name id="186">Tormenting Voice</name><set>soi</set></card>
+		<card><name id="186">Tormenting Voice</name><set>soi</set></card>
+		<card><name id="186">Tormenting Voice</name><set>soi</set></card>
+		<card><name id="186">Tormenting Voice</name><set>soi</set></card>
+		<card><name id="145">Reverberate</name><set>2013</set></card>
+		<card><name id="95">Increasing Vengeance</name><set>dka</set></card>
+		<card><name id="216">Recoup</name><set>odyssey</set></card>
+		<card><name id="75">Slagstorm</name><set>mbs</set></card>
+		<card><name id="75">Slagstorm</name><set>mbs</set></card>
+		<card><name id="75">Slagstorm</name><set>mbs</set></card>
+		<card><name id="75">Slagstorm</name><set>mbs</set></card>
+		<card><name id="56">Browbeat</name><set>tsts</set></card>
+		<card><name id="175">Heat Shimmer</name><set>lorwyn</set></card>
+		<card><name id="154">Chaos Warp</name><set>vma</set></card>
+		<card><name id="236">Pyromancer&apos;s Goggles</name><set>origins</set></card>
+		<card><name id="236">Pyromancer&apos;s Goggles</name><set>origins</set></card>
+		<card><name id="236">Pyromancer&apos;s Goggles</name><set>origins</set></card>
+		<card><name id="109">Mob Rule</name><set>frf</set></card>
+		<card><name id="109">Mob Rule</name><set>frf</set></card>
+	</superzone>
+</deck>

@@ -1,0 +1,67 @@
+<deck version="0.8">
+	<meta>
+		<game>magic</game>
+	</meta>
+	<superzone name="Deck">
+		<card><name id="234">Island</name><set>zendikar</set></card>
+		<card><name id="234">Island</name><set>zendikar</set></card>
+		<card><name id="234">Island</name><set>zendikar</set></card>
+		<card><name id="234">Island</name><set>zendikar</set></card>
+		<card><name id="234">Island</name><set>zendikar</set></card>
+		<card><name id="234">Island</name><set>zendikar</set></card>
+		<card><name id="234">Island</name><set>zendikar</set></card>
+		<card><name id="225">Glacial Fortress</name><set>2013</set></card>
+		<card><name id="225">Glacial Fortress</name><set>2013</set></card>
+		<card><name id="225">Glacial Fortress</name><set>2013</set></card>
+		<card><name id="225">Glacial Fortress</name><set>2013</set></card>
+		<card><name id="280">Wanderwine Hub</name><set>lorwyn</set></card>
+		<card><name id="280">Wanderwine Hub</name><set>lorwyn</set></card>
+		<card><name id="280">Wanderwine Hub</name><set>lorwyn</set></card>
+		<card><name id="280">Wanderwine Hub</name><set>lorwyn</set></card>
+		<card><name id="229">Seachrome Coast</name><set>som</set></card>
+		<card><name id="229">Seachrome Coast</name><set>som</set></card>
+		<card><name id="229">Seachrome Coast</name><set>som</set></card>
+		<card><name id="229">Seachrome Coast</name><set>som</set></card>
+		<card><name id="148">Mutavault</name><set>morningtide</set></card>
+		<card><name id="148">Mutavault</name><set>morningtide</set></card>
+		<card><name id="148">Mutavault</name><set>morningtide</set></card>
+		<card><name id="148">Mutavault</name><set>morningtide</set></card>
+		<card><name id="86">Silvergill Adept</name><set>lorwyn</set></card>
+		<card><name id="86">Silvergill Adept</name><set>lorwyn</set></card>
+		<card><name id="86">Silvergill Adept</name><set>lorwyn</set></card>
+		<card><name id="86">Silvergill Adept</name><set>lorwyn</set></card>
+		<card><name id="63">Lord of Atlantis</name><set>unlimited</set></card>
+		<card><name id="63">Lord of Atlantis</name><set>unlimited</set></card>
+		<card><name id="63">Lord of Atlantis</name><set>unlimited</set></card>
+		<card><name id="63">Lord of Atlantis</name><set>unlimited</set></card>
+		<card><name id="59">Master of the Pearl Trident</name><set>2013</set></card>
+		<card><name id="59">Master of the Pearl Trident</name><set>2013</set></card>
+		<card><name id="59">Master of the Pearl Trident</name><set>2013</set></card>
+		<card><name id="59">Master of the Pearl Trident</name><set>2013</set></card>
+		<card><name id="57">Coralhelm Commander</name><set>roe</set></card>
+		<card><name id="57">Coralhelm Commander</name><set>roe</set></card>
+		<card><name id="57">Coralhelm Commander</name><set>roe</set></card>
+		<card><name id="57">Coralhelm Commander</name><set>roe</set></card>
+		<card><name id="65">Merfolk Sovereign</name><set>2011</set></card>
+		<card><name id="65">Merfolk Sovereign</name><set>2011</set></card>
+		<card><name id="65">Merfolk Sovereign</name><set>2011</set></card>
+		<card><name id="65">Merfolk Sovereign</name><set>2011</set></card>
+		<card><name id="66">Thassa, God of the Sea</name><set>theros</set></card>
+		<card><name id="66">Thassa, God of the Sea</name><set>theros</set></card>
+		<card><name id="31">Tidal Courier</name><set>apocalypse</set></card>
+		<card><name id="31">Tidal Courier</name><set>apocalypse</set></card>
+		<card><name id="31">Tidal Courier</name><set>apocalypse</set></card>
+		<card><name id="31">Tidal Courier</name><set>apocalypse</set></card>
+		<card><name id="45">Rhystic Study</name><set>prophecy</set></card>
+		<card><name id="45">Rhystic Study</name><set>prophecy</set></card>
+		<card><name id="45">Rhystic Study</name><set>prophecy</set></card>
+		<card><name id="42">Summon the School</name><set>lorwyn</set></card>
+		<card><name id="42">Summon the School</name><set>lorwyn</set></card>
+		<card><name id="42">Summon the School</name><set>lorwyn</set></card>
+		<card><name id="42">Summon the School</name><set>lorwyn</set></card>
+		<card><name id="42">Bident of Thassa</name><set>theros</set></card>
+		<card><name id="199">Eldrazi Monument</name><set>zendikar</set></card>
+		<card><name id="199">Eldrazi Monument</name><set>zendikar</set></card>
+		<card><name id="199">Eldrazi Monument</name><set>zendikar</set></card>
+	</superzone>
+</deck>

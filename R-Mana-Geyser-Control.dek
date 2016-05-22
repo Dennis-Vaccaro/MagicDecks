@@ -1,0 +1,67 @@
+<deck version="0.8">
+	<meta>
+		<game>magic</game>
+	</meta>
+	<superzone name="Deck">
+		<card><name id="242">Mountain</name><set>zendikar</set></card>
+		<card><name id="242">Mountain</name><set>zendikar</set></card>
+		<card><name id="242">Mountain</name><set>zendikar</set></card>
+		<card><name id="242">Mountain</name><set>zendikar</set></card>
+		<card><name id="242">Mountain</name><set>zendikar</set></card>
+		<card><name id="242">Mountain</name><set>zendikar</set></card>
+		<card><name id="242">Mountain</name><set>zendikar</set></card>
+		<card><name id="242">Mountain</name><set>zendikar</set></card>
+		<card><name id="242">Mountain</name><set>zendikar</set></card>
+		<card><name id="242">Mountain</name><set>zendikar</set></card>
+		<card><name id="242">Mountain</name><set>zendikar</set></card>
+		<card><name id="242">Mountain</name><set>zendikar</set></card>
+		<card><name id="242">Mountain</name><set>zendikar</set></card>
+		<card><name id="242">Mountain</name><set>zendikar</set></card>
+		<card><name id="242">Mountain</name><set>zendikar</set></card>
+		<card><name id="242">Mountain</name><set>zendikar</set></card>
+		<card><name id="242">Mountain</name><set>zendikar</set></card>
+		<card><name id="242">Mountain</name><set>zendikar</set></card>
+		<card><name id="242">Mountain</name><set>zendikar</set></card>
+		<card><name id="242">Mountain</name><set>zendikar</set></card>
+		<card><name id="242">Mountain</name><set>zendikar</set></card>
+		<card><name id="61">Myriad Landscape</name><set>c14</set></card>
+		<card><name id="61">Myriad Landscape</name><set>c14</set></card>
+		<card><name id="61">Myriad Landscape</name><set>c14</set></card>
+		<card><name id="61">Myriad Landscape</name><set>c14</set></card>
+		<card><name id="143">Generator Servant</name><set>m15</set></card>
+		<card><name id="143">Generator Servant</name><set>m15</set></card>
+		<card><name id="143">Generator Servant</name><set>m15</set></card>
+		<card><name id="143">Generator Servant</name><set>m15</set></card>
+		<card><name id="109">Taurean Mauler</name><set>morningtide</set></card>
+		<card><name id="109">Taurean Mauler</name><set>morningtide</set></card>
+		<card><name id="34">Dualcaster Mage</name><set>c14</set></card>
+		<card><name id="34">Dualcaster Mage</name><set>c14</set></card>
+		<card><name id="160">Flametongue Kavu</name><set>vma</set></card>
+		<card><name id="160">Flametongue Kavu</name><set>vma</set></card>
+		<card><name id="160">Flametongue Kavu</name><set>vma</set></card>
+		<card><name id="160">Flametongue Kavu</name><set>vma</set></card>
+		<card><name id="160">Inferno Titan</name><set>c15</set></card>
+		<card><name id="160">Inferno Titan</name><set>c15</set></card>
+		<card><name id="160">Inferno Titan</name><set>c15</set></card>
+		<card><name id="160">Inferno Titan</name><set>c15</set></card>
+		<card><name id="52">Sandstone Oracle</name><set>c15</set></card>
+		<card><name id="128">Magmatic Force</name><set>commander</set></card>
+		<card><name id="2">Artisan of Kozilek</name><set>roe</set></card>
+		<card><name id="4">Kozilek, the Great Distortion</name><set>ogw</set></card>
+		<card><name id="76">Comet Storm</name><set>worldwake</set></card>
+		<card><name id="318">Worn Powerstone</name><set>uz</set></card>
+		<card><name id="318">Worn Powerstone</name><set>uz</set></card>
+		<card><name id="75">Mana Geyser</name><set>fd</set></card>
+		<card><name id="75">Mana Geyser</name><set>fd</set></card>
+		<card><name id="75">Mana Geyser</name><set>fd</set></card>
+		<card><name id="75">Mana Geyser</name><set>fd</set></card>
+		<card><name id="167">Volcanic Vision</name><set>dtk</set></card>
+		<card><name id="167">Volcanic Vision</name><set>dtk</set></card>
+		<card><name id="167">Volcanic Vision</name><set>dtk</set></card>
+		<card><name id="167">Volcanic Vision</name><set>dtk</set></card>
+		<card><name id="270">Staff of Nin</name><set>c15</set></card>
+		<card><name id="141">Disaster Radius</name><set>roe</set></card>
+		<card><name id="119">Vicious Shadows</name><set>soa</set></card>
+		<card><name id="213">Insurrection</name><set>onslaught</set></card>
+	</superzone>
+</deck>

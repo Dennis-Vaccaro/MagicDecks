@@ -1,0 +1,67 @@
+<deck version="0.8">
+	<meta>
+		<game>magic</game>
+	</meta>
+	<superzone name="Deck">
+		<card><name id="234">Island</name><set>zendikar</set></card>
+		<card><name id="234">Island</name><set>zendikar</set></card>
+		<card><name id="234">Island</name><set>zendikar</set></card>
+		<card><name id="234">Island</name><set>zendikar</set></card>
+		<card><name id="234">Island</name><set>zendikar</set></card>
+		<card><name id="234">Island</name><set>zendikar</set></card>
+		<card><name id="234">Island</name><set>zendikar</set></card>
+		<card><name id="234">Island</name><set>zendikar</set></card>
+		<card><name id="234">Island</name><set>zendikar</set></card>
+		<card><name id="234">Island</name><set>zendikar</set></card>
+		<card><name id="234">Island</name><set>zendikar</set></card>
+		<card><name id="234">Island</name><set>zendikar</set></card>
+		<card><name id="234">Island</name><set>zendikar</set></card>
+		<card><name id="234">Island</name><set>zendikar</set></card>
+		<card><name id="234">Island</name><set>zendikar</set></card>
+		<card><name id="234">Island</name><set>zendikar</set></card>
+		<card><name id="234">Island</name><set>zendikar</set></card>
+		<card><name id="234">Island</name><set>zendikar</set></card>
+		<card><name id="234">Island</name><set>zendikar</set></card>
+		<card><name id="234">Island</name><set>zendikar</set></card>
+		<card><name id="143">Reliquary Tower</name><set>cfx</set></card>
+		<card><name id="143">Reliquary Tower</name><set>cfx</set></card>
+		<card><name id="143">Reliquary Tower</name><set>cfx</set></card>
+		<card><name id="143">Reliquary Tower</name><set>cfx</set></card>
+		<card><name id="205">Epochrasite</name><set>modernmasters</set></card>
+		<card><name id="205">Epochrasite</name><set>modernmasters</set></card>
+		<card><name id="205">Epochrasite</name><set>modernmasters</set></card>
+		<card><name id="205">Epochrasite</name><set>modernmasters</set></card>
+		<card><name id="42">Phyrexian Metamorph</name><set>nph</set></card>
+		<card><name id="42">Phyrexian Metamorph</name><set>nph</set></card>
+		<card><name id="42">Phyrexian Metamorph</name><set>nph</set></card>
+		<card><name id="42">Phyrexian Metamorph</name><set>nph</set></card>
+		<card><name id="32">Aeon Chronicler</name><set>plc</set></card>
+		<card><name id="32">Aeon Chronicler</name><set>plc</set></card>
+		<card><name id="32">Aeon Chronicler</name><set>plc</set></card>
+		<card><name id="32">Aeon Chronicler</name><set>plc</set></card>
+		<card><name id="60">Errant Ephemeron</name><set>ts</set></card>
+		<card><name id="60">Errant Ephemeron</name><set>ts</set></card>
+		<card><name id="60">Errant Ephemeron</name><set>ts</set></card>
+		<card><name id="56">Deep-Sea Kraken</name><set>ts</set></card>
+		<card><name id="56">Deep-Sea Kraken</name><set>ts</set></card>
+		<card><name id="56">Deep-Sea Kraken</name><set>ts</set></card>
+		<card><name id="284">Sky Diamond</name><set>mirage</set></card>
+		<card><name id="284">Sky Diamond</name><set>mirage</set></card>
+		<card><name id="284">Sky Diamond</name><set>mirage</set></card>
+		<card><name id="318">Worn Powerstone</name><set>uz</set></card>
+		<card><name id="318">Worn Powerstone</name><set>uz</set></card>
+		<card><name id="45">Rhystic Study</name><set>prophecy</set></card>
+		<card><name id="45">Rhystic Study</name><set>prophecy</set></card>
+		<card><name id="45">Rhystic Study</name><set>prophecy</set></card>
+		<card><name id="118">Trade Secrets</name><set>onslaught</set></card>
+		<card><name id="118">Trade Secrets</name><set>onslaught</set></card>
+		<card><name id="118">Trade Secrets</name><set>onslaught</set></card>
+		<card><name id="139">Thran Dynamo</name><set>ud</set></card>
+		<card><name id="139">Thran Dynamo</name><set>ud</set></card>
+		<card><name id="139">Thran Dynamo</name><set>ud</set></card>
+		<card><name id="100">Upheaval</name><set>vma</set></card>
+		<card><name id="100">Upheaval</name><set>vma</set></card>
+		<card><name id="100">Upheaval</name><set>vma</set></card>
+		<card><name id="100">Upheaval</name><set>vma</set></card>
+	</superzone>
+</deck>

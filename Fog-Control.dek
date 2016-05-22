@@ -1,0 +1,67 @@
+<deck version="0.8">
+	<meta>
+		<game>magic</game>
+	</meta>
+	<superzone name="Deck">
+		<card><name id="246">Forest</name><set>zendikar</set></card>
+		<card><name id="246">Forest</name><set>zendikar</set></card>
+		<card><name id="246">Forest</name><set>zendikar</set></card>
+		<card><name id="246">Forest</name><set>zendikar</set></card>
+		<card><name id="246">Forest</name><set>zendikar</set></card>
+		<card><name id="246">Forest</name><set>zendikar</set></card>
+		<card><name id="246">Forest</name><set>zendikar</set></card>
+		<card><name id="246">Forest</name><set>zendikar</set></card>
+		<card><name id="246">Forest</name><set>zendikar</set></card>
+		<card><name id="246">Forest</name><set>zendikar</set></card>
+		<card><name id="246">Forest</name><set>zendikar</set></card>
+		<card><name id="246">Forest</name><set>zendikar</set></card>
+		<card><name id="246">Forest</name><set>zendikar</set></card>
+		<card><name id="246">Forest</name><set>zendikar</set></card>
+		<card><name id="246">Forest</name><set>zendikar</set></card>
+		<card><name id="246">Forest</name><set>zendikar</set></card>
+		<card><name id="246">Forest</name><set>zendikar</set></card>
+		<card><name id="246">Forest</name><set>zendikar</set></card>
+		<card><name id="246">Forest</name><set>zendikar</set></card>
+		<card><name id="246">Forest</name><set>zendikar</set></card>
+		<card><name id="246">Forest</name><set>zendikar</set></card>
+		<card><name id="246">Forest</name><set>zendikar</set></card>
+		<card><name id="246">Forest</name><set>zendikar</set></card>
+		<card><name id="331">Glacial Chasm</name><set>ia</set></card>
+		<card><name id="331">Glacial Chasm</name><set>ia</set></card>
+		<card><name id="331">Glacial Chasm</name><set>ia</set></card>
+		<card><name id="331">Glacial Chasm</name><set>ia</set></card>
+		<card><name id="201">Expedition Map</name><set>zendikar</set></card>
+		<card><name id="201">Expedition Map</name><set>zendikar</set></card>
+		<card><name id="201">Expedition Map</name><set>zendikar</set></card>
+		<card><name id="201">Expedition Map</name><set>zendikar</set></card>
+		<card><name id="98">Crop Rotation</name><set>ul</set></card>
+		<card><name id="154">Ebony Owl Netsuke</name><set>sok</set></card>
+		<card><name id="154">Ebony Owl Netsuke</name><set>sok</set></card>
+		<card><name id="40">Gaea&apos;s Touch</name><set>dark</set></card>
+		<card><name id="40">Gaea&apos;s Touch</name><set>dark</set></card>
+		<card><name id="172">Life from the Loam</name><set>ravnica</set></card>
+		<card><name id="172">Life from the Loam</name><set>ravnica</set></card>
+		<card><name id="135">Roots of Life</name><set>mirage</set></card>
+		<card><name id="137">Rites of Flourishing</name><set>fs</set></card>
+		<card><name id="137">Rites of Flourishing</name><set>fs</set></card>
+		<card><name id="137">Rites of Flourishing</name><set>fs</set></card>
+		<card><name id="137">Rites of Flourishing</name><set>fs</set></card>
+		<card><name id="129">Horn of Greed</name><set>stronghold</set></card>
+		<card><name id="129">Horn of Greed</name><set>stronghold</set></card>
+		<card><name id="129">Horn of Greed</name><set>stronghold</set></card>
+		<card><name id="127">Iron Maiden</name><set>ul</set></card>
+		<card><name id="127">Iron Maiden</name><set>ul</set></card>
+		<card><name id="127">Iron Maiden</name><set>ul</set></card>
+		<card><name id="132">Lifegift</name><set>bok</set></card>
+		<card><name id="132">Lifegift</name><set>bok</set></card>
+		<card><name id="132">Lifegift</name><set>bok</set></card>
+		<card><name id="132">Lifegift</name><set>bok</set></card>
+		<card><name id="305">Words of Wilding</name><set>onslaught</set></card>
+		<card><name id="136">Font of Mythos</name><set>cfx</set></card>
+		<card><name id="136">Font of Mythos</name><set>cfx</set></card>
+		<card><name id="251">Howling Mine</name><set>commander</set></card>
+		<card><name id="251">Howling Mine</name><set>commander</set></card>
+		<card><name id="251">Howling Mine</name><set>commander</set></card>
+		<card><name id="292">Crystal Chimes</name><set>uz</set></card>
+	</superzone>
+</deck>

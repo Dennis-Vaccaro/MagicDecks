@@ -1,0 +1,67 @@
+<deck version="0.8">
+	<meta>
+		<game>magic</game>
+	</meta>
+	<superzone name="Deck">
+		<card><name id="246">Forest</name><set>zendikar</set></card>
+		<card><name id="246">Forest</name><set>zendikar</set></card>
+		<card><name id="246">Forest</name><set>zendikar</set></card>
+		<card><name id="246">Forest</name><set>zendikar</set></card>
+		<card><name id="246">Forest</name><set>zendikar</set></card>
+		<card><name id="246">Forest</name><set>zendikar</set></card>
+		<card><name id="246">Forest</name><set>zendikar</set></card>
+		<card><name id="246">Forest</name><set>zendikar</set></card>
+		<card><name id="246">Forest</name><set>zendikar</set></card>
+		<card><name id="246">Forest</name><set>zendikar</set></card>
+		<card><name id="246">Forest</name><set>zendikar</set></card>
+		<card><name id="246">Forest</name><set>zendikar</set></card>
+		<card><name id="246">Forest</name><set>zendikar</set></card>
+		<card><name id="246">Forest</name><set>zendikar</set></card>
+		<card><name id="246">Forest</name><set>zendikar</set></card>
+		<card><name id="246">Forest</name><set>zendikar</set></card>
+		<card><name id="246">Forest</name><set>zendikar</set></card>
+		<card><name id="246">Forest</name><set>zendikar</set></card>
+		<card><name id="270">Mosswort Bridge</name><set>lorwyn</set></card>
+		<card><name id="270">Mosswort Bridge</name><set>lorwyn</set></card>
+		<card><name id="270">Mosswort Bridge</name><set>lorwyn</set></card>
+		<card><name id="270">Mosswort Bridge</name><set>lorwyn</set></card>
+		<card><name id="221">Oran-Rief, the Vastwood</name><set>zendikar</set></card>
+		<card><name id="221">Oran-Rief, the Vastwood</name><set>zendikar</set></card>
+		<card><name id="325">Yavimaya Hollow</name><set>vma</set></card>
+		<card><name id="200">Ulvenwald Tracker</name><set>avr</set></card>
+		<card><name id="200">Ulvenwald Tracker</name><set>avr</set></card>
+		<card><name id="187">Nightshade Peddler</name><set>avr</set></card>
+		<card><name id="187">Nightshade Peddler</name><set>avr</set></card>
+		<card><name id="187">Nightshade Peddler</name><set>avr</set></card>
+		<card><name id="187">Nightshade Peddler</name><set>avr</set></card>
+		<card><name id="127">Strangleroot Geist</name><set>dka</set></card>
+		<card><name id="127">Strangleroot Geist</name><set>dka</set></card>
+		<card><name id="124">Predator Ooze</name><set>dka</set></card>
+		<card><name id="124">Predator Ooze</name><set>dka</set></card>
+		<card><name id="124">Predator Ooze</name><set>dka</set></card>
+		<card><name id="124">Predator Ooze</name><set>dka</set></card>
+		<card><name id="115">Ohran Viper</name><set>coldsnap</set></card>
+		<card><name id="66">Lumberknot</name><set>pc2</set></card>
+		<card><name id="66">Lumberknot</name><set>pc2</set></card>
+		<card><name id="66">Lumberknot</name><set>pc2</set></card>
+		<card><name id="140">Lhurgoyf</name><set>ia</set></card>
+		<card><name id="140">Lhurgoyf</name><set>ia</set></card>
+		<card><name id="131">Vorapede</name><set>dka</set></card>
+		<card><name id="131">Vorapede</name><set>dka</set></card>
+		<card><name id="140">Acidic Slime</name><set>commander</set></card>
+		<card><name id="281">Silklash Spider</name><set>onslaught</set></card>
+		<card><name id="281">Silklash Spider</name><set>onslaught</set></card>
+		<card><name id="116">Weatherseed Treefolk</name><set>ul</set></card>
+		<card><name id="212">Genesis</name><set>vma</set></card>
+		<card><name id="110">Rancor</name><set>ul</set></card>
+		<card><name id="110">Rancor</name><set>ul</set></card>
+		<card><name id="110">Rancor</name><set>ul</set></card>
+		<card><name id="66">Dense Foliage</name><set>weatherlight</set></card>
+		<card><name id="273">Spidersilk Armor</name><set>mm</set></card>
+		<card><name id="110">Calming Verse</name><set>prophecy</set></card>
+		<card><name id="198">Triumph of Ferocity</name><set>avr</set></card>
+		<card><name id="198">Triumph of Ferocity</name><set>avr</set></card>
+		<card><name id="198">Triumph of Ferocity</name><set>avr</set></card>
+		<card><name id="198">Triumph of Ferocity</name><set>avr</set></card>
+	</superzone>
+</deck>

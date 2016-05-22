@@ -1,0 +1,67 @@
+<deck version="0.8">
+	<meta>
+		<game>magic</game>
+	</meta>
+	<superzone name="Deck">
+		<card><name id="238">Swamp</name><set>zendikar</set></card>
+		<card><name id="238">Swamp</name><set>zendikar</set></card>
+		<card><name id="238">Swamp</name><set>zendikar</set></card>
+		<card><name id="238">Swamp</name><set>zendikar</set></card>
+		<card><name id="238">Swamp</name><set>zendikar</set></card>
+		<card><name id="238">Swamp</name><set>zendikar</set></card>
+		<card><name id="238">Swamp</name><set>zendikar</set></card>
+		<card><name id="238">Swamp</name><set>zendikar</set></card>
+		<card><name id="238">Swamp</name><set>zendikar</set></card>
+		<card><name id="238">Swamp</name><set>zendikar</set></card>
+		<card><name id="238">Swamp</name><set>zendikar</set></card>
+		<card><name id="238">Swamp</name><set>zendikar</set></card>
+		<card><name id="238">Swamp</name><set>zendikar</set></card>
+		<card><name id="238">Swamp</name><set>zendikar</set></card>
+		<card><name id="238">Swamp</name><set>zendikar</set></card>
+		<card><name id="238">Swamp</name><set>zendikar</set></card>
+		<card><name id="238">Swamp</name><set>zendikar</set></card>
+		<card><name id="238">Swamp</name><set>zendikar</set></card>
+		<card><name id="238">Swamp</name><set>zendikar</set></card>
+		<card><name id="238">Swamp</name><set>zendikar</set></card>
+		<card><name id="273">Leechridden Swamp</name><set>shadowmoor</set></card>
+		<card><name id="273">Leechridden Swamp</name><set>shadowmoor</set></card>
+		<card><name id="273">Leechridden Swamp</name><set>shadowmoor</set></card>
+		<card><name id="273">Leechridden Swamp</name><set>shadowmoor</set></card>
+		<card><name id="62">Pulse Tracker</name><set>worldwake</set></card>
+		<card><name id="62">Pulse Tracker</name><set>worldwake</set></card>
+		<card><name id="62">Pulse Tracker</name><set>worldwake</set></card>
+		<card><name id="62">Pulse Tracker</name><set>worldwake</set></card>
+		<card><name id="86">Blood Artist</name><set>avr</set></card>
+		<card><name id="86">Blood Artist</name><set>avr</set></card>
+		<card><name id="86">Blood Artist</name><set>avr</set></card>
+		<card><name id="86">Blood Artist</name><set>avr</set></card>
+		<card><name id="120">Soulcage Fiend</name><set>avr</set></card>
+		<card><name id="120">Soulcage Fiend</name><set>avr</set></card>
+		<card><name id="120">Soulcage Fiend</name><set>avr</set></card>
+		<card><name id="120">Soulcage Fiend</name><set>avr</set></card>
+		<card><name id="56">Blistergrub</name><set>som</set></card>
+		<card><name id="56">Blistergrub</name><set>som</set></card>
+		<card><name id="56">Blistergrub</name><set>som</set></card>
+		<card><name id="56">Blistergrub</name><set>som</set></card>
+		<card><name id="43">Howling Banshee</name><set>agvl</set></card>
+		<card><name id="43">Howling Banshee</name><set>agvl</set></card>
+		<card><name id="43">Howling Banshee</name><set>agvl</set></card>
+		<card><name id="43">Howling Banshee</name><set>agvl</set></card>
+		<card><name id="100">Falkenrath Noble</name><set>innistrad</set></card>
+		<card><name id="100">Falkenrath Noble</name><set>innistrad</set></card>
+		<card><name id="100">Falkenrath Noble</name><set>innistrad</set></card>
+		<card><name id="100">Falkenrath Noble</name><set>innistrad</set></card>
+		<card><name id="170">Xathrid Demon</name><set>c14</set></card>
+		<card><name id="170">Xathrid Demon</name><set>c14</set></card>
+		<card><name id="61">Exsanguinate</name><set>som</set></card>
+		<card><name id="61">Exsanguinate</name><set>som</set></card>
+		<card><name id="61">Exsanguinate</name><set>som</set></card>
+		<card><name id="61">Exsanguinate</name><set>som</set></card>
+		<card><name id="126">Grafted Wargear</name><set>fd</set></card>
+		<card><name id="126">Grafted Wargear</name><set>fd</set></card>
+		<card><name id="143">Lashwrithe</name><set>nph</set></card>
+		<card><name id="143">Lashwrithe</name><set>nph</set></card>
+		<card><name id="143">Lashwrithe</name><set>nph</set></card>
+		<card><name id="143">Lashwrithe</name><set>nph</set></card>
+	</superzone>
+</deck>

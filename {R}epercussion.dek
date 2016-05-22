@@ -1,0 +1,67 @@
+<deck version="0.8">
+	<meta>
+		<game>magic</game>
+	</meta>
+	<superzone name="Deck">
+		<card><name id="242">Mountain</name><set>zendikar</set></card>
+		<card><name id="242">Mountain</name><set>zendikar</set></card>
+		<card><name id="242">Mountain</name><set>zendikar</set></card>
+		<card><name id="242">Mountain</name><set>zendikar</set></card>
+		<card><name id="242">Mountain</name><set>zendikar</set></card>
+		<card><name id="242">Mountain</name><set>zendikar</set></card>
+		<card><name id="242">Mountain</name><set>zendikar</set></card>
+		<card><name id="242">Mountain</name><set>zendikar</set></card>
+		<card><name id="242">Mountain</name><set>zendikar</set></card>
+		<card><name id="242">Mountain</name><set>zendikar</set></card>
+		<card><name id="242">Mountain</name><set>zendikar</set></card>
+		<card><name id="242">Mountain</name><set>zendikar</set></card>
+		<card><name id="242">Mountain</name><set>zendikar</set></card>
+		<card><name id="242">Mountain</name><set>zendikar</set></card>
+		<card><name id="242">Mountain</name><set>zendikar</set></card>
+		<card><name id="242">Mountain</name><set>zendikar</set></card>
+		<card><name id="242">Mountain</name><set>zendikar</set></card>
+		<card><name id="242">Mountain</name><set>zendikar</set></card>
+		<card><name id="242">Mountain</name><set>zendikar</set></card>
+		<card><name id="242">Mountain</name><set>zendikar</set></card>
+		<card><name id="39">Forbidden Orchard</name><set>expeditions</set></card>
+		<card><name id="39">Forbidden Orchard</name><set>expeditions</set></card>
+		<card><name id="39">Forbidden Orchard</name><set>expeditions</set></card>
+		<card><name id="39">Forbidden Orchard</name><set>expeditions</set></card>
+		<card><name id="104">Humble Defector</name><set>frf</set></card>
+		<card><name id="104">Humble Defector</name><set>frf</set></card>
+		<card><name id="104">Humble Defector</name><set>frf</set></card>
+		<card><name id="104">Humble Defector</name><set>frf</set></card>
+		<card><name id="122">Varchild&apos;s War-Riders</name><set>alliances</set></card>
+		<card><name id="122">Varchild&apos;s War-Riders</name><set>alliances</set></card>
+		<card><name id="122">Varchild&apos;s War-Riders</name><set>alliances</set></card>
+		<card><name id="122">Varchild&apos;s War-Riders</name><set>alliances</set></card>
+		<card><name id="87">Faithless Looting</name><set>dka</set></card>
+		<card><name id="87">Faithless Looting</name><set>dka</set></card>
+		<card><name id="87">Faithless Looting</name><set>dka</set></card>
+		<card><name id="87">Faithless Looting</name><set>dka</set></card>
+		<card><name id="61">Flamebreak</name><set>darksteel</set></card>
+		<card><name id="61">Flamebreak</name><set>darksteel</set></card>
+		<card><name id="61">Flamebreak</name><set>darksteel</set></card>
+		<card><name id="61">Flamebreak</name><set>darksteel</set></card>
+		<card><name id="95">Repercussion</name><set>ud</set></card>
+		<card><name id="95">Repercussion</name><set>ud</set></card>
+		<card><name id="95">Repercussion</name><set>ud</set></card>
+		<card><name id="95">Repercussion</name><set>ud</set></card>
+		<card><name id="75">Slagstorm</name><set>mbs</set></card>
+		<card><name id="75">Slagstorm</name><set>mbs</set></card>
+		<card><name id="110">Outpost Siege</name><set>frf</set></card>
+		<card><name id="110">Outpost Siege</name><set>frf</set></card>
+		<card><name id="26">Fiery Confluence</name><set>c15</set></card>
+		<card><name id="26">Fiery Confluence</name><set>c15</set></card>
+		<card><name id="236">Pyromancer&apos;s Goggles</name><set>origins</set></card>
+		<card><name id="236">Pyromancer&apos;s Goggles</name><set>origins</set></card>
+		<card><name id="130">Blasphemous Act</name><set>innistrad</set></card>
+		<card><name id="130">Blasphemous Act</name><set>innistrad</set></card>
+		<card><name id="130">Blasphemous Act</name><set>innistrad</set></card>
+		<card><name id="130">Blasphemous Act</name><set>innistrad</set></card>
+		<card><name id="152">Earthquake</name><set>c15</set></card>
+		<card><name id="152">Earthquake</name><set>c15</set></card>
+		<card><name id="152">Earthquake</name><set>c15</set></card>
+		<card><name id="152">Earthquake</name><set>c15</set></card>
+	</superzone>
+</deck>

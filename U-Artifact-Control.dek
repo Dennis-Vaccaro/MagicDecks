@@ -1,0 +1,67 @@
+<deck version="0.8">
+	<meta>
+		<game>magic</game>
+	</meta>
+	<superzone name="Deck">
+		<card><name id="234">Island</name><set>zendikar</set></card>
+		<card><name id="234">Island</name><set>zendikar</set></card>
+		<card><name id="234">Island</name><set>zendikar</set></card>
+		<card><name id="234">Island</name><set>zendikar</set></card>
+		<card><name id="234">Island</name><set>zendikar</set></card>
+		<card><name id="234">Island</name><set>zendikar</set></card>
+		<card><name id="234">Island</name><set>zendikar</set></card>
+		<card><name id="234">Island</name><set>zendikar</set></card>
+		<card><name id="234">Island</name><set>zendikar</set></card>
+		<card><name id="234">Island</name><set>zendikar</set></card>
+		<card><name id="234">Island</name><set>zendikar</set></card>
+		<card><name id="234">Island</name><set>zendikar</set></card>
+		<card><name id="234">Island</name><set>zendikar</set></card>
+		<card><name id="283">Seat of the Synod</name><set>mirrodin</set></card>
+		<card><name id="283">Seat of the Synod</name><set>mirrodin</set></card>
+		<card><name id="283">Seat of the Synod</name><set>mirrodin</set></card>
+		<card><name id="283">Seat of the Synod</name><set>mirrodin</set></card>
+		<card><name id="temp238">Darksteel Citadel</name><set>mm2</set></card>
+		<card><name id="temp238">Darksteel Citadel</name><set>mm2</set></card>
+		<card><name id="temp238">Darksteel Citadel</name><set>mm2</set></card>
+		<card><name id="temp238">Darksteel Citadel</name><set>mm2</set></card>
+		<card><name id="269">Academy Ruins</name><set>ts</set></card>
+		<card><name id="143">Reliquary Tower</name><set>cfx</set></card>
+		<card><name id="143">Reliquary Tower</name><set>cfx</set></card>
+		<card><name id="143">Reliquary Tower</name><set>cfx</set></card>
+		<card><name id="34">Treasure Mage</name><set>mbs</set></card>
+		<card><name id="34">Treasure Mage</name><set>mbs</set></card>
+		<card><name id="34">Treasure Mage</name><set>mbs</set></card>
+		<card><name id="34">Treasure Mage</name><set>mbs</set></card>
+		<card><name id="33">Grand Architect</name><set>som</set></card>
+		<card><name id="33">Grand Architect</name><set>som</set></card>
+		<card><name id="33">Grand Architect</name><set>som</set></card>
+		<card><name id="33">Grand Architect</name><set>som</set></card>
+		<card><name id="49">Master of Etherium</name><set>soa</set></card>
+		<card><name id="49">Master of Etherium</name><set>soa</set></card>
+		<card><name id="49">Master of Etherium</name><set>soa</set></card>
+		<card><name id="49">Master of Etherium</name><set>soa</set></card>
+		<card><name id="31">Master Transmuter</name><set>cfx</set></card>
+		<card><name id="31">Master Transmuter</name><set>cfx</set></card>
+		<card><name id="31">Master Transmuter</name><set>cfx</set></card>
+		<card><name id="31">Master Transmuter</name><set>cfx</set></card>
+		<card><name id="47">Deadeye Navigator</name><set>avr</set></card>
+		<card><name id="223">Wurmcoil Engine</name><set>som</set></card>
+		<card><name id="223">Wurmcoil Engine</name><set>som</set></card>
+		<card><name id="223">Wurmcoil Engine</name><set>som</set></card>
+		<card><name id="223">Wurmcoil Engine</name><set>som</set></card>
+		<card><name id="165">Duplicant</name><set>mirrodin</set></card>
+		<card><name id="165">Duplicant</name><set>mirrodin</set></card>
+		<card><name id="180">Myr Battlesphere</name><set>som</set></card>
+		<card><name id="225">Trading Post</name><set>m14</set></card>
+		<card><name id="225">Trading Post</name><set>m14</set></card>
+		<card><name id="225">Trading Post</name><set>m14</set></card>
+		<card><name id="67">Thirst for Knowledge</name><set>modernmasters</set></card>
+		<card><name id="67">Thirst for Knowledge</name><set>modernmasters</set></card>
+		<card><name id="67">Thirst for Knowledge</name><set>modernmasters</set></card>
+		<card><name id="164">Unwinding Clock</name><set>nph</set></card>
+		<card><name id="205">Mind&apos;s Eye</name><set>mirrodin</set></card>
+		<card><name id="205">Mind&apos;s Eye</name><set>mirrodin</set></card>
+		<card><name id="136">Spine of Ish Sah</name><set>mbs</set></card>
+		<card><name id="136">Spine of Ish Sah</name><set>mbs</set></card>
+	</superzone>
+</deck>

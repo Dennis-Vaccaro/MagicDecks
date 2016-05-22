@@ -1,0 +1,67 @@
+<deck version="0.8">
+	<meta>
+		<game>magic</game>
+	</meta>
+	<superzone name="Deck">
+		<card><name id="234">Island</name><set>zendikar</set></card>
+		<card><name id="234">Island</name><set>zendikar</set></card>
+		<card><name id="234">Island</name><set>zendikar</set></card>
+		<card><name id="234">Island</name><set>zendikar</set></card>
+		<card><name id="234">Island</name><set>zendikar</set></card>
+		<card><name id="234">Island</name><set>zendikar</set></card>
+		<card><name id="234">Island</name><set>zendikar</set></card>
+		<card><name id="234">Island</name><set>zendikar</set></card>
+		<card><name id="234">Island</name><set>zendikar</set></card>
+		<card><name id="234">Island</name><set>zendikar</set></card>
+		<card><name id="280">Cloudpost</name><set>mirrodin</set></card>
+		<card><name id="280">Cloudpost</name><set>mirrodin</set></card>
+		<card><name id="280">Cloudpost</name><set>mirrodin</set></card>
+		<card><name id="280">Cloudpost</name><set>mirrodin</set></card>
+		<card><name id="248">Thespian&apos;s Stage</name><set>gatecrash</set></card>
+		<card><name id="248">Thespian&apos;s Stage</name><set>gatecrash</set></card>
+		<card><name id="248">Thespian&apos;s Stage</name><set>gatecrash</set></card>
+		<card><name id="248">Thespian&apos;s Stage</name><set>gatecrash</set></card>
+		<card><name id="227">Glimmerpost</name><set>som</set></card>
+		<card><name id="227">Glimmerpost</name><set>som</set></card>
+		<card><name id="227">Glimmerpost</name><set>som</set></card>
+		<card><name id="227">Glimmerpost</name><set>som</set></card>
+		<card><name id="269">Academy Ruins</name><set>ts</set></card>
+		<card><name id="143">Reliquary Tower</name><set>cfx</set></card>
+		<card><name id="34">Treasure Mage</name><set>mbs</set></card>
+		<card><name id="34">Treasure Mage</name><set>mbs</set></card>
+		<card><name id="34">Treasure Mage</name><set>mbs</set></card>
+		<card><name id="34">Treasure Mage</name><set>mbs</set></card>
+		<card><name id="245">Solemn Simulacrum</name><set>mirrodin</set></card>
+		<card><name id="245">Solemn Simulacrum</name><set>mirrodin</set></card>
+		<card><name id="223">Wurmcoil Engine</name><set>som</set></card>
+		<card><name id="223">Wurmcoil Engine</name><set>som</set></card>
+		<card><name id="223">Wurmcoil Engine</name><set>som</set></card>
+		<card><name id="223">Wurmcoil Engine</name><set>som</set></card>
+		<card><name id="30">Inkwell Leviathan</name><set>cfx</set></card>
+		<card><name id="201">Expedition Map</name><set>zendikar</set></card>
+		<card><name id="201">Expedition Map</name><set>zendikar</set></card>
+		<card><name id="201">Expedition Map</name><set>zendikar</set></card>
+		<card><name id="201">Expedition Map</name><set>zendikar</set></card>
+		<card><name id="79">Spell Burst</name><set>ts</set></card>
+		<card><name id="284">Sky Diamond</name><set>mirage</set></card>
+		<card><name id="284">Sky Diamond</name><set>mirage</set></card>
+		<card><name id="284">Sky Diamond</name><set>mirage</set></card>
+		<card><name id="284">Sky Diamond</name><set>mirage</set></card>
+		<card><name id="55">Capsize</name><set>tempest</set></card>
+		<card><name id="55">Capsize</name><set>tempest</set></card>
+		<card><name id="118">Trade Secrets</name><set>onslaught</set></card>
+		<card><name id="118">Trade Secrets</name><set>onslaught</set></card>
+		<card><name id="118">Trade Secrets</name><set>onslaught</set></card>
+		<card><name id="118">Trade Secrets</name><set>onslaught</set></card>
+		<card><name id="67">Thirst for Knowledge</name><set>modernmasters</set></card>
+		<card><name id="67">Thirst for Knowledge</name><set>modernmasters</set></card>
+		<card><name id="35">Forbid</name><set>exodus</set></card>
+		<card><name id="35">Forbid</name><set>exodus</set></card>
+		<card><name id="277">Nevinyrral&apos;s Disk</name><set>vma</set></card>
+		<card><name id="277">Nevinyrral&apos;s Disk</name><set>vma</set></card>
+		<card><name id="277">Nevinyrral&apos;s Disk</name><set>vma</set></card>
+		<card><name id="277">Nevinyrral&apos;s Disk</name><set>vma</set></card>
+		<card><name id="61">Rite of Replication</name><set>zendikar</set></card>
+		<card><name id="61">Rite of Replication</name><set>zendikar</set></card>
+	</superzone>
+</deck>

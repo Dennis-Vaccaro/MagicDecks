@@ -1,0 +1,67 @@
+<deck version="0.8">
+	<meta>
+		<game>magic</game>
+	</meta>
+	<superzone name="Deck">
+		<card><name id="351">Snow-Covered Swamp</name><set>ia</set></card>
+		<card><name id="351">Snow-Covered Swamp</name><set>ia</set></card>
+		<card><name id="351">Snow-Covered Swamp</name><set>ia</set></card>
+		<card><name id="351">Snow-Covered Swamp</name><set>ia</set></card>
+		<card><name id="351">Snow-Covered Swamp</name><set>ia</set></card>
+		<card><name id="351">Snow-Covered Swamp</name><set>ia</set></card>
+		<card><name id="351">Snow-Covered Swamp</name><set>ia</set></card>
+		<card><name id="351">Snow-Covered Swamp</name><set>ia</set></card>
+		<card><name id="351">Snow-Covered Swamp</name><set>ia</set></card>
+		<card><name id="351">Snow-Covered Swamp</name><set>ia</set></card>
+		<card><name id="351">Snow-Covered Swamp</name><set>ia</set></card>
+		<card><name id="351">Snow-Covered Swamp</name><set>ia</set></card>
+		<card><name id="351">Snow-Covered Swamp</name><set>ia</set></card>
+		<card><name id="351">Snow-Covered Swamp</name><set>ia</set></card>
+		<card><name id="351">Snow-Covered Swamp</name><set>ia</set></card>
+		<card><name id="351">Snow-Covered Swamp</name><set>ia</set></card>
+		<card><name id="351">Snow-Covered Swamp</name><set>ia</set></card>
+		<card><name id="351">Snow-Covered Swamp</name><set>ia</set></card>
+		<card><name id="351">Snow-Covered Swamp</name><set>ia</set></card>
+		<card><name id="351">Snow-Covered Swamp</name><set>ia</set></card>
+		<card><name id="286">Vault of Whispers</name><set>mirrodin</set></card>
+		<card><name id="286">Vault of Whispers</name><set>mirrodin</set></card>
+		<card><name id="286">Vault of Whispers</name><set>mirrodin</set></card>
+		<card><name id="286">Vault of Whispers</name><set>mirrodin</set></card>
+		<card><name id="151">Darksteel Myr</name><set>som</set></card>
+		<card><name id="151">Darksteel Myr</name><set>som</set></card>
+		<card><name id="151">Darksteel Myr</name><set>som</set></card>
+		<card><name id="151">Darksteel Myr</name><set>som</set></card>
+		<card><name id="104">Phylactery Lich</name><set>2013</set></card>
+		<card><name id="104">Phylactery Lich</name><set>2013</set></card>
+		<card><name id="104">Phylactery Lich</name><set>2013</set></card>
+		<card><name id="104">Phylactery Lich</name><set>2013</set></card>
+		<card><name id="220">Creepy Doll</name><set>innistrad</set></card>
+		<card><name id="220">Creepy Doll</name><set>innistrad</set></card>
+		<card><name id="220">Creepy Doll</name><set>innistrad</set></card>
+		<card><name id="220">Creepy Doll</name><set>innistrad</set></card>
+		<card><name id="264">Stuffy Doll</name><set>ts</set></card>
+		<card><name id="264">Stuffy Doll</name><set>ts</set></card>
+		<card><name id="149">Darksteel Axe</name><set>som</set></card>
+		<card><name id="149">Darksteel Axe</name><set>som</set></card>
+		<card><name id="149">Darksteel Axe</name><set>som</set></card>
+		<card><name id="149">Darksteel Axe</name><set>som</set></card>
+		<card><name id="55">Night&apos;s Whisper</name><set>fd</set></card>
+		<card><name id="55">Night&apos;s Whisper</name><set>fd</set></card>
+		<card><name id="temp97">Sign in Blood</name><set>mm2</set></card>
+		<card><name id="temp97">Sign in Blood</name><set>mm2</set></card>
+		<card><name id="temp97">Sign in Blood</name><set>mm2</set></card>
+		<card><name id="temp97">Sign in Blood</name><set>mm2</set></card>
+		<card><name id="37">Simulacrum</name><set>unlimited</set></card>
+		<card><name id="61">Exsanguinate</name><set>som</set></card>
+		<card><name id="61">Exsanguinate</name><set>som</set></card>
+		<card><name id="61">Exsanguinate</name><set>som</set></card>
+		<card><name id="61">Exsanguinate</name><set>som</set></card>
+		<card><name id="56">Withering Wisps</name><set>ia</set></card>
+		<card><name id="56">Withering Wisps</name><set>ia</set></card>
+		<card><name id="56">Withering Wisps</name><set>ia</set></card>
+		<card><name id="147">Pestilence</name><set>uz</set></card>
+		<card><name id="147">Pestilence</name><set>uz</set></card>
+		<card><name id="147">Pestilence</name><set>uz</set></card>
+		<card><name id="147">Pestilence</name><set>uz</set></card>
+	</superzone>
+</deck>

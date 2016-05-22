@@ -1,0 +1,67 @@
+<deck version="0.8">
+	<meta>
+		<game>magic</game>
+	</meta>
+	<superzone name="Deck">
+		<card><name id="238">Swamp</name><set>zendikar</set></card>
+		<card><name id="238">Swamp</name><set>zendikar</set></card>
+		<card><name id="238">Swamp</name><set>zendikar</set></card>
+		<card><name id="238">Swamp</name><set>zendikar</set></card>
+		<card><name id="238">Swamp</name><set>zendikar</set></card>
+		<card><name id="238">Swamp</name><set>zendikar</set></card>
+		<card><name id="238">Swamp</name><set>zendikar</set></card>
+		<card><name id="238">Swamp</name><set>zendikar</set></card>
+		<card><name id="238">Swamp</name><set>zendikar</set></card>
+		<card><name id="238">Swamp</name><set>zendikar</set></card>
+		<card><name id="148">Mutavault</name><set>morningtide</set></card>
+		<card><name id="148">Mutavault</name><set>morningtide</set></card>
+		<card><name id="148">Mutavault</name><set>morningtide</set></card>
+		<card><name id="148">Mutavault</name><set>morningtide</set></card>
+		<card><name id="278">Swarmyard</name><set>ts</set></card>
+		<card><name id="278">Swarmyard</name><set>ts</set></card>
+		<card><name id="278">Swarmyard</name><set>ts</set></card>
+		<card><name id="278">Swarmyard</name><set>ts</set></card>
+		<card><name id="132">Bojuka Bog</name><set>worldwake</set></card>
+		<card><name id="132">Bojuka Bog</name><set>worldwake</set></card>
+		<card><name id="132">Bojuka Bog</name><set>worldwake</set></card>
+		<card><name id="132">Bojuka Bog</name><set>worldwake</set></card>
+		<card><name id="283">Shizo, Death&apos;s Storehouse</name><set>chk</set></card>
+		<card><name id="137">Volrath&apos;s Stronghold</name><set>stronghold</set></card>
+		<card><name id="118">Typhoid Rats</name><set>m15</set></card>
+		<card><name id="118">Typhoid Rats</name><set>m15</set></card>
+		<card><name id="118">Typhoid Rats</name><set>m15</set></card>
+		<card><name id="118">Typhoid Rats</name><set>m15</set></card>
+		<card><name id="73">Pack Rat</name><set>rtr</set></card>
+		<card><name id="73">Pack Rat</name><set>rtr</set></card>
+		<card><name id="73">Pack Rat</name><set>rtr</set></card>
+		<card><name id="73">Pack Rat</name><set>rtr</set></card>
+		<card><name id="92a">Nezumi Graverobber</name><set>commander</set></card>
+		<card><name id="92a">Nezumi Graverobber</name><set>commander</set></card>
+		<card><name id="92a">Nezumi Graverobber</name><set>commander</set></card>
+		<card><name id="5">Crypt Rats</name><set>visions</set></card>
+		<card><name id="5">Crypt Rats</name><set>visions</set></card>
+		<card><name id="5">Crypt Rats</name><set>visions</set></card>
+		<card><name id="5">Crypt Rats</name><set>visions</set></card>
+		<card><name id="85">Erebos, God of the Dead</name><set>theros</set></card>
+		<card><name id="124">Marrow-Gnawer</name><set>chk</set></card>
+		<card><name id="74">Ogre Slumlord</name><set>gatecrash</set></card>
+		<card><name id="74">Ogre Slumlord</name><set>gatecrash</set></card>
+		<card><name id="74">Ogre Slumlord</name><set>gatecrash</set></card>
+		<card><name id="33">Ink-Eyes, Servant of Oni</name><set>pc2</set></card>
+		<card><name id="33">Ink-Eyes, Servant of Oni</name><set>pc2</set></card>
+		<card><name id="52">Ratcatcher</name><set>dissension</set></card>
+		<card><name id="52">Ratcatcher</name><set>dissension</set></card>
+		<card><name id="93">Patron of the Nezumi</name><set>commander</set></card>
+		<card><name id="160">Oversold Cemetery</name><set>onslaught</set></card>
+		<card><name id="160">Oversold Cemetery</name><set>onslaught</set></card>
+		<card><name id="110">Whip of Erebos</name><set>theros</set></card>
+		<card><name id="110">Whip of Erebos</name><set>theros</set></card>
+		<card><name id="143">Door of Destinies</name><set>morningtide</set></card>
+		<card><name id="199">Eldrazi Monument</name><set>zendikar</set></card>
+		<card><name id="199">Eldrazi Monument</name><set>zendikar</set></card>
+		<card><name id="199">Eldrazi Monument</name><set>zendikar</set></card>
+		<card><name id="165">Syphon Mind</name><set>c14</set></card>
+		<card><name id="165">Syphon Mind</name><set>c14</set></card>
+		<card><name id="165">Syphon Mind</name><set>c14</set></card>
+	</superzone>
+</deck>

@@ -1,0 +1,67 @@
+<deck version="0.8">
+	<meta>
+		<game>magic</game>
+	</meta>
+	<superzone name="Deck">
+		<card><name id="238">Swamp</name><set>zendikar</set></card>
+		<card><name id="238">Swamp</name><set>zendikar</set></card>
+		<card><name id="238">Swamp</name><set>zendikar</set></card>
+		<card><name id="238">Swamp</name><set>zendikar</set></card>
+		<card><name id="238">Swamp</name><set>zendikar</set></card>
+		<card><name id="238">Swamp</name><set>zendikar</set></card>
+		<card><name id="238">Swamp</name><set>zendikar</set></card>
+		<card><name id="238">Swamp</name><set>zendikar</set></card>
+		<card><name id="238">Swamp</name><set>zendikar</set></card>
+		<card><name id="238">Swamp</name><set>zendikar</set></card>
+		<card><name id="238">Swamp</name><set>zendikar</set></card>
+		<card><name id="238">Swamp</name><set>zendikar</set></card>
+		<card><name id="238">Swamp</name><set>zendikar</set></card>
+		<card><name id="238">Swamp</name><set>zendikar</set></card>
+		<card><name id="238">Swamp</name><set>zendikar</set></card>
+		<card><name id="238">Swamp</name><set>zendikar</set></card>
+		<card><name id="temp238">Darksteel Citadel</name><set>mm2</set></card>
+		<card><name id="temp238">Darksteel Citadel</name><set>mm2</set></card>
+		<card><name id="temp238">Darksteel Citadel</name><set>mm2</set></card>
+		<card><name id="temp238">Darksteel Citadel</name><set>mm2</set></card>
+		<card><name id="273">Leechridden Swamp</name><set>shadowmoor</set></card>
+		<card><name id="273">Leechridden Swamp</name><set>shadowmoor</set></card>
+		<card><name id="273">Leechridden Swamp</name><set>shadowmoor</set></card>
+		<card><name id="273">Leechridden Swamp</name><set>shadowmoor</set></card>
+		<card><name id="90">Hunted Horror</name><set>ravnica</set></card>
+		<card><name id="90">Hunted Horror</name><set>ravnica</set></card>
+		<card><name id="90">Hunted Horror</name><set>ravnica</set></card>
+		<card><name id="90">Hunted Horror</name><set>ravnica</set></card>
+		<card><name id="104">Phylactery Lich</name><set>2013</set></card>
+		<card><name id="104">Phylactery Lich</name><set>2013</set></card>
+		<card><name id="104">Phylactery Lich</name><set>2013</set></card>
+		<card><name id="104">Phylactery Lich</name><set>2013</set></card>
+		<card><name id="65">Dusk Urchins</name><set>shadowmoor</set></card>
+		<card><name id="65">Dusk Urchins</name><set>shadowmoor</set></card>
+		<card><name id="116">Vampire Nighthawk</name><set>zendikar</set></card>
+		<card><name id="116">Vampire Nighthawk</name><set>zendikar</set></card>
+		<card><name id="76">Fleshbag Marauder</name><set>soa</set></card>
+		<card><name id="76">Fleshbag Marauder</name><set>soa</set></card>
+		<card><name id="76">Fleshbag Marauder</name><set>soa</set></card>
+		<card><name id="140">Disciple of Bolas</name><set>c14</set></card>
+		<card><name id="140">Disciple of Bolas</name><set>c14</set></card>
+		<card><name id="47">Abyssal Persecutor</name><set>worldwake</set></card>
+		<card><name id="47">Abyssal Persecutor</name><set>worldwake</set></card>
+		<card><name id="114">Veilborn Ghoul</name><set>2013</set></card>
+		<card><name id="114">Veilborn Ghoul</name><set>2013</set></card>
+		<card><name id="114">Veilborn Ghoul</name><set>2013</set></card>
+		<card><name id="114">Veilborn Ghoul</name><set>2013</set></card>
+		<card><name id="170">Xathrid Demon</name><set>c14</set></card>
+		<card><name id="75">Sepulchral Primordial</name><set>gatecrash</set></card>
+		<card><name id="24">Tortured Existence</name><set>stronghold</set></card>
+		<card><name id="24">Tortured Existence</name><set>stronghold</set></card>
+		<card><name id="24">Tortured Existence</name><set>stronghold</set></card>
+		<card><name id="149">Darksteel Axe</name><set>som</set></card>
+		<card><name id="149">Darksteel Axe</name><set>som</set></card>
+		<card><name id="149">Darksteel Axe</name><set>som</set></card>
+		<card><name id="149">Darksteel Axe</name><set>som</set></card>
+		<card><name id="257">Journeyer&apos;s Kite</name><set>chk</set></card>
+		<card><name id="257">Journeyer&apos;s Kite</name><set>chk</set></card>
+		<card><name id="201">Loxodon Warhammer</name><set>mirrodin</set></card>
+		<card><name id="201">Loxodon Warhammer</name><set>mirrodin</set></card>
+	</superzone>
+</deck>

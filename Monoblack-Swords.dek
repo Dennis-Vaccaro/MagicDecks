@@ -1,0 +1,67 @@
+<deck version="0.8">
+	<meta>
+		<game>magic</game>
+	</meta>
+	<superzone name="Deck">
+		<card><name id="238">Swamp</name><set>zendikar</set></card>
+		<card><name id="238">Swamp</name><set>zendikar</set></card>
+		<card><name id="238">Swamp</name><set>zendikar</set></card>
+		<card><name id="238">Swamp</name><set>zendikar</set></card>
+		<card><name id="238">Swamp</name><set>zendikar</set></card>
+		<card><name id="238">Swamp</name><set>zendikar</set></card>
+		<card><name id="238">Swamp</name><set>zendikar</set></card>
+		<card><name id="238">Swamp</name><set>zendikar</set></card>
+		<card><name id="238">Swamp</name><set>zendikar</set></card>
+		<card><name id="238">Swamp</name><set>zendikar</set></card>
+		<card><name id="238">Swamp</name><set>zendikar</set></card>
+		<card><name id="238">Swamp</name><set>zendikar</set></card>
+		<card><name id="238">Swamp</name><set>zendikar</set></card>
+		<card><name id="238">Swamp</name><set>zendikar</set></card>
+		<card><name id="238">Swamp</name><set>zendikar</set></card>
+		<card><name id="238">Swamp</name><set>zendikar</set></card>
+		<card><name id="238">Swamp</name><set>zendikar</set></card>
+		<card><name id="238">Swamp</name><set>zendikar</set></card>
+		<card><name id="238">Swamp</name><set>zendikar</set></card>
+		<card><name id="238">Swamp</name><set>zendikar</set></card>
+		<card><name id="273">Leechridden Swamp</name><set>shadowmoor</set></card>
+		<card><name id="273">Leechridden Swamp</name><set>shadowmoor</set></card>
+		<card><name id="273">Leechridden Swamp</name><set>shadowmoor</set></card>
+		<card><name id="273">Leechridden Swamp</name><set>shadowmoor</set></card>
+		<card><name id="temp92">Reassembling Skeleton</name><set>mm2</set></card>
+		<card><name id="temp92">Reassembling Skeleton</name><set>mm2</set></card>
+		<card><name id="temp92">Reassembling Skeleton</name><set>mm2</set></card>
+		<card><name id="107">Stinkweed Imp</name><set>ravnica</set></card>
+		<card><name id="107">Stinkweed Imp</name><set>ravnica</set></card>
+		<card><name id="107">Stinkweed Imp</name><set>ravnica</set></card>
+		<card><name id="116">Vampire Nighthawk</name><set>zendikar</set></card>
+		<card><name id="116">Vampire Nighthawk</name><set>zendikar</set></card>
+		<card><name id="116">Vampire Nighthawk</name><set>zendikar</set></card>
+		<card><name id="116">Vampire Nighthawk</name><set>zendikar</set></card>
+		<card><name id="47">Abyssal Persecutor</name><set>worldwake</set></card>
+		<card><name id="47">Abyssal Persecutor</name><set>worldwake</set></card>
+		<card><name id="90a,90b">Bloodline Keeper</name><set>innistrad</set></card>
+		<card><name id="90a,90b">Bloodline Keeper</name><set>innistrad</set></card>
+		<card><name id="89">Bloodgift Demon</name><set>innistrad</set></card>
+		<card><name id="89">Bloodgift Demon</name><set>innistrad</set></card>
+		<card><name id="89">Bloodgift Demon</name><set>innistrad</set></card>
+		<card><name id="145">Grave Titan</name><set>c14</set></card>
+		<card><name id="223">Wurmcoil Engine</name><set>som</set></card>
+		<card><name id="223">Wurmcoil Engine</name><set>som</set></card>
+		<card><name id="75">Sepulchral Primordial</name><set>gatecrash</set></card>
+		<card><name id="160">Oversold Cemetery</name><set>onslaught</set></card>
+		<card><name id="138">Haunted Crossroads</name><set>mm</set></card>
+		<card><name id="temp90">Profane Command</name><set>mm2</set></card>
+		<card><name id="temp90">Profane Command</name><set>mm2</set></card>
+		<card><name id="130">Phyrexian Arena</name><set>c15</set></card>
+		<card><name id="130">Phyrexian Arena</name><set>c15</set></card>
+		<card><name id="130">Phyrexian Arena</name><set>c15</set></card>
+		<card><name id="126">Grafted Wargear</name><set>fd</set></card>
+		<card><name id="126">Grafted Wargear</name><set>fd</set></card>
+		<card><name id="126">Grafted Wargear</name><set>fd</set></card>
+		<card><name id="126">Grafted Wargear</name><set>fd</set></card>
+		<card><name id="201">Loxodon Warhammer</name><set>mirrodin</set></card>
+		<card><name id="201">Loxodon Warhammer</name><set>mirrodin</set></card>
+		<card><name id="143">Lashwrithe</name><set>nph</set></card>
+		<card><name id="143">Lashwrithe</name><set>nph</set></card>
+	</superzone>
+</deck>

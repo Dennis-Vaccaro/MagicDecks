@@ -1,0 +1,67 @@
+<deck version="0.8">
+	<meta>
+		<game>magic</game>
+	</meta>
+	<superzone name="Deck">
+		<card><name id="246">Forest</name><set>zendikar</set></card>
+		<card><name id="246">Forest</name><set>zendikar</set></card>
+		<card><name id="246">Forest</name><set>zendikar</set></card>
+		<card><name id="246">Forest</name><set>zendikar</set></card>
+		<card><name id="246">Forest</name><set>zendikar</set></card>
+		<card><name id="246">Forest</name><set>zendikar</set></card>
+		<card><name id="246">Forest</name><set>zendikar</set></card>
+		<card><name id="246">Forest</name><set>zendikar</set></card>
+		<card><name id="246">Forest</name><set>zendikar</set></card>
+		<card><name id="246">Forest</name><set>zendikar</set></card>
+		<card><name id="246">Forest</name><set>zendikar</set></card>
+		<card><name id="329">Wirewood Lodge</name><set>onslaught</set></card>
+		<card><name id="329">Wirewood Lodge</name><set>onslaught</set></card>
+		<card><name id="329">Wirewood Lodge</name><set>onslaught</set></card>
+		<card><name id="329">Wirewood Lodge</name><set>onslaught</set></card>
+		<card><name id="221">Oran-Rief, the Vastwood</name><set>zendikar</set></card>
+		<card><name id="221">Oran-Rief, the Vastwood</name><set>zendikar</set></card>
+		<card><name id="120">Pendelhaven</name><set>tsts</set></card>
+		<card><name id="106">Joraga Warcaller</name><set>worldwake</set></card>
+		<card><name id="106">Joraga Warcaller</name><set>worldwake</set></card>
+		<card><name id="106">Joraga Warcaller</name><set>worldwake</set></card>
+		<card><name id="119">Llanowar Elves</name><set>unlimited</set></card>
+		<card><name id="119">Llanowar Elves</name><set>unlimited</set></card>
+		<card><name id="119">Llanowar Elves</name><set>unlimited</set></card>
+		<card><name id="119">Llanowar Elves</name><set>unlimited</set></card>
+		<card><name id="210">Fyndhorn Elves</name><set>vma</set></card>
+		<card><name id="210">Fyndhorn Elves</name><set>vma</set></card>
+		<card><name id="210">Fyndhorn Elves</name><set>vma</set></card>
+		<card><name id="133">Wirewood Symbiote</name><set>scourge</set></card>
+		<card><name id="133">Wirewood Symbiote</name><set>scourge</set></card>
+		<card><name id="133">Wirewood Symbiote</name><set>scourge</set></card>
+		<card><name id="133">Wirewood Symbiote</name><set>scourge</set></card>
+		<card><name id="220">Imperious Perfect</name><set>lorwyn</set></card>
+		<card><name id="220">Imperious Perfect</name><set>lorwyn</set></card>
+		<card><name id="220">Imperious Perfect</name><set>lorwyn</set></card>
+		<card><name id="220">Imperious Perfect</name><set>lorwyn</set></card>
+		<card><name id="190">Elvish Archdruid</name><set>c14</set></card>
+		<card><name id="190">Elvish Archdruid</name><set>c14</set></card>
+		<card><name id="190">Elvish Archdruid</name><set>c14</set></card>
+		<card><name id="190">Elvish Archdruid</name><set>c14</set></card>
+		<card><name id="119">Ezuri, Renegade Leader</name><set>som</set></card>
+		<card><name id="119">Ezuri, Renegade Leader</name><set>som</set></card>
+		<card><name id="199">Sylvan Messenger</name><set>origins</set></card>
+		<card><name id="199">Sylvan Messenger</name><set>origins</set></card>
+		<card><name id="199">Sylvan Messenger</name><set>origins</set></card>
+		<card><name id="199">Sylvan Messenger</name><set>origins</set></card>
+		<card><name id="229">Lys Alana Huntmaster</name><set>lorwyn</set></card>
+		<card><name id="229">Lys Alana Huntmaster</name><set>lorwyn</set></card>
+		<card><name id="229">Lys Alana Huntmaster</name><set>lorwyn</set></card>
+		<card><name id="154">Masked Admirers</name><set>modernmasters</set></card>
+		<card><name id="66">Dense Foliage</name><set>weatherlight</set></card>
+		<card><name id="273">Spidersilk Armor</name><set>mm</set></card>
+		<card><name id="283">Whirlwind</name><set>uz</set></card>
+		<card><name id="283">Whirlwind</name><set>uz</set></card>
+		<card><name id="127">Slice in Twain</name><set>som</set></card>
+		<card><name id="127">Slice in Twain</name><set>som</set></card>
+		<card><name id="199">Eldrazi Monument</name><set>zendikar</set></card>
+		<card><name id="199">Eldrazi Monument</name><set>zendikar</set></card>
+		<card><name id="199">Eldrazi Monument</name><set>zendikar</set></card>
+		<card><name id="199">Eldrazi Monument</name><set>zendikar</set></card>
+	</superzone>
+</deck>

@@ -1,0 +1,67 @@
+<deck version="0.8">
+	<meta>
+		<game>magic</game>
+	</meta>
+	<superzone name="Deck">
+		<card><name id="246">Forest</name><set>zendikar</set></card>
+		<card><name id="246">Forest</name><set>zendikar</set></card>
+		<card><name id="246">Forest</name><set>zendikar</set></card>
+		<card><name id="246">Forest</name><set>zendikar</set></card>
+		<card><name id="246">Forest</name><set>zendikar</set></card>
+		<card><name id="246">Forest</name><set>zendikar</set></card>
+		<card><name id="246">Forest</name><set>zendikar</set></card>
+		<card><name id="246">Forest</name><set>zendikar</set></card>
+		<card><name id="246">Forest</name><set>zendikar</set></card>
+		<card><name id="246">Forest</name><set>zendikar</set></card>
+		<card><name id="246">Forest</name><set>zendikar</set></card>
+		<card><name id="246">Forest</name><set>zendikar</set></card>
+		<card><name id="246">Forest</name><set>zendikar</set></card>
+		<card><name id="246">Forest</name><set>zendikar</set></card>
+		<card><name id="246">Forest</name><set>zendikar</set></card>
+		<card><name id="246">Forest</name><set>zendikar</set></card>
+		<card><name id="246">Forest</name><set>zendikar</set></card>
+		<card><name id="246">Forest</name><set>zendikar</set></card>
+		<card><name id="246">Forest</name><set>zendikar</set></card>
+		<card><name id="246">Forest</name><set>zendikar</set></card>
+		<card><name id="246">Forest</name><set>zendikar</set></card>
+		<card><name id="246">Forest</name><set>zendikar</set></card>
+		<card><name id="221">Oran-Rief, the Vastwood</name><set>zendikar</set></card>
+		<card><name id="221">Oran-Rief, the Vastwood</name><set>zendikar</set></card>
+		<card><name id="325">Yavimaya Hollow</name><set>vma</set></card>
+		<card><name id="177">Sakura-Tribe Elder</name><set>conspiracy</set></card>
+		<card><name id="177">Sakura-Tribe Elder</name><set>conspiracy</set></card>
+		<card><name id="177">Sakura-Tribe Elder</name><set>conspiracy</set></card>
+		<card><name id="177">Sakura-Tribe Elder</name><set>conspiracy</set></card>
+		<card><name id="304">Wirewood Savage</name><set>onslaught</set></card>
+		<card><name id="123">Krosan Warchief</name><set>scourge</set></card>
+		<card><name id="123">Krosan Warchief</name><set>scourge</set></card>
+		<card><name id="123">Krosan Warchief</name><set>scourge</set></card>
+		<card><name id="123">Krosan Warchief</name><set>scourge</set></card>
+		<card><name id="278">Ravenous Baloth</name><set>onslaught</set></card>
+		<card><name id="278">Ravenous Baloth</name><set>onslaught</set></card>
+		<card><name id="86">Indrik Stomphowler</name><set>dissension</set></card>
+		<card><name id="86">Indrik Stomphowler</name><set>dissension</set></card>
+		<card><name id="86">Indrik Stomphowler</name><set>dissension</set></card>
+		<card><name id="283">Garruk&apos;s Packleader</name><set>m15</set></card>
+		<card><name id="283">Garruk&apos;s Packleader</name><set>m15</set></card>
+		<card><name id="188">Ursapine</name><set>ravnica</set></card>
+		<card><name id="188">Ursapine</name><set>ravnica</set></card>
+		<card><name id="125">Molder Slug</name><set>mirrodin</set></card>
+		<card><name id="116">Copperhoof Vorrac</name><set>mirrodin</set></card>
+		<card><name id="116">Copperhoof Vorrac</name><set>mirrodin</set></card>
+		<card><name id="116">Copperhoof Vorrac</name><set>mirrodin</set></card>
+		<card><name id="178">Rampaging Baloths</name><set>zendikar</set></card>
+		<card><name id="178">Rampaging Baloths</name><set>zendikar</set></card>
+		<card><name id="178">Rampaging Baloths</name><set>zendikar</set></card>
+		<card><name id="150">Spearbreaker Behemoth</name><set>soa</set></card>
+		<card><name id="150">Spearbreaker Behemoth</name><set>soa</set></card>
+		<card><name id="117">Skyshroud Claim</name><set>nemesis</set></card>
+		<card><name id="117">Skyshroud Claim</name><set>nemesis</set></card>
+		<card><name id="117">Skyshroud Claim</name><set>nemesis</set></card>
+		<card><name id="117">Skyshroud Claim</name><set>nemesis</set></card>
+		<card><name id="190">Lurking Predators</name><set>2010</set></card>
+		<card><name id="190">Lurking Predators</name><set>2010</set></card>
+		<card><name id="190">Lurking Predators</name><set>2010</set></card>
+		<card><name id="190">Lurking Predators</name><set>2010</set></card>
+	</superzone>
+</deck>

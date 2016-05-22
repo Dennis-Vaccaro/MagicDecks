@@ -1,0 +1,67 @@
+<deck version="0.8">
+	<meta>
+		<game>magic</game>
+	</meta>
+	<superzone name="Deck">
+		<card><name id="242">Mountain</name><set>zendikar</set></card>
+		<card><name id="242">Mountain</name><set>zendikar</set></card>
+		<card><name id="242">Mountain</name><set>zendikar</set></card>
+		<card><name id="242">Mountain</name><set>zendikar</set></card>
+		<card><name id="242">Mountain</name><set>zendikar</set></card>
+		<card><name id="242">Mountain</name><set>zendikar</set></card>
+		<card><name id="282">Great Furnace</name><set>mirrodin</set></card>
+		<card><name id="282">Great Furnace</name><set>mirrodin</set></card>
+		<card><name id="282">Great Furnace</name><set>mirrodin</set></card>
+		<card><name id="282">Great Furnace</name><set>mirrodin</set></card>
+		<card><name id="280">Cloudpost</name><set>mirrodin</set></card>
+		<card><name id="280">Cloudpost</name><set>mirrodin</set></card>
+		<card><name id="280">Cloudpost</name><set>mirrodin</set></card>
+		<card><name id="280">Cloudpost</name><set>mirrodin</set></card>
+		<card><name id="227">Glimmerpost</name><set>som</set></card>
+		<card><name id="227">Glimmerpost</name><set>som</set></card>
+		<card><name id="227">Glimmerpost</name><set>som</set></card>
+		<card><name id="227">Glimmerpost</name><set>som</set></card>
+		<card><name id="temp238">Darksteel Citadel</name><set>mm2</set></card>
+		<card><name id="temp238">Darksteel Citadel</name><set>mm2</set></card>
+		<card><name id="temp238">Darksteel Citadel</name><set>mm2</set></card>
+		<card><name id="temp238">Darksteel Citadel</name><set>mm2</set></card>
+		<card><name id="80">Goblin Welder</name><set>ul</set></card>
+		<card><name id="80">Goblin Welder</name><set>ul</set></card>
+		<card><name id="80">Goblin Welder</name><set>ul</set></card>
+		<card><name id="80">Goblin Welder</name><set>ul</set></card>
+		<card><name id="127">Lodestone Golem</name><set>worldwake</set></card>
+		<card><name id="127">Lodestone Golem</name><set>worldwake</set></card>
+		<card><name id="127">Lodestone Golem</name><set>worldwake</set></card>
+		<card><name id="127">Lodestone Golem</name><set>worldwake</set></card>
+		<card><name id="169">Kuldotha Forgemaster</name><set>som</set></card>
+		<card><name id="169">Kuldotha Forgemaster</name><set>som</set></card>
+		<card><name id="169">Kuldotha Forgemaster</name><set>som</set></card>
+		<card><name id="169">Kuldotha Forgemaster</name><set>som</set></card>
+		<card><name id="229">Scuttling Doom Engine</name><set>m15</set></card>
+		<card><name id="229">Scuttling Doom Engine</name><set>m15</set></card>
+		<card><name id="165">Duplicant</name><set>mirrodin</set></card>
+		<card><name id="165">Duplicant</name><set>mirrodin</set></card>
+		<card><name id="205">Steel Hellkite</name><set>som</set></card>
+		<card><name id="52">Sandstone Oracle</name><set>c15</set></card>
+		<card><name id="180">Myr Battlesphere</name><set>som</set></card>
+		<card><name id="99">Blightsteel Colossus</name><set>mbs</set></card>
+		<card><name id="199">Lightning Greaves</name><set>mirrodin</set></card>
+		<card><name id="232">Basalt Monolith</name><set>unlimited</set></card>
+		<card><name id="232">Basalt Monolith</name><set>unlimited</set></card>
+		<card><name id="232">Basalt Monolith</name><set>unlimited</set></card>
+		<card><name id="232">Basalt Monolith</name><set>unlimited</set></card>
+		<card><name id="139">Tangle Wire</name><set>nemesis</set></card>
+		<card><name id="139">Tangle Wire</name><set>nemesis</set></card>
+		<card><name id="139">Tangle Wire</name><set>nemesis</set></card>
+		<card><name id="33">Daretti, Scrap Savant</name><set>c14</set></card>
+		<card><name id="33">Daretti, Scrap Savant</name><set>c14</set></card>
+		<card><name id="33">Daretti, Scrap Savant</name><set>c14</set></card>
+		<card><name id="33">Daretti, Scrap Savant</name><set>c14</set></card>
+		<card><name id="282">Smokestack</name><set>vma</set></card>
+		<card><name id="145">Contagion Engine</name><set>som</set></card>
+		<card><name id="145">Contagion Engine</name><set>som</set></card>
+		<card><name id="270">Staff of Nin</name><set>c15</set></card>
+		<card><name id="136">Spine of Ish Sah</name><set>mbs</set></card>
+		<card><name id="144">Possessed Portal</name><set>fd</set></card>
+	</superzone>
+</deck>

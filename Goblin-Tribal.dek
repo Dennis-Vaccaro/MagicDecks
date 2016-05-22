@@ -1,0 +1,67 @@
+<deck version="0.8">
+	<meta>
+		<game>magic</game>
+	</meta>
+	<superzone name="Deck">
+		<card><name id="242">Mountain</name><set>zendikar</set></card>
+		<card><name id="242">Mountain</name><set>zendikar</set></card>
+		<card><name id="242">Mountain</name><set>zendikar</set></card>
+		<card><name id="242">Mountain</name><set>zendikar</set></card>
+		<card><name id="242">Mountain</name><set>zendikar</set></card>
+		<card><name id="242">Mountain</name><set>zendikar</set></card>
+		<card><name id="242">Mountain</name><set>zendikar</set></card>
+		<card><name id="242">Mountain</name><set>zendikar</set></card>
+		<card><name id="242">Mountain</name><set>zendikar</set></card>
+		<card><name id="242">Mountain</name><set>zendikar</set></card>
+		<card><name id="242">Mountain</name><set>zendikar</set></card>
+		<card><name id="242">Mountain</name><set>zendikar</set></card>
+		<card><name id="242">Mountain</name><set>zendikar</set></card>
+		<card><name id="242">Mountain</name><set>zendikar</set></card>
+		<card><name id="242">Mountain</name><set>zendikar</set></card>
+		<card><name id="242">Mountain</name><set>zendikar</set></card>
+		<card><name id="242">Mountain</name><set>zendikar</set></card>
+		<card><name id="242">Mountain</name><set>zendikar</set></card>
+		<card><name id="242">Mountain</name><set>zendikar</set></card>
+		<card><name id="61">Myriad Landscape</name><set>c14</set></card>
+		<card><name id="61">Myriad Landscape</name><set>c14</set></card>
+		<card><name id="61">Myriad Landscape</name><set>c14</set></card>
+		<card><name id="61">Myriad Landscape</name><set>c14</set></card>
+		<card><name id="60">Flamekin Village</name><set>c14</set></card>
+		<card><name id="60">Flamekin Village</name><set>c14</set></card>
+		<card><name id="186">Skirk Prospector</name><set>vma</set></card>
+		<card><name id="170">Mogg War Marshal</name><set>ts</set></card>
+		<card><name id="170">Mogg War Marshal</name><set>ts</set></card>
+		<card><name id="170">Mogg War Marshal</name><set>ts</set></card>
+		<card><name id="170">Mogg War Marshal</name><set>ts</set></card>
+		<card><name id="168">Goblin Matron</name><set>vma</set></card>
+		<card><name id="168">Goblin Matron</name><set>vma</set></card>
+		<card><name id="168">Goblin Matron</name><set>vma</set></card>
+		<card><name id="168">Goblin Matron</name><set>vma</set></card>
+		<card><name id="173">Goblin Warchief</name><set>vma</set></card>
+		<card><name id="173">Goblin Warchief</name><set>vma</set></card>
+		<card><name id="173">Goblin Warchief</name><set>vma</set></card>
+		<card><name id="173">Goblin Warchief</name><set>vma</set></card>
+		<card><name id="94">Gempalm Incinerator</name><set>legions</set></card>
+		<card><name id="94">Gempalm Incinerator</name><set>legions</set></card>
+		<card><name id="169">Tuktuk the Explorer</name><set>roe</set></card>
+		<card><name id="207">Goblin Sharpshooter</name><set>onslaught</set></card>
+		<card><name id="171">Goblin Ringleader</name><set>vma</set></card>
+		<card><name id="171">Goblin Ringleader</name><set>vma</set></card>
+		<card><name id="171">Goblin Ringleader</name><set>vma</set></card>
+		<card><name id="171">Goblin Ringleader</name><set>vma</set></card>
+		<card><name id="138">Krenko, Mob Boss</name><set>2013</set></card>
+		<card><name id="138">Krenko, Mob Boss</name><set>2013</set></card>
+		<card><name id="138">Krenko, Mob Boss</name><set>2013</set></card>
+		<card><name id="94">Tuktuk Scrapper</name><set>worldwake</set></card>
+		<card><name id="93">Lightning Crafter</name><set>morningtide</set></card>
+		<card><name id="103">Siege-Gang Commander</name><set>scourge</set></card>
+		<card><name id="103">Siege-Gang Commander</name><set>scourge</set></card>
+		<card><name id="103">Siege-Gang Commander</name><set>scourge</set></card>
+		<card><name id="34">Ignition Team</name><set>conspiracy</set></card>
+		<card><name id="104">Shared Animosity</name><set>morningtide</set></card>
+		<card><name id="135">Purphoros, God of the Forge</name><set>theros</set></card>
+		<card><name id="135">Purphoros, God of the Forge</name><set>theros</set></card>
+		<card><name id="199">Eldrazi Monument</name><set>zendikar</set></card>
+		<card><name id="199">Eldrazi Monument</name><set>zendikar</set></card>
+	</superzone>
+</deck>

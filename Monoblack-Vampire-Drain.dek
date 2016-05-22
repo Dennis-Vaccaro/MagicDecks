@@ -1,0 +1,67 @@
+<deck version="0.8">
+	<meta>
+		<game>magic</game>
+	</meta>
+	<superzone name="Deck">
+		<card><name id="238">Swamp</name><set>zendikar</set></card>
+		<card><name id="238">Swamp</name><set>zendikar</set></card>
+		<card><name id="238">Swamp</name><set>zendikar</set></card>
+		<card><name id="238">Swamp</name><set>zendikar</set></card>
+		<card><name id="238">Swamp</name><set>zendikar</set></card>
+		<card><name id="238">Swamp</name><set>zendikar</set></card>
+		<card><name id="238">Swamp</name><set>zendikar</set></card>
+		<card><name id="238">Swamp</name><set>zendikar</set></card>
+		<card><name id="238">Swamp</name><set>zendikar</set></card>
+		<card><name id="238">Swamp</name><set>zendikar</set></card>
+		<card><name id="238">Swamp</name><set>zendikar</set></card>
+		<card><name id="238">Swamp</name><set>zendikar</set></card>
+		<card><name id="238">Swamp</name><set>zendikar</set></card>
+		<card><name id="238">Swamp</name><set>zendikar</set></card>
+		<card><name id="238">Swamp</name><set>zendikar</set></card>
+		<card><name id="238">Swamp</name><set>zendikar</set></card>
+		<card><name id="238">Swamp</name><set>zendikar</set></card>
+		<card><name id="238">Swamp</name><set>zendikar</set></card>
+		<card><name id="238">Swamp</name><set>zendikar</set></card>
+		<card><name id="238">Swamp</name><set>zendikar</set></card>
+		<card><name id="273">Leechridden Swamp</name><set>shadowmoor</set></card>
+		<card><name id="273">Leechridden Swamp</name><set>shadowmoor</set></card>
+		<card><name id="273">Leechridden Swamp</name><set>shadowmoor</set></card>
+		<card><name id="273">Leechridden Swamp</name><set>shadowmoor</set></card>
+		<card><name id="62">Pulse Tracker</name><set>worldwake</set></card>
+		<card><name id="62">Pulse Tracker</name><set>worldwake</set></card>
+		<card><name id="62">Pulse Tracker</name><set>worldwake</set></card>
+		<card><name id="62">Pulse Tracker</name><set>worldwake</set></card>
+		<card><name id="86">Blood Artist</name><set>avr</set></card>
+		<card><name id="86">Blood Artist</name><set>avr</set></card>
+		<card><name id="86">Blood Artist</name><set>avr</set></card>
+		<card><name id="86">Blood Artist</name><set>avr</set></card>
+		<card><name id="100">Falkenrath Noble</name><set>innistrad</set></card>
+		<card><name id="100">Falkenrath Noble</name><set>innistrad</set></card>
+		<card><name id="100">Falkenrath Noble</name><set>innistrad</set></card>
+		<card><name id="100">Falkenrath Noble</name><set>innistrad</set></card>
+		<card><name id="90a,90b">Bloodline Keeper</name><set>innistrad</set></card>
+		<card><name id="90a,90b">Bloodline Keeper</name><set>innistrad</set></card>
+		<card><name id="90a,90b">Bloodline Keeper</name><set>innistrad</set></card>
+		<card><name id="100">Malakir Bloodwitch</name><set>zendikar</set></card>
+		<card><name id="100">Malakir Bloodwitch</name><set>zendikar</set></card>
+		<card><name id="100">Malakir Bloodwitch</name><set>zendikar</set></card>
+		<card><name id="100">Malakir Bloodwitch</name><set>zendikar</set></card>
+		<card><name id="54">Chancellor of the Dross</name><set>nph</set></card>
+		<card><name id="54">Chancellor of the Dross</name><set>nph</set></card>
+		<card><name id="54">Chancellor of the Dross</name><set>nph</set></card>
+		<card><name id="54">Chancellor of the Dross</name><set>nph</set></card>
+		<card><name id="61">Exsanguinate</name><set>som</set></card>
+		<card><name id="61">Exsanguinate</name><set>som</set></card>
+		<card><name id="61">Exsanguinate</name><set>som</set></card>
+		<card><name id="61">Exsanguinate</name><set>som</set></card>
+		<card><name id="130">Phyrexian Arena</name><set>c15</set></card>
+		<card><name id="130">Phyrexian Arena</name><set>c15</set></card>
+		<card><name id="130">Phyrexian Arena</name><set>c15</set></card>
+		<card><name id="130">Phyrexian Arena</name><set>c15</set></card>
+		<card><name id="84">Blood Tithe</name><set>2011</set></card>
+		<card><name id="84">Blood Tithe</name><set>2011</set></card>
+		<card><name id="84">Blood Tithe</name><set>2011</set></card>
+		<card><name id="84">Blood Tithe</name><set>2011</set></card>
+		<card><name id="56">No Mercy</name><set>ul</set></card>
+	</superzone>
+</deck>

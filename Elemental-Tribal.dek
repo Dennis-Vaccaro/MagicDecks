@@ -1,0 +1,67 @@
+<deck version="0.8">
+	<meta>
+		<game>magic</game>
+	</meta>
+	<superzone name="Deck">
+		<card><name id="242">Mountain</name><set>zendikar</set></card>
+		<card><name id="242">Mountain</name><set>zendikar</set></card>
+		<card><name id="242">Mountain</name><set>zendikar</set></card>
+		<card><name id="242">Mountain</name><set>zendikar</set></card>
+		<card><name id="242">Mountain</name><set>zendikar</set></card>
+		<card><name id="242">Mountain</name><set>zendikar</set></card>
+		<card><name id="242">Mountain</name><set>zendikar</set></card>
+		<card><name id="242">Mountain</name><set>zendikar</set></card>
+		<card><name id="242">Mountain</name><set>zendikar</set></card>
+		<card><name id="242">Mountain</name><set>zendikar</set></card>
+		<card><name id="242">Mountain</name><set>zendikar</set></card>
+		<card><name id="242">Mountain</name><set>zendikar</set></card>
+		<card><name id="242">Mountain</name><set>zendikar</set></card>
+		<card><name id="242">Mountain</name><set>zendikar</set></card>
+		<card><name id="242">Mountain</name><set>zendikar</set></card>
+		<card><name id="242">Mountain</name><set>zendikar</set></card>
+		<card><name id="242">Mountain</name><set>zendikar</set></card>
+		<card><name id="242">Mountain</name><set>zendikar</set></card>
+		<card><name id="242">Mountain</name><set>zendikar</set></card>
+		<card><name id="242">Mountain</name><set>zendikar</set></card>
+		<card><name id="60">Flamekin Village</name><set>c14</set></card>
+		<card><name id="60">Flamekin Village</name><set>c14</set></card>
+		<card><name id="60">Flamekin Village</name><set>c14</set></card>
+		<card><name id="60">Flamekin Village</name><set>c14</set></card>
+		<card><name id="167">Flamekin Harbinger</name><set>lorwyn</set></card>
+		<card><name id="167">Flamekin Harbinger</name><set>lorwyn</set></card>
+		<card><name id="167">Flamekin Harbinger</name><set>lorwyn</set></card>
+		<card><name id="167">Flamekin Harbinger</name><set>lorwyn</set></card>
+		<card><name id="temp125">Smokebraider</name><set>mm2</set></card>
+		<card><name id="temp125">Smokebraider</name><set>mm2</set></card>
+		<card><name id="temp125">Smokebraider</name><set>mm2</set></card>
+		<card><name id="temp125">Smokebraider</name><set>mm2</set></card>
+		<card><name id="temp126">Soulbright Flamekin</name><set>mm2</set></card>
+		<card><name id="109">Taurean Mauler</name><set>morningtide</set></card>
+		<card><name id="109">Taurean Mauler</name><set>morningtide</set></card>
+		<card><name id="109">Taurean Mauler</name><set>morningtide</set></card>
+		<card><name id="109">Taurean Mauler</name><set>morningtide</set></card>
+		<card><name id="112">War Elemental</name><set>mirrodin</set></card>
+		<card><name id="140">Obsidian Fireheart</name><set>zendikar</set></card>
+		<card><name id="140">Obsidian Fireheart</name><set>zendikar</set></card>
+		<card><name id="120">Ember Swallower</name><set>theros</set></card>
+		<card><name id="120">Ember Swallower</name><set>theros</set></card>
+		<card><name id="148">Malignus</name><set>avr</set></card>
+		<card><name id="148">Malignus</name><set>avr</set></card>
+		<card><name id="162">Scourge of Geier Reach</name><set>innistrad</set></card>
+		<card><name id="162">Scourge of Geier Reach</name><set>innistrad</set></card>
+		<card><name id="180">Ingot Chewer</name><set>lorwyn</set></card>
+		<card><name id="128">Magmatic Force</name><set>commander</set></card>
+		<card><name id="124">Sudden Demise</name><set>c13</set></card>
+		<card><name id="124">Sudden Demise</name><set>c13</set></card>
+		<card><name id="101">Mizzium Mortars</name><set>rtr</set></card>
+		<card><name id="101">Mizzium Mortars</name><set>rtr</set></card>
+		<card><name id="110">Outpost Siege</name><set>frf</set></card>
+		<card><name id="110">Outpost Siege</name><set>frf</set></card>
+		<card><name id="110">Outpost Siege</name><set>frf</set></card>
+		<card><name id="110">Outpost Siege</name><set>frf</set></card>
+		<card><name id="137">Chandra&apos;s Ignition</name><set>origins</set></card>
+		<card><name id="137">Chandra&apos;s Ignition</name><set>origins</set></card>
+		<card><name id="137">Chandra&apos;s Ignition</name><set>origins</set></card>
+		<card><name id="137">Chandra&apos;s Ignition</name><set>origins</set></card>
+	</superzone>
+</deck>

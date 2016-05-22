@@ -1,0 +1,67 @@
+<deck version="0.8">
+	<meta>
+		<game>magic</game>
+	</meta>
+	<superzone name="Deck">
+		<card><name id="242">Mountain</name><set>zendikar</set></card>
+		<card><name id="242">Mountain</name><set>zendikar</set></card>
+		<card><name id="242">Mountain</name><set>zendikar</set></card>
+		<card><name id="242">Mountain</name><set>zendikar</set></card>
+		<card><name id="242">Mountain</name><set>zendikar</set></card>
+		<card><name id="242">Mountain</name><set>zendikar</set></card>
+		<card><name id="242">Mountain</name><set>zendikar</set></card>
+		<card><name id="242">Mountain</name><set>zendikar</set></card>
+		<card><name id="242">Mountain</name><set>zendikar</set></card>
+		<card><name id="242">Mountain</name><set>zendikar</set></card>
+		<card><name id="242">Mountain</name><set>zendikar</set></card>
+		<card><name id="242">Mountain</name><set>zendikar</set></card>
+		<card><name id="242">Mountain</name><set>zendikar</set></card>
+		<card><name id="242">Mountain</name><set>zendikar</set></card>
+		<card><name id="242">Mountain</name><set>zendikar</set></card>
+		<card><name id="242">Mountain</name><set>zendikar</set></card>
+		<card><name id="242">Mountain</name><set>zendikar</set></card>
+		<card><name id="242">Mountain</name><set>zendikar</set></card>
+		<card><name id="242">Mountain</name><set>zendikar</set></card>
+		<card><name id="242">Mountain</name><set>zendikar</set></card>
+		<card><name id="242">Mountain</name><set>zendikar</set></card>
+		<card><name id="242">Mountain</name><set>zendikar</set></card>
+		<card><name id="242">Mountain</name><set>zendikar</set></card>
+		<card><name id="242">Mountain</name><set>zendikar</set></card>
+		<card><name id="60">Flamekin Village</name><set>c14</set></card>
+		<card><name id="137">Dragon Whisperer</name><set>dtk</set></card>
+		<card><name id="137">Dragon Whisperer</name><set>dtk</set></card>
+		<card><name id="137">Dragon Whisperer</name><set>dtk</set></card>
+		<card><name id="137">Dragon Whisperer</name><set>dtk</set></card>
+		<card><name id="34">Dualcaster Mage</name><set>c14</set></card>
+		<card><name id="34">Dualcaster Mage</name><set>c14</set></card>
+		<card><name id="34">Dualcaster Mage</name><set>c14</set></card>
+		<card><name id="34">Dualcaster Mage</name><set>c14</set></card>
+		<card><name id="35">Feldon of the Third Path</name><set>c14</set></card>
+		<card><name id="160">Flametongue Kavu</name><set>vma</set></card>
+		<card><name id="160">Flametongue Kavu</name><set>vma</set></card>
+		<card><name id="160">Flametongue Kavu</name><set>vma</set></card>
+		<card><name id="157">Pia and Kiran Nalaar</name><set>origins</set></card>
+		<card><name id="103">Siege-Gang Commander</name><set>scourge</set></card>
+		<card><name id="103">Siege-Gang Commander</name><set>scourge</set></card>
+		<card><name id="31">Warchief Giant</name><set>c15</set></card>
+		<card><name id="110">Goblin Dark-Dwellers</name><set>ogw</set></card>
+		<card><name id="160">Inferno Titan</name><set>c15</set></card>
+		<card><name id="160">Inferno Titan</name><set>c15</set></card>
+		<card><name id="52">Sandstone Oracle</name><set>c15</set></card>
+		<card><name id="101">Molten Primordial</name><set>gatecrash</set></card>
+		<card><name id="101">Mizzium Mortars</name><set>rtr</set></card>
+		<card><name id="101">Mizzium Mortars</name><set>rtr</set></card>
+		<card><name id="101">Mizzium Mortars</name><set>rtr</set></card>
+		<card><name id="101">Mizzium Mortars</name><set>rtr</set></card>
+		<card><name id="115">Twinflame</name><set>jou</set></card>
+		<card><name id="115">Twinflame</name><set>jou</set></card>
+		<card><name id="115">Twinflame</name><set>jou</set></card>
+		<card><name id="115">Twinflame</name><set>jou</set></card>
+		<card><name id="175">Mimic Vat</name><set>som</set></card>
+		<card><name id="147">Flameshadow Conjuring</name><set>origins</set></card>
+		<card><name id="212">Gratuitous Violence</name><set>onslaught</set></card>
+		<card><name id="54">Warstorm Surge</name><set>pc2</set></card>
+		<card><name id="134">Ruination</name><set>commander</set></card>
+		<card><name id="134">Ruination</name><set>commander</set></card>
+	</superzone>
+</deck>

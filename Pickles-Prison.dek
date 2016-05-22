@@ -1,0 +1,67 @@
+<deck version="0.8">
+	<meta>
+		<game>magic</game>
+	</meta>
+	<superzone name="Deck">
+		<card><name id="234">Island</name><set>zendikar</set></card>
+		<card><name id="234">Island</name><set>zendikar</set></card>
+		<card><name id="234">Island</name><set>zendikar</set></card>
+		<card><name id="234">Island</name><set>zendikar</set></card>
+		<card><name id="234">Island</name><set>zendikar</set></card>
+		<card><name id="234">Island</name><set>zendikar</set></card>
+		<card><name id="234">Island</name><set>zendikar</set></card>
+		<card><name id="234">Island</name><set>zendikar</set></card>
+		<card><name id="234">Island</name><set>zendikar</set></card>
+		<card><name id="234">Island</name><set>zendikar</set></card>
+		<card><name id="234">Island</name><set>zendikar</set></card>
+		<card><name id="234">Island</name><set>zendikar</set></card>
+		<card><name id="234">Island</name><set>zendikar</set></card>
+		<card><name id="234">Island</name><set>zendikar</set></card>
+		<card><name id="234">Island</name><set>zendikar</set></card>
+		<card><name id="234">Island</name><set>zendikar</set></card>
+		<card><name id="234">Island</name><set>zendikar</set></card>
+		<card><name id="234">Island</name><set>zendikar</set></card>
+		<card><name id="234">Island</name><set>zendikar</set></card>
+		<card><name id="234">Island</name><set>zendikar</set></card>
+		<card><name id="234">Island</name><set>zendikar</set></card>
+		<card><name id="234">Island</name><set>zendikar</set></card>
+		<card><name id="234">Island</name><set>zendikar</set></card>
+		<card><name id="234">Island</name><set>zendikar</set></card>
+		<card><name id="62">Fathom Seer</name><set>ts</set></card>
+		<card><name id="62">Fathom Seer</name><set>ts</set></card>
+		<card><name id="62">Fathom Seer</name><set>ts</set></card>
+		<card><name id="62">Fathom Seer</name><set>ts</set></card>
+		<card><name id="36">Willbender</name><set>tsts</set></card>
+		<card><name id="36">Willbender</name><set>tsts</set></card>
+		<card><name id="54">Voidmage Apprentice</name><set>legions</set></card>
+		<card><name id="54">Voidmage Apprentice</name><set>legions</set></card>
+		<card><name id="75">Lighthouse Chronologist</name><set>roe</set></card>
+		<card><name id="90">Vesuvan Shapeshifter</name><set>ts</set></card>
+		<card><name id="90">Vesuvan Shapeshifter</name><set>ts</set></card>
+		<card><name id="90">Vesuvan Shapeshifter</name><set>ts</set></card>
+		<card><name id="90">Vesuvan Shapeshifter</name><set>ts</set></card>
+		<card><name id="83">Teferi, Mage of Zhalfir</name><set>ts</set></card>
+		<card><name id="83">Teferi, Mage of Zhalfir</name><set>ts</set></card>
+		<card><name id="54">Mulldrifter</name><set>modernmasters</set></card>
+		<card><name id="54">Mulldrifter</name><set>modernmasters</set></card>
+		<card><name id="50">Brine Elemental</name><set>ts</set></card>
+		<card><name id="50">Brine Elemental</name><set>ts</set></card>
+		<card><name id="50">Brine Elemental</name><set>ts</set></card>
+		<card><name id="50">Brine Elemental</name><set>ts</set></card>
+		<card><name id="64">Counterspell</name><set>vma</set></card>
+		<card><name id="64">Counterspell</name><set>vma</set></card>
+		<card><name id="64">Counterspell</name><set>vma</set></card>
+		<card><name id="64">Counterspell</name><set>vma</set></card>
+		<card><name id="28">Arcane Denial</name><set>c13</set></card>
+		<card><name id="28">Arcane Denial</name><set>c13</set></card>
+		<card><name id="28">Arcane Denial</name><set>c13</set></card>
+		<card><name id="28">Arcane Denial</name><set>c13</set></card>
+		<card><name id="54">Frozen Aether</name><set>plc</set></card>
+		<card><name id="54">Frozen Aether</name><set>plc</set></card>
+		<card><name id="54">Frozen Aether</name><set>plc</set></card>
+		<card><name id="67">Fact or Fiction</name><set>vma</set></card>
+		<card><name id="67">Fact or Fiction</name><set>vma</set></card>
+		<card><name id="67">Fact or Fiction</name><set>vma</set></card>
+		<card><name id="67">Fact or Fiction</name><set>vma</set></card>
+	</superzone>
+</deck>

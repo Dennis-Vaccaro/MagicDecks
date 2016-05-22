@@ -1,0 +1,67 @@
+<deck version="0.8">
+	<meta>
+		<game>magic</game>
+	</meta>
+	<superzone name="Deck">
+		<card><name id="280">Cloudpost</name><set>mirrodin</set></card>
+		<card><name id="280">Cloudpost</name><set>mirrodin</set></card>
+		<card><name id="280">Cloudpost</name><set>mirrodin</set></card>
+		<card><name id="280">Cloudpost</name><set>mirrodin</set></card>
+		<card><name id="227">Glimmerpost</name><set>som</set></card>
+		<card><name id="227">Glimmerpost</name><set>som</set></card>
+		<card><name id="227">Glimmerpost</name><set>som</set></card>
+		<card><name id="227">Glimmerpost</name><set>som</set></card>
+		<card><name id="281">Vesuva</name><set>ts</set></card>
+		<card><name id="281">Vesuva</name><set>ts</set></card>
+		<card><name id="281">Vesuva</name><set>ts</set></card>
+		<card><name id="281">Vesuva</name><set>ts</set></card>
+		<card><name id="174">Dryad Arbor</name><set>fs</set></card>
+		<card><name id="136">Eye of Ugin</name><set>worldwake</set></card>
+		<card><name id="246">Forest</name><set>zendikar</set></card>
+		<card><name id="246">Forest</name><set>zendikar</set></card>
+		<card><name id="246">Forest</name><set>zendikar</set></card>
+		<card><name id="246">Forest</name><set>zendikar</set></card>
+		<card><name id="246">Forest</name><set>zendikar</set></card>
+		<card><name id="246">Forest</name><set>zendikar</set></card>
+		<card><name id="246">Forest</name><set>zendikar</set></card>
+		<card><name id="246">Forest</name><set>zendikar</set></card>
+		<card><name id="246">Forest</name><set>zendikar</set></card>
+		<card><name id="246">Forest</name><set>zendikar</set></card>
+		<card><name id="203">Overgrown Battlement</name><set>roe</set></card>
+		<card><name id="203">Overgrown Battlement</name><set>roe</set></card>
+		<card><name id="203">Overgrown Battlement</name><set>roe</set></card>
+		<card><name id="203">Overgrown Battlement</name><set>roe</set></card>
+		<card><name id="115">Axebane Guardian</name><set>rtr</set></card>
+		<card><name id="115">Axebane Guardian</name><set>rtr</set></card>
+		<card><name id="115">Axebane Guardian</name><set>rtr</set></card>
+		<card><name id="115">Axebane Guardian</name><set>rtr</set></card>
+		<card><name id="12">Ulamog, the Infinite Gyre</name><set>roe</set></card>
+		<card><name id="4">Emrakul, the Aeons Torn</name><set>roe</set></card>
+		<card><name id="4">Emrakul, the Aeons Torn</name><set>roe</set></card>
+		<card><name id="98">Crop Rotation</name><set>ul</set></card>
+		<card><name id="98">Crop Rotation</name><set>ul</set></card>
+		<card><name id="98">Crop Rotation</name><set>ul</set></card>
+		<card><name id="121">Amulet of Vigor</name><set>worldwake</set></card>
+		<card><name id="121">Amulet of Vigor</name><set>worldwake</set></card>
+		<card><name id="121">Amulet of Vigor</name><set>worldwake</set></card>
+		<card><name id="201">Expedition Map</name><set>zendikar</set></card>
+		<card><name id="201">Expedition Map</name><set>zendikar</set></card>
+		<card><name id="201">Expedition Map</name><set>zendikar</set></card>
+		<card><name id="201">Expedition Map</name><set>zendikar</set></card>
+		<card><name id="99">Explore</name><set>worldwake</set></card>
+		<card><name id="99">Explore</name><set>worldwake</set></card>
+		<card><name id="99">Explore</name><set>worldwake</set></card>
+		<card><name id="99">Explore</name><set>worldwake</set></card>
+		<card><name id="130">Sylvan Scrying</name><set>mirrodin</set></card>
+		<card><name id="130">Sylvan Scrying</name><set>mirrodin</set></card>
+		<card><name id="130">Sylvan Scrying</name><set>mirrodin</set></card>
+		<card><name id="136">Scapeshift</name><set>morningtide</set></card>
+		<card><name id="136">Scapeshift</name><set>morningtide</set></card>
+		<card><name id="136">Scapeshift</name><set>morningtide</set></card>
+		<card><name id="136">Scapeshift</name><set>morningtide</set></card>
+		<card><name id="222">Oblivion Stone</name><set>mirrodin</set></card>
+		<card><name id="222">Oblivion Stone</name><set>mirrodin</set></card>
+		<card><name id="222">Oblivion Stone</name><set>mirrodin</set></card>
+		<card><name id="222">Oblivion Stone</name><set>mirrodin</set></card>
+	</superzone>
+</deck>
