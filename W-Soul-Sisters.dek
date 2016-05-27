@@ -35,10 +35,6 @@
 		<card><name id="12">Declaration in Stone</name><set>soi</set></card>
 		<card><name id="12">Declaration in Stone</name><set>soi</set></card>
 		<card><name id="12">Declaration in Stone</name><set>soi</set></card>
-		<card><name id="3">Auriok Champion</name><set>fd</set></card>
-		<card><name id="3">Auriok Champion</name><set>fd</set></card>
-		<card><name id="3">Auriok Champion</name><set>fd</set></card>
-		<card><name id="3">Auriok Champion</name><set>fd</set></card>
 		<card><name id="84">Plains</name><set>unglued</set></card>
 		<card><name id="84">Plains</name><set>unglued</set></card>
 		<card><name id="84">Plains</name><set>unglued</set></card>
@@ -63,5 +59,9 @@
 		<card><name id="84">Plains</name><set>unglued</set></card>
 		<card><name id="84">Plains</name><set>unglued</set></card>
 		<card><name id="84">Plains</name><set>unglued</set></card>
+		<card><name id="28">Serra Ascendant</name><set>2011</set></card>
+		<card><name id="28">Serra Ascendant</name><set>2011</set></card>
+		<card><name id="28">Serra Ascendant</name><set>2011</set></card>
+		<card><name id="28">Serra Ascendant</name><set>2011</set></card>
 	</superzone>
 </deck>
