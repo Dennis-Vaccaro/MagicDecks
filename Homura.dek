@@ -1,0 +1,67 @@
+<deck version="0.8">
+	<meta>
+		<game>magic</game>
+	</meta>
+	<superzone name="Deck">
+		<card><name id="103a">Homura, Human Ascendant</name><set>sok</set></card>
+		<card><name id="103a">Homura, Human Ascendant</name><set>sok</set></card>
+		<card><name id="20">Monastery Mentor</name><set>frf</set></card>
+		<card><name id="20">Monastery Mentor</name><set>frf</set></card>
+		<card><name id="20">Monastery Mentor</name><set>frf</set></card>
+		<card><name id="20">Monastery Mentor</name><set>frf</set></card>
+		<card><name id="118">Monastery Swiftspear</name><set>ktk</set></card>
+		<card><name id="118">Monastery Swiftspear</name><set>ktk</set></card>
+		<card><name id="118">Monastery Swiftspear</name><set>ktk</set></card>
+		<card><name id="118">Monastery Swiftspear</name><set>ktk</set></card>
+		<card><name id="Fling">Fling</name><set>2012</set></card>
+		<card><name id="Fling">Fling</name><set>2012</set></card>
+		<card><name id="Fling">Fling</name><set>2012</set></card>
+		<card><name id="Fling">Fling</name><set>2012</set></card>
+		<card><name id="79">Artillerize</name><set>nph</set></card>
+		<card><name id="79">Artillerize</name><set>nph</set></card>
+		<card><name id="79">Artillerize</name><set>nph</set></card>
+		<card><name id="79">Artillerize</name><set>nph</set></card>
+		<card><name id="temp122">Lightning Bolt</name><set>mm2</set></card>
+		<card><name id="temp122">Lightning Bolt</name><set>mm2</set></card>
+		<card><name id="temp122">Lightning Bolt</name><set>mm2</set></card>
+		<card><name id="temp122">Lightning Bolt</name><set>mm2</set></card>
+		<card><name id="155">Lightning Strike</name><set>m15</set></card>
+		<card><name id="155">Lightning Strike</name><set>m15</set></card>
+		<card><name id="155">Lightning Strike</name><set>m15</set></card>
+		<card><name id="155">Lightning Strike</name><set>m15</set></card>
+		<card><name id="145">Flame Slash</name><set>roe</set></card>
+		<card><name id="145">Flame Slash</name><set>roe</set></card>
+		<card><name id="145">Flame Slash</name><set>roe</set></card>
+		<card><name id="145">Flame Slash</name><set>roe</set></card>
+		<card><name id="12">Declaration in Stone</name><set>soi</set></card>
+		<card><name id="12">Declaration in Stone</name><set>soi</set></card>
+		<card><name id="12">Declaration in Stone</name><set>soi</set></card>
+		<card><name id="12">Declaration in Stone</name><set>soi</set></card>
+		<card><name id="236">Pyromancer&apos;s Goggles</name><set>origins</set></card>
+		<card><name id="236">Pyromancer&apos;s Goggles</name><set>origins</set></card>
+		<card><name id="308">Plateau</name><set>vma</set></card>
+		<card><name id="308">Plateau</name><set>vma</set></card>
+		<card><name id="308">Plateau</name><set>vma</set></card>
+		<card><name id="308">Plateau</name><set>vma</set></card>
+		<card><name id="14">Sacred Foundry</name><set>expeditions</set></card>
+		<card><name id="14">Sacred Foundry</name><set>expeditions</set></card>
+		<card><name id="14">Sacred Foundry</name><set>expeditions</set></card>
+		<card><name id="14">Sacred Foundry</name><set>expeditions</set></card>
+		<card><name id="24">Arid Mesa</name><set>expeditions</set></card>
+		<card><name id="24">Arid Mesa</name><set>expeditions</set></card>
+		<card><name id="24">Arid Mesa</name><set>expeditions</set></card>
+		<card><name id="24">Arid Mesa</name><set>expeditions</set></card>
+		<card><name id="254">Plains</name><set>bfz</set></card>
+		<card><name id="254">Plains</name><set>bfz</set></card>
+		<card><name id="268">Mountain</name><set>bfz</set></card>
+		<card><name id="268">Mountain</name><set>bfz</set></card>
+		<card><name id="268">Mountain</name><set>bfz</set></card>
+		<card><name id="268">Mountain</name><set>bfz</set></card>
+		<card><name id="268">Mountain</name><set>bfz</set></card>
+		<card><name id="268">Mountain</name><set>bfz</set></card>
+		<card><name id="268">Mountain</name><set>bfz</set></card>
+		<card><name id="268">Mountain</name><set>bfz</set></card>
+		<card><name id="268">Mountain</name><set>bfz</set></card>
+		<card><name id="268">Mountain</name><set>bfz</set></card>
+	</superzone>
+</deck>

@@ -1,0 +1,67 @@
+<deck version="0.8">
+	<meta>
+		<game>magic</game>
+	</meta>
+	<superzone name="Deck">
+		<card><name id="23">Forsaken Wastes</name><set>mirage</set></card>
+		<card><name id="23">Forsaken Wastes</name><set>mirage</set></card>
+		<card><name id="23">Forsaken Wastes</name><set>mirage</set></card>
+		<card><name id="23">Forsaken Wastes</name><set>mirage</set></card>
+		<card><name id="72">Imp&apos;s Mischief</name><set>plc</set></card>
+		<card><name id="72">Imp&apos;s Mischief</name><set>plc</set></card>
+		<card><name id="72">Imp&apos;s Mischief</name><set>plc</set></card>
+		<card><name id="72">Imp&apos;s Mischief</name><set>plc</set></card>
+		<card><name id="13">Opalescence</name><set>ud</set></card>
+		<card><name id="13">Opalescence</name><set>ud</set></card>
+		<card><name id="13">Opalescence</name><set>ud</set></card>
+		<card><name id="13">Opalescence</name><set>ud</set></card>
+		<card><name id="102">Misdirection</name><set>conspiracy</set></card>
+		<card><name id="102">Misdirection</name><set>conspiracy</set></card>
+		<card><name id="102">Misdirection</name><set>conspiracy</set></card>
+		<card><name id="102">Misdirection</name><set>conspiracy</set></card>
+		<card><name id="68">Psychic Battle</name><set>invasion</set></card>
+		<card><name id="68">Psychic Battle</name><set>invasion</set></card>
+		<card><name id="68">Psychic Battle</name><set>invasion</set></card>
+		<card><name id="68">Psychic Battle</name><set>invasion</set></card>
+		<card><name id="131">Willbender</name><set>c14</set></card>
+		<card><name id="131">Willbender</name><set>c14</set></card>
+		<card><name id="131">Willbender</name><set>c14</set></card>
+		<card><name id="131">Willbender</name><set>c14</set></card>
+		<card><name id="104">Darksteel Plate</name><set>mbs</set></card>
+		<card><name id="104">Darksteel Plate</name><set>mbs</set></card>
+		<card><name id="104">Darksteel Plate</name><set>mbs</set></card>
+		<card><name id="104">Darksteel Plate</name><set>mbs</set></card>
+		<card><name id="54">Hive Mind</name><set>2010</set></card>
+		<card><name id="54">Hive Mind</name><set>2010</set></card>
+		<card><name id="54">Hive Mind</name><set>2010</set></card>
+		<card><name id="54">Hive Mind</name><set>2010</set></card>
+		<card><name id="1">Abuna&apos;s Chant</name><set>fd</set></card>
+		<card><name id="1">Abuna&apos;s Chant</name><set>fd</set></card>
+		<card><name id="1">Abuna&apos;s Chant</name><set>fd</set></card>
+		<card><name id="1">Abuna&apos;s Chant</name><set>fd</set></card>
+		<card><name id="323">Underground Sea</name><set>vma</set></card>
+		<card><name id="323">Underground Sea</name><set>vma</set></card>
+		<card><name id="323">Underground Sea</name><set>vma</set></card>
+		<card><name id="323">Underground Sea</name><set>vma</set></card>
+		<card><name id="322">Tundra</name><set>vma</set></card>
+		<card><name id="322">Tundra</name><set>vma</set></card>
+		<card><name id="322">Tundra</name><set>vma</set></card>
+		<card><name id="322">Tundra</name><set>vma</set></card>
+		<card><name id="313">Scrubland</name><set>vma</set></card>
+		<card><name id="313">Scrubland</name><set>vma</set></card>
+		<card><name id="313">Scrubland</name><set>vma</set></card>
+		<card><name id="313">Scrubland</name><set>vma</set></card>
+		<card><name id="6">Hallowed Fountain</name><set>expeditions</set></card>
+		<card><name id="6">Hallowed Fountain</name><set>expeditions</set></card>
+		<card><name id="6">Hallowed Fountain</name><set>expeditions</set></card>
+		<card><name id="6">Hallowed Fountain</name><set>expeditions</set></card>
+		<card><name id="11">Godless Shrine</name><set>expeditions</set></card>
+		<card><name id="11">Godless Shrine</name><set>expeditions</set></card>
+		<card><name id="11">Godless Shrine</name><set>expeditions</set></card>
+		<card><name id="11">Godless Shrine</name><set>expeditions</set></card>
+		<card><name id="7">Watery Grave</name><set>expeditions</set></card>
+		<card><name id="7">Watery Grave</name><set>expeditions</set></card>
+		<card><name id="7">Watery Grave</name><set>expeditions</set></card>
+		<card><name id="7">Watery Grave</name><set>expeditions</set></card>
+	</superzone>
+</deck>
