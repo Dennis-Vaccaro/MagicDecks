@@ -1,0 +1,67 @@
+<deck version="0.8">
+	<meta>
+		<game>magic</game>
+	</meta>
+	<superzone name="Deck">
+		<card><name id="140">Oath of Nissa</name><set>ogw</set></card>
+		<card><name id="140">Oath of Nissa</name><set>ogw</set></card>
+		<card><name id="140">Oath of Nissa</name><set>ogw</set></card>
+		<card><name id="140">Oath of Nissa</name><set>ogw</set></card>
+		<card><name id="141">Doubling Season</name><set>modernmasters</set></card>
+		<card><name id="141">Doubling Season</name><set>modernmasters</set></card>
+		<card><name id="141">Doubling Season</name><set>modernmasters</set></card>
+		<card><name id="141">Doubling Season</name><set>modernmasters</set></card>
+		<card><name id="145">Ajani, Mentor of Heroes</name><set>jou</set></card>
+		<card><name id="243a">Arlinn Kord</name><set>soi</set></card>
+		<card><name id="188">Ashiok, Nightmare Weaver</name><set>theros</set></card>
+		<card><name id="199">Nicol Bolas, Planeswalker</name><set>2013</set></card>
+		<card><name id="104">Chandra, Flamecaller</name><set>ogw</set></card>
+		<card><name id="247">Dack Fayden</name><set>vma</set></card>
+		<card><name id="9">Elspeth, Sun&apos;s Champion</name><set>theros</set></card>
+		<card><name id="210">Garruk, Apex Predator</name><set>m15</set></card>
+		<card><name id="29">Gideon, Ally of Zendikar</name><set>bfz</set></card>
+		<card><name id="31">Jace, the Mind Sculptor</name><set>worldwake</set></card>
+		<card><name id="temp4">Karn Liberated</name><set>mm2</set></card>
+		<card><name id="213">Kiora, Master of the Depths</name><set>bfz</set></card>
+		<card><name id="94">Koth of the Hammer</name><set>som</set></card>
+		<card><name id="105">Liliana of the Veil</name><set>innistrad</set></card>
+		<card><name id="247">Nahiri, the Harbinger</name><set>soi</set></card>
+		<card><name id="225">Narset Transcendent</name><set>dtk</set></card>
+		<card><name id="138">Nissa, Voice of Zendikar</name><set>ogw</set></card>
+		<card><name id="119">Ob Nixilis Reignited</name><set>bfz</set></card>
+		<card><name id="94">Ral Zarek</name><set>dragonsmaze</set></card>
+		<card><name id="230">Sarkhan Unbroken</name><set>dtk</set></card>
+		<card><name id="251">Sorin, Grim Nemesis</name><set>soi</set></card>
+		<card><name id="79">Tamiyo, the Moon Sage</name><set>avr</set></card>
+		<card><name id="19">Teferi, Temporal Archmage</name><set>c14</set></card>
+		<card><name id="1">Ugin, the Spirit Dragon</name><set>frf</set></card>
+		<card><name id="135">Venser, the Sojourner</name><set>som</set></card>
+		<card><name id="208">Vraska the Unseen</name><set>rtr</set></card>
+		<card><name id="209">Xenagos, the Reveler</name><set>theros</set></card>
+		<card><name id="321">Tropical Island</name><set>vma</set></card>
+		<card><name id="321">Tropical Island</name><set>vma</set></card>
+		<card><name id="321">Tropical Island</name><set>vma</set></card>
+		<card><name id="311">Savannah</name><set>vma</set></card>
+		<card><name id="311">Savannah</name><set>vma</set></card>
+		<card><name id="311">Savannah</name><set>vma</set></card>
+		<card><name id="324">Volcanic Island</name><set>vma</set></card>
+		<card><name id="324">Volcanic Island</name><set>vma</set></card>
+		<card><name id="323">Underground Sea</name><set>vma</set></card>
+		<card><name id="323">Underground Sea</name><set>vma</set></card>
+		<card><name id="317">Taiga</name><set>vma</set></card>
+		<card><name id="317">Taiga</name><set>vma</set></card>
+		<card><name id="317">Taiga</name><set>vma</set></card>
+		<card><name id="308">Plateau</name><set>vma</set></card>
+		<card><name id="308">Plateau</name><set>vma</set></card>
+		<card><name id="322">Tundra</name><set>vma</set></card>
+		<card><name id="322">Tundra</name><set>vma</set></card>
+		<card><name id="313">Scrubland</name><set>vma</set></card>
+		<card><name id="313">Scrubland</name><set>vma</set></card>
+		<card><name id="293">Bayou</name><set>vma</set></card>
+		<card><name id="293">Bayou</name><set>vma</set></card>
+		<card><name id="293">Bayou</name><set>vma</set></card>
+		<card><name id="291">Badlands</name><set>vma</set></card>
+		<card><name id="291">Badlands</name><set>vma</set></card>
+		<card><name id="291">Badlands</name><set>vma</set></card>
+	</superzone>
+</deck>
