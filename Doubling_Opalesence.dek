@@ -1,0 +1,67 @@
+<deck version="0.8">
+	<meta>
+		<game>magic</game>
+	</meta>
+	<superzone name="Deck">
+		<card><name id="13">Opalescence</name><set>ud</set></card>
+		<card><name id="13">Opalescence</name><set>ud</set></card>
+		<card><name id="13">Opalescence</name><set>ud</set></card>
+		<card><name id="13">Opalescence</name><set>ud</set></card>
+		<card><name id="105">Rite of Replication</name><set>c15</set></card>
+		<card><name id="105">Rite of Replication</name><set>c15</set></card>
+		<card><name id="105">Rite of Replication</name><set>c15</set></card>
+		<card><name id="105">Rite of Replication</name><set>c15</set></card>
+		<card><name id="141">Doubling Season</name><set>modernmasters</set></card>
+		<card><name id="141">Doubling Season</name><set>modernmasters</set></card>
+		<card><name id="141">Doubling Season</name><set>modernmasters</set></card>
+		<card><name id="141">Doubling Season</name><set>modernmasters</set></card>
+		<card><name id="199">Parallel Lives</name><set>innistrad</set></card>
+		<card><name id="199">Parallel Lives</name><set>innistrad</set></card>
+		<card><name id="199">Parallel Lives</name><set>innistrad</set></card>
+		<card><name id="199">Parallel Lives</name><set>innistrad</set></card>
+		<card><name id="162">Primal Vigor</name><set>c13</set></card>
+		<card><name id="162">Primal Vigor</name><set>c13</set></card>
+		<card><name id="162">Primal Vigor</name><set>c13</set></card>
+		<card><name id="162">Primal Vigor</name><set>c13</set></card>
+		<card><name id="200">Cryptolith Rite</name><set>soi</set></card>
+		<card><name id="200">Cryptolith Rite</name><set>soi</set></card>
+		<card><name id="200">Cryptolith Rite</name><set>soi</set></card>
+		<card><name id="200">Cryptolith Rite</name><set>soi</set></card>
+		<card><name id="2">Anafenza, Kin-Tree Spirit</name><set>dtk</set></card>
+		<card><name id="2">Anafenza, Kin-Tree Spirit</name><set>dtk</set></card>
+		<card><name id="191">Turntimber Ranger</name><set>zendikar</set></card>
+		<card><name id="191">Turntimber Ranger</name><set>zendikar</set></card>
+		<card><name id="191">Turntimber Ranger</name><set>zendikar</set></card>
+		<card><name id="191">Turntimber Ranger</name><set>zendikar</set></card>
+		<card><name id="51">Xenograft</name><set>nph</set></card>
+		<card><name id="51">Xenograft</name><set>nph</set></card>
+		<card><name id="234">Canopy Vista</name><set>bfz</set></card>
+		<card><name id="234">Canopy Vista</name><set>bfz</set></card>
+		<card><name id="234">Canopy Vista</name><set>bfz</set></card>
+		<card><name id="234">Canopy Vista</name><set>bfz</set></card>
+		<card><name id="241">Prairie Stream</name><set>bfz</set></card>
+		<card><name id="241">Prairie Stream</name><set>bfz</set></card>
+		<card><name id="241">Prairie Stream</name><set>bfz</set></card>
+		<card><name id="241">Prairie Stream</name><set>bfz</set></card>
+		<card><name id="274">Fortified Village</name><set>soi</set></card>
+		<card><name id="274">Fortified Village</name><set>soi</set></card>
+		<card><name id="274">Fortified Village</name><set>soi</set></card>
+		<card><name id="274">Fortified Village</name><set>soi</set></card>
+		<card><name id="278">Port Town</name><set>soi</set></card>
+		<card><name id="278">Port Town</name><set>soi</set></card>
+		<card><name id="278">Port Town</name><set>soi</set></card>
+		<card><name id="278">Port Town</name><set>soi</set></card>
+		<card><name id="252">Yavimaya Coast</name><set>origins</set></card>
+		<card><name id="252">Yavimaya Coast</name><set>origins</set></card>
+		<card><name id="252">Yavimaya Coast</name><set>origins</set></card>
+		<card><name id="252">Yavimaya Coast</name><set>origins</set></card>
+		<card><name id="78">Snapcaster Mage</name><set>innistrad</set></card>
+		<card><name id="78">Snapcaster Mage</name><set>innistrad</set></card>
+		<card><name id="78">Snapcaster Mage</name><set>innistrad</set></card>
+		<card><name id="78">Snapcaster Mage</name><set>innistrad</set></card>
+		<card><name id="271">Forest</name><set>bfz</set></card>
+		<card><name id="271">Forest</name><set>bfz</set></card>
+		<card><name id="271">Forest</name><set>bfz</set></card>
+		<card><name id="271">Forest</name><set>bfz</set></card>
+	</superzone>
+</deck>
