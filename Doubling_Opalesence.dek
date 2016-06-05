@@ -26,7 +26,6 @@
 		<card><name id="200">Cryptolith Rite</name><set>soi</set></card>
 		<card><name id="200">Cryptolith Rite</name><set>soi</set></card>
 		<card><name id="200">Cryptolith Rite</name><set>soi</set></card>
-		<card><name id="200">Cryptolith Rite</name><set>soi</set></card>
 		<card><name id="2">Anafenza, Kin-Tree Spirit</name><set>dtk</set></card>
 		<card><name id="2">Anafenza, Kin-Tree Spirit</name><set>dtk</set></card>
 		<card><name id="191">Turntimber Ranger</name><set>zendikar</set></card>
@@ -38,7 +37,6 @@
 		<card><name id="234">Canopy Vista</name><set>bfz</set></card>
 		<card><name id="234">Canopy Vista</name><set>bfz</set></card>
 		<card><name id="234">Canopy Vista</name><set>bfz</set></card>
-		<card><name id="234">Canopy Vista</name><set>bfz</set></card>
 		<card><name id="241">Prairie Stream</name><set>bfz</set></card>
 		<card><name id="241">Prairie Stream</name><set>bfz</set></card>
 		<card><name id="241">Prairie Stream</name><set>bfz</set></card>
@@ -46,8 +44,6 @@
 		<card><name id="274">Fortified Village</name><set>soi</set></card>
 		<card><name id="274">Fortified Village</name><set>soi</set></card>
 		<card><name id="274">Fortified Village</name><set>soi</set></card>
-		<card><name id="274">Fortified Village</name><set>soi</set></card>
-		<card><name id="278">Port Town</name><set>soi</set></card>
 		<card><name id="278">Port Town</name><set>soi</set></card>
 		<card><name id="278">Port Town</name><set>soi</set></card>
 		<card><name id="278">Port Town</name><set>soi</set></card>
@@ -59,6 +55,10 @@
 		<card><name id="78">Snapcaster Mage</name><set>innistrad</set></card>
 		<card><name id="78">Snapcaster Mage</name><set>innistrad</set></card>
 		<card><name id="78">Snapcaster Mage</name><set>innistrad</set></card>
+		<card><name id="271">Forest</name><set>bfz</set></card>
+		<card><name id="271">Forest</name><set>bfz</set></card>
+		<card><name id="271">Forest</name><set>bfz</set></card>
+		<card><name id="271">Forest</name><set>bfz</set></card>
 		<card><name id="271">Forest</name><set>bfz</set></card>
 		<card><name id="271">Forest</name><set>bfz</set></card>
 		<card><name id="271">Forest</name><set>bfz</set></card>
