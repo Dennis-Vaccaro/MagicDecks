@@ -1,0 +1,67 @@
+<deck version="0.8">
+	<meta>
+		<game>magic</game>
+	</meta>
+	<superzone name="Deck">
+		<card><name id="78">Animate Dead</name><set>ema</set></card>
+		<card><name id="78">Animate Dead</name><set>ema</set></card>
+		<card><name id="78">Animate Dead</name><set>ema</set></card>
+		<card><name id="78">Animate Dead</name><set>ema</set></card>
+		<card><name id="154">Worldgorger Dragon</name><set>ema</set></card>
+		<card><name id="154">Worldgorger Dragon</name><set>ema</set></card>
+		<card><name id="154">Worldgorger Dragon</name><set>ema</set></card>
+		<card><name id="154">Worldgorger Dragon</name><set>ema</set></card>
+		<card><name id="116a">Heir of Falkenrath</name><set>soi</set></card>
+		<card><name id="116a">Heir of Falkenrath</name><set>soi</set></card>
+		<card><name id="116a">Heir of Falkenrath</name><set>soi</set></card>
+		<card><name id="116a">Heir of Falkenrath</name><set>soi</set></card>
+		<card><name id="56">Fireball</name><set>ajvc</set></card>
+		<card><name id="56">Fireball</name><set>ajvc</set></card>
+		<card><name id="56">Fireball</name><set>ajvc</set></card>
+		<card><name id="136">Keldon Marauders</name><set>ema</set></card>
+		<card><name id="136">Keldon Marauders</name><set>ema</set></card>
+		<card><name id="136">Keldon Marauders</name><set>ema</set></card>
+		<card><name id="temp79">Dismember</name><set>mm2</set></card>
+		<card><name id="temp79">Dismember</name><set>mm2</set></card>
+		<card><name id="temp79">Dismember</name><set>mm2</set></card>
+		<card><name id="temp79">Dismember</name><set>mm2</set></card>
+		<card><name id="231">Terminate</name><set>commander</set></card>
+		<card><name id="231">Terminate</name><set>commander</set></card>
+		<card><name id="231">Terminate</name><set>commander</set></card>
+		<card><name id="170">Lightning Axe</name><set>soi</set></card>
+		<card><name id="170">Lightning Axe</name><set>soi</set></card>
+		<card><name id="170">Lightning Axe</name><set>soi</set></card>
+		<card><name id="291">Badlands</name><set>vma</set></card>
+		<card><name id="291">Badlands</name><set>vma</set></card>
+		<card><name id="291">Badlands</name><set>vma</set></card>
+		<card><name id="291">Badlands</name><set>vma</set></card>
+		<card><name id="238">Blood Crypt</name><set>rtr</set></card>
+		<card><name id="238">Blood Crypt</name><set>rtr</set></card>
+		<card><name id="238">Blood Crypt</name><set>rtr</set></card>
+		<card><name id="238">Blood Crypt</name><set>rtr</set></card>
+		<card><name id="230">Bloodstained Mire</name><set>ktk</set></card>
+		<card><name id="230">Bloodstained Mire</name><set>ktk</set></card>
+		<card><name id="230">Bloodstained Mire</name><set>ktk</set></card>
+		<card><name id="230">Bloodstained Mire</name><set>ktk</set></card>
+		<card><name id="247">Smoldering Marsh</name><set>bfz</set></card>
+		<card><name id="247">Smoldering Marsh</name><set>bfz</set></card>
+		<card><name id="247">Smoldering Marsh</name><set>bfz</set></card>
+		<card><name id="264">Swamp</name><set>bfz</set></card>
+		<card><name id="264">Swamp</name><set>bfz</set></card>
+		<card><name id="264">Swamp</name><set>bfz</set></card>
+		<card><name id="268">Mountain</name><set>bfz</set></card>
+		<card><name id="268">Mountain</name><set>bfz</set></card>
+		<card><name id="268">Mountain</name><set>bfz</set></card>
+		<card><name id="Diabolic_Tutor">Diabolic Tutor</name><set>2012</set></card>
+		<card><name id="Diabolic_Tutor">Diabolic Tutor</name><set>2012</set></card>
+		<card><name id="Diabolic_Tutor">Diabolic Tutor</name><set>2012</set></card>
+		<card><name id="Diabolic_Tutor">Diabolic Tutor</name><set>2012</set></card>
+		<card><name id="100">Nightmare Void</name><set>ravnica</set></card>
+		<card><name id="100">Nightmare Void</name><set>ravnica</set></card>
+		<card><name id="100">Nightmare Void</name><set>ravnica</set></card>
+		<card><name id="87">Entomb</name><set>ema</set></card>
+		<card><name id="87">Entomb</name><set>ema</set></card>
+		<card><name id="87">Entomb</name><set>ema</set></card>
+		<card><name id="87">Entomb</name><set>ema</set></card>
+	</superzone>
+</deck>
