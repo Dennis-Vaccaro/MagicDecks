@@ -1,0 +1,47 @@
+<deck version="0.8">
+	<meta>
+		<game>magic</game>
+	</meta>
+	<superzone name="Deck">
+		<card><name id="210a">Hinterland Logger</name><set>soi</set></card>
+		<card><name id="210a">Hinterland Logger</name><set>soi</set></card>
+		<card><name id="169a">Kessig Forgemaster</name><set>soi</set></card>
+		<card><name id="35">Puncturing Light</name><set>soi</set></card>
+		<card><name id="223">Rabid Bite</name><set>soi</set></card>
+		<card><name id="238">Veteran Cathar</name><set>soi</set></card>
+		<card><name id="1">Always Watching</name><set>soi</set></card>
+		<card><name id="3">Angelic Purge</name><set>soi</set></card>
+		<card><name id="3">Angelic Purge</name><set>soi</set></card>
+		<card><name id="3">Angelic Purge</name><set>soi</set></card>
+		<card><name id="11">Dauntless Cathar</name><set>soi</set></card>
+		<card><name id="243a">Arlinn Kord</name><set>soi</set></card>
+		<card><name id="195">Briarbridge Patrol</name><set>soi</set></card>
+		<card><name id="150">Dance with Devils</name><set>soi</set></card>
+		<card><name id="150">Dance with Devils</name><set>soi</set></card>
+		<card><name id="213">Intrepid Provisioner</name><set>soi</set></card>
+		<card><name id="229a">Solitary Hunter</name><set>soi</set></card>
+		<card><name id="191">Voldaren Duelist</name><set>soi</set></card>
+		<card><name id="5a">Archangel Avacyn</name><set>soi</set></card>
+		<card><name id="201">Cult of the Waxing Moon</name><set>soi</set></card>
+		<card><name id="166">Incorrigible Youths</name><set>soi</set></card>
+		<card><name id="36">Reaper of Flight Moonsilver</name><set>soi</set></card>
+		<card><name id="283">Plains</name><set>soi</set></card>
+		<card><name id="283">Plains</name><set>soi</set></card>
+		<card><name id="283">Plains</name><set>soi</set></card>
+		<card><name id="283">Plains</name><set>soi</set></card>
+		<card><name id="283">Plains</name><set>soi</set></card>
+		<card><name id="283">Plains</name><set>soi</set></card>
+		<card><name id="292">Mountain</name><set>soi</set></card>
+		<card><name id="292">Mountain</name><set>soi</set></card>
+		<card><name id="292">Mountain</name><set>soi</set></card>
+		<card><name id="292">Mountain</name><set>soi</set></card>
+		<card><name id="292">Mountain</name><set>soi</set></card>
+		<card><name id="295">Forest</name><set>soi</set></card>
+		<card><name id="295">Forest</name><set>soi</set></card>
+		<card><name id="295">Forest</name><set>soi</set></card>
+		<card><name id="295">Forest</name><set>soi</set></card>
+		<card><name id="295">Forest</name><set>soi</set></card>
+		<card><name id="295">Forest</name><set>soi</set></card>
+		<card><name id="156">Fiery Temper</name><set>soi</set></card>
+	</superzone>
+</deck>
